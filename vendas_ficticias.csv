@@ -1,0 +1,1501 @@
+id_venda,data,uf,cidade,categoria,produto,quantidade,preco_unitario,valor_total,vendedor,canal
+1,2025-01-01,PR,Londrina,Eletrônicos,Carregador Portátil,1,95.16,95.16,Felipe Costa,Marketplace
+2,2025-01-01,BA,Feira de Santana,Casa,Aspirador Robô,1,963.78,963.78,Ana Souza,Loja física
+3,2025-01-01,SP,São Paulo,Papelaria,Mochila Escolar,2,135.83,271.66,Elaine Rocha,Loja física
+4,2025-01-02,SP,Santos,Casa,Aspirador Robô,1,968.02,968.02,Carla Mendes,Marketplace
+5,2025-01-02,BA,Salvador,Esporte,Tapete de Yoga,1,80.3,80.3,Carla Mendes,Marketplace
+6,2025-01-03,PR,Londrina,Casa,Jogo de Panelas,5,277.74,1388.7,Elaine Rocha,Loja física
+7,2025-01-03,SP,Santos,Papelaria,Mochila Escolar,1,134.1,134.1,Bruno Lima,E-commerce
+8,2025-01-04,SP,Santos,Papelaria,Caderno Universitário,2,24.27,48.54,Felipe Costa,Loja física
+9,2025-01-06,RJ,Niterói,Eletrônicos,Caixa de Som,1,221.65,221.65,Bruno Lima,E-commerce
+10,2025-01-06,SP,São Paulo,Casa,Air Fryer,1,401.41,401.41,Ana Souza,Marketplace
+11,2025-01-07,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,2,146.49,292.98,Carla Mendes,Marketplace
+12,2025-01-08,SP,São Paulo,Casa,Jogo de Panelas,1,251.14,251.14,Diego Alves,Marketplace
+13,2025-01-09,RJ,Niterói,Papelaria,Agenda 2026,1,37.24,37.24,Elaine Rocha,Loja física
+14,2025-01-09,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,3,389.44,1168.32,Ana Souza,E-commerce
+15,2025-01-09,SP,São Paulo,Esporte,Tênis de Corrida,2,291.52,583.04,Carla Mendes,Loja física
+16,2025-01-10,RS,Porto Alegre,Esporte,Tapete de Yoga,2,74.84,149.68,Bruno Lima,E-commerce
+17,2025-01-10,RJ,Niterói,Papelaria,Kit Canetas,2,19.64,39.28,Diego Alves,Marketplace
+18,2025-01-10,SP,São Paulo,Eletrônicos,Fone Bluetooth,3,142.97,428.91,Diego Alves,Marketplace
+19,2025-01-10,MG,Uberlândia,Eletrônicos,Caixa de Som,1,233.03,233.03,Ana Souza,Loja física
+20,2025-01-12,MG,Belo Horizonte,Esporte,Tapete de Yoga,2,75.78,151.56,Felipe Costa,Marketplace
+21,2025-01-13,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,1,76.31,76.31,Bruno Lima,Loja física
+22,2025-01-13,PR,Curitiba,Papelaria,Caderno Universitário,2,24.63,49.26,Diego Alves,E-commerce
+23,2025-01-13,MG,Belo Horizonte,Casa,Liquidificador,1,183.85,183.85,Diego Alves,E-commerce
+24,2025-01-14,MG,Belo Horizonte,Papelaria,Agenda 2026,5,39.25,196.25,Felipe Costa,E-commerce
+25,2025-01-14,PR,Curitiba,Eletrônicos,Carregador Portátil,1,94.97,94.97,Bruno Lima,E-commerce
+26,2025-01-14,PR,Curitiba,Casa,Liquidificador,1,187.68,187.68,Felipe Costa,Marketplace
+27,2025-01-14,SP,Campinas,Esporte,Bola de Futebol,5,105.79,528.95,Elaine Rocha,Marketplace
+28,2025-01-15,PR,Londrina,Esporte,Bola de Futebol,2,93.8,187.6,Bruno Lima,E-commerce
+29,2025-01-15,RS,Caxias do Sul,Esporte,Tênis de Corrida,3,279.02,837.06,Elaine Rocha,Loja física
+30,2025-01-16,SP,São Paulo,Papelaria,Caderno Universitário,1,23.6,23.6,Felipe Costa,E-commerce
+31,2025-01-17,RJ,Niterói,Eletrônicos,Carregador Portátil,1,96.87,96.87,Carla Mendes,Loja física
+32,2025-01-17,SP,São Paulo,Papelaria,Kit Canetas,2,20.64,41.28,Elaine Rocha,Marketplace
+33,2025-01-18,MG,Belo Horizonte,Papelaria,Agenda 2026,1,38.2,38.2,Felipe Costa,Marketplace
+34,2025-01-19,RS,Porto Alegre,Esporte,Tênis de Corrida,1,294.32,294.32,Diego Alves,E-commerce
+35,2025-01-19,SP,Santos,Eletrônicos,Carregador Portátil,1,85.16,85.16,Felipe Costa,Marketplace
+36,2025-01-19,MG,Belo Horizonte,Papelaria,Caderno Universitário,1,25.04,25.04,Ana Souza,Marketplace
+37,2025-01-20,RJ,Rio de Janeiro,Papelaria,Agenda 2026,2,40.37,80.74,Diego Alves,E-commerce
+38,2025-01-20,BA,Salvador,Eletrônicos,Fone Bluetooth,1,153.85,153.85,Felipe Costa,E-commerce
+39,2025-01-20,SP,Santos,Papelaria,Mochila Escolar,1,120.88,120.88,Ana Souza,E-commerce
+40,2025-01-20,PR,Londrina,Eletrônicos,Smartwatch,3,364.59,1093.77,Elaine Rocha,Marketplace
+41,2025-01-20,BA,Salvador,Esporte,Garrafa Térmica,2,63.79,127.58,Elaine Rocha,Marketplace
+42,2025-01-20,SP,Santos,Casa,Air Fryer,1,384.63,384.63,Felipe Costa,Marketplace
+43,2025-01-21,PR,Curitiba,Casa,Jogo de Panelas,4,258.25,1033.0,Bruno Lima,E-commerce
+44,2025-01-21,SP,São Paulo,Esporte,Bola de Futebol,2,97.99,195.98,Diego Alves,Marketplace
+45,2025-01-23,SP,São Paulo,Papelaria,Mochila Escolar,1,122.11,122.11,Ana Souza,Loja física
+46,2025-01-23,SP,Santos,Casa,Air Fryer,3,421.12,1263.36,Ana Souza,E-commerce
+47,2025-01-23,SP,Santos,Papelaria,Caderno Universitário,1,26.24,26.24,Ana Souza,Loja física
+48,2025-01-25,MG,Uberlândia,Papelaria,Mochila Escolar,5,137.47,687.35,Carla Mendes,E-commerce
+49,2025-01-25,RS,Caxias do Sul,Casa,Aspirador Robô,4,853.68,3414.72,Felipe Costa,E-commerce
+50,2025-01-25,MG,Uberlândia,Eletrônicos,Carregador Portátil,3,95.95,287.85,Felipe Costa,E-commerce
+51,2025-01-25,MG,Belo Horizonte,Casa,Air Fryer,1,412.28,412.28,Elaine Rocha,Loja física
+52,2025-01-26,BA,Feira de Santana,Esporte,Tênis de Corrida,1,320.34,320.34,Diego Alves,Loja física
+53,2025-01-27,PR,Londrina,Casa,Liquidificador,1,172.15,172.15,Ana Souza,Marketplace
+54,2025-01-27,SP,São Paulo,Papelaria,Mochila Escolar,1,139.04,139.04,Elaine Rocha,Loja física
+55,2025-01-28,SP,Santos,Esporte,Bola de Futebol,1,97.4,97.4,Bruno Lima,E-commerce
+56,2025-01-29,SP,São Paulo,Eletrônicos,Fone Bluetooth,1,142.99,142.99,Carla Mendes,Loja física
+57,2025-01-29,RS,Caxias do Sul,Casa,Air Fryer,4,381.16,1524.64,Felipe Costa,Loja física
+58,2025-01-29,PR,Curitiba,Papelaria,Agenda 2026,1,42.74,42.74,Bruno Lima,Marketplace
+59,2025-01-29,SP,Santos,Esporte,Bola de Futebol,4,104.42,417.68,Ana Souza,Loja física
+60,2025-01-30,BA,Salvador,Casa,Aspirador Robô,1,833.77,833.77,Elaine Rocha,Marketplace
+61,2025-01-30,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,2,402.78,805.56,Carla Mendes,E-commerce
+62,2025-01-31,SP,São Paulo,Eletrônicos,Caixa de Som,5,226.17,1130.85,Diego Alves,Marketplace
+63,2025-02-02,BA,Feira de Santana,Eletrônicos,Smartwatch,1,370.71,370.71,Ana Souza,E-commerce
+64,2025-02-02,SP,São Paulo,Casa,Aspirador Robô,4,880.94,3523.76,Diego Alves,E-commerce
+65,2025-02-02,BA,Feira de Santana,Eletrônicos,Smartwatch,4,370.27,1481.08,Diego Alves,E-commerce
+66,2025-02-03,SP,São Paulo,Casa,Liquidificador,3,189.62,568.86,Diego Alves,E-commerce
+67,2025-02-03,SP,Santos,Papelaria,Agenda 2026,1,37.16,37.16,Carla Mendes,Marketplace
+68,2025-02-04,SP,Santos,Eletrônicos,Smartwatch,3,361.74,1085.22,Ana Souza,E-commerce
+69,2025-02-05,PR,Londrina,Eletrônicos,Smartwatch,1,418.85,418.85,Felipe Costa,Loja física
+70,2025-02-05,SP,Campinas,Casa,Liquidificador,2,176.97,353.94,Ana Souza,E-commerce
+71,2025-02-05,MG,Uberlândia,Eletrônicos,Carregador Portátil,2,97.05,194.1,Diego Alves,Marketplace
+72,2025-02-05,MG,Uberlândia,Esporte,Bola de Futebol,2,107.49,214.98,Carla Mendes,Marketplace
+73,2025-02-05,MG,Uberlândia,Casa,Jogo de Panelas,5,257.76,1288.8,Elaine Rocha,E-commerce
+74,2025-02-06,SP,São Paulo,Esporte,Tênis de Corrida,1,318.49,318.49,Bruno Lima,E-commerce
+75,2025-02-06,BA,Salvador,Esporte,Bola de Futebol,1,92.58,92.58,Ana Souza,Loja física
+76,2025-02-07,SP,Campinas,Eletrônicos,Caixa de Som,3,206.47,619.41,Felipe Costa,Marketplace
+77,2025-02-07,SP,São Paulo,Esporte,Garrafa Térmica,1,58.9,58.9,Diego Alves,Marketplace
+78,2025-02-07,SP,São Paulo,Esporte,Garrafa Térmica,1,60.87,60.87,Bruno Lima,Loja física
+79,2025-02-08,SP,São Paulo,Casa,Jogo de Panelas,1,266.98,266.98,Diego Alves,Loja física
+80,2025-02-08,SP,Santos,Papelaria,Caderno Universitário,1,25.27,25.27,Ana Souza,Marketplace
+81,2025-02-08,BA,Salvador,Esporte,Tapete de Yoga,3,81.26,243.78,Bruno Lima,E-commerce
+82,2025-02-09,SP,São Paulo,Papelaria,Mochila Escolar,3,132.34,397.02,Diego Alves,Loja física
+83,2025-02-09,BA,Salvador,Casa,Aspirador Robô,3,877.37,2632.11,Bruno Lima,Loja física
+84,2025-02-09,RJ,Niterói,Casa,Jogo de Panelas,2,249.5,499.0,Felipe Costa,E-commerce
+85,2025-02-10,RJ,Niterói,Papelaria,Caderno Universitário,2,23.82,47.64,Carla Mendes,Loja física
+86,2025-02-10,RS,Caxias do Sul,Papelaria,Agenda 2026,1,39.41,39.41,Felipe Costa,Marketplace
+87,2025-02-10,SP,Santos,Papelaria,Mochila Escolar,2,129.69,259.38,Ana Souza,E-commerce
+88,2025-02-11,PR,Curitiba,Esporte,Bola de Futebol,1,106.55,106.55,Elaine Rocha,E-commerce
+89,2025-02-12,SP,Campinas,Casa,Jogo de Panelas,1,257.05,257.05,Bruno Lima,Loja física
+90,2025-02-13,SP,Santos,Eletrônicos,Carregador Portátil,2,96.0,192.0,Felipe Costa,E-commerce
+91,2025-02-13,PR,Curitiba,Papelaria,Agenda 2026,1,40.78,40.78,Ana Souza,Marketplace
+92,2025-02-13,MG,Belo Horizonte,Casa,Air Fryer,1,376.95,376.95,Diego Alves,Loja física
+93,2025-02-14,BA,Salvador,Eletrônicos,Carregador Portátil,2,95.92,191.84,Carla Mendes,Loja física
+94,2025-02-14,SP,Santos,Casa,Jogo de Panelas,1,244.5,244.5,Felipe Costa,Loja física
+95,2025-02-14,RS,Porto Alegre,Casa,Jogo de Panelas,4,246.35,985.4,Felipe Costa,Loja física
+96,2025-02-15,SP,São Paulo,Casa,Jogo de Panelas,1,274.71,274.71,Bruno Lima,Marketplace
+97,2025-02-16,RS,Caxias do Sul,Casa,Aspirador Robô,1,915.99,915.99,Felipe Costa,Marketplace
+98,2025-02-16,SP,Santos,Eletrônicos,Carregador Portátil,2,84.0,168.0,Bruno Lima,Marketplace
+99,2025-02-16,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,2,121.04,242.08,Elaine Rocha,E-commerce
+100,2025-02-18,BA,Feira de Santana,Papelaria,Caderno Universitário,1,26.09,26.09,Diego Alves,Marketplace
+101,2025-02-19,PR,Curitiba,Casa,Jogo de Panelas,1,276.9,276.9,Ana Souza,E-commerce
+102,2025-02-20,MG,Uberlândia,Casa,Air Fryer,3,427.86,1283.58,Elaine Rocha,Marketplace
+103,2025-02-20,RJ,Niterói,Papelaria,Kit Canetas,1,18.59,18.59,Elaine Rocha,Loja física
+104,2025-02-22,RS,Caxias do Sul,Papelaria,Caderno Universitário,1,25.21,25.21,Felipe Costa,E-commerce
+105,2025-02-22,SP,Campinas,Esporte,Tênis de Corrida,1,293.45,293.45,Elaine Rocha,Marketplace
+106,2025-02-22,MG,Uberlândia,Eletrônicos,Carregador Portátil,1,89.68,89.68,Ana Souza,E-commerce
+107,2025-02-23,RS,Porto Alegre,Esporte,Bola de Futebol,3,96.69,290.07,Bruno Lima,Loja física
+108,2025-02-23,SP,São Paulo,Eletrônicos,Fone Bluetooth,1,160.62,160.62,Carla Mendes,Marketplace
+109,2025-02-23,PR,Londrina,Eletrônicos,Carregador Portátil,2,84.07,168.14,Carla Mendes,E-commerce
+110,2025-02-24,BA,Feira de Santana,Casa,Air Fryer,1,401.05,401.05,Elaine Rocha,Marketplace
+111,2025-02-24,BA,Salvador,Esporte,Garrafa Térmica,3,59.9,179.7,Diego Alves,Marketplace
+112,2025-02-24,SP,São Paulo,Casa,Aspirador Robô,2,927.36,1854.72,Felipe Costa,Marketplace
+113,2025-02-24,BA,Salvador,Esporte,Garrafa Térmica,1,56.98,56.98,Elaine Rocha,Marketplace
+114,2025-02-25,SP,Campinas,Eletrônicos,Fone Bluetooth,1,144.2,144.2,Felipe Costa,E-commerce
+115,2025-02-25,SP,Campinas,Eletrônicos,Carregador Portátil,3,91.26,273.78,Elaine Rocha,E-commerce
+116,2025-02-25,SP,Campinas,Eletrônicos,Carregador Portátil,2,94.56,189.12,Diego Alves,Loja física
+117,2025-02-25,BA,Feira de Santana,Casa,Jogo de Panelas,1,243.62,243.62,Elaine Rocha,E-commerce
+118,2025-02-25,SP,Campinas,Papelaria,Mochila Escolar,1,122.93,122.93,Diego Alves,E-commerce
+119,2025-02-26,SP,São Paulo,Esporte,Tênis de Corrida,1,302.42,302.42,Diego Alves,Marketplace
+120,2025-02-27,SP,São Paulo,Papelaria,Mochila Escolar,1,122.55,122.55,Carla Mendes,Loja física
+121,2025-02-27,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,1,26.33,26.33,Bruno Lima,Marketplace
+122,2025-02-28,RS,Porto Alegre,Casa,Air Fryer,2,405.07,810.14,Bruno Lima,E-commerce
+123,2025-03-01,SP,Campinas,Casa,Liquidificador,1,182.1,182.1,Ana Souza,Loja física
+124,2025-03-01,SP,Santos,Eletrônicos,Fone Bluetooth,3,155.46,466.38,Elaine Rocha,Loja física
+125,2025-03-02,MG,Uberlândia,Casa,Air Fryer,1,412.62,412.62,Ana Souza,E-commerce
+126,2025-03-02,SP,Santos,Papelaria,Mochila Escolar,1,130.69,130.69,Carla Mendes,Loja física
+127,2025-03-02,RJ,Niterói,Eletrônicos,Fone Bluetooth,1,145.14,145.14,Ana Souza,Loja física
+128,2025-03-03,MG,Uberlândia,Eletrônicos,Caixa de Som,2,214.75,429.5,Diego Alves,Marketplace
+129,2025-03-04,PR,Curitiba,Esporte,Bola de Futebol,4,102.85,411.4,Ana Souza,Loja física
+130,2025-03-05,RJ,Rio de Janeiro,Casa,Jogo de Panelas,1,249.96,249.96,Diego Alves,Marketplace
+131,2025-03-06,SP,São Paulo,Papelaria,Agenda 2026,2,40.4,80.8,Carla Mendes,E-commerce
+132,2025-03-06,MG,Belo Horizonte,Papelaria,Kit Canetas,3,21.44,64.32,Diego Alves,Marketplace
+133,2025-03-07,SP,Santos,Casa,Liquidificador,2,165.71,331.42,Ana Souza,Loja física
+134,2025-03-07,SP,Santos,Esporte,Tapete de Yoga,3,85.92,257.76,Ana Souza,Marketplace
+135,2025-03-08,BA,Feira de Santana,Papelaria,Agenda 2026,2,41.35,82.7,Carla Mendes,E-commerce
+136,2025-03-08,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,2,367.17,734.34,Carla Mendes,Loja física
+137,2025-03-08,SP,Campinas,Casa,Liquidificador,2,169.83,339.66,Felipe Costa,Loja física
+138,2025-03-08,BA,Salvador,Casa,Air Fryer,1,407.58,407.58,Bruno Lima,Loja física
+139,2025-03-09,SP,Santos,Papelaria,Kit Canetas,1,20.39,20.39,Felipe Costa,E-commerce
+140,2025-03-09,SP,Santos,Papelaria,Agenda 2026,2,43.06,86.12,Diego Alves,Marketplace
+141,2025-03-10,MG,Belo Horizonte,Casa,Jogo de Panelas,1,249.03,249.03,Diego Alves,Marketplace
+142,2025-03-10,PR,Curitiba,Esporte,Bola de Futebol,2,107.77,215.54,Carla Mendes,Loja física
+143,2025-03-11,MG,Belo Horizonte,Casa,Jogo de Panelas,1,274.02,274.02,Ana Souza,E-commerce
+144,2025-03-11,RS,Caxias do Sul,Eletrônicos,Smartwatch,1,375.21,375.21,Elaine Rocha,Loja física
+145,2025-03-11,RS,Porto Alegre,Esporte,Bola de Futebol,1,92.6,92.6,Carla Mendes,E-commerce
+146,2025-03-12,RJ,Niterói,Papelaria,Mochila Escolar,1,130.76,130.76,Felipe Costa,Marketplace
+147,2025-03-12,BA,Salvador,Casa,Liquidificador,1,174.97,174.97,Elaine Rocha,Loja física
+148,2025-03-13,BA,Feira de Santana,Papelaria,Kit Canetas,2,18.35,36.7,Felipe Costa,Loja física
+149,2025-03-15,MG,Uberlândia,Casa,Air Fryer,3,387.93,1163.79,Carla Mendes,E-commerce
+150,2025-03-15,SP,Campinas,Papelaria,Agenda 2026,2,37.5,75.0,Felipe Costa,E-commerce
+151,2025-03-16,SP,São Paulo,Esporte,Tênis de Corrida,1,298.75,298.75,Elaine Rocha,Loja física
+152,2025-03-16,MG,Belo Horizonte,Esporte,Bola de Futebol,1,99.65,99.65,Elaine Rocha,Loja física
+153,2025-03-17,PR,Londrina,Eletrônicos,Caixa de Som,2,205.84,411.68,Elaine Rocha,E-commerce
+154,2025-03-17,SP,Santos,Eletrônicos,Smartwatch,1,375.97,375.97,Elaine Rocha,E-commerce
+155,2025-03-18,RJ,Rio de Janeiro,Papelaria,Agenda 2026,2,40.66,81.32,Ana Souza,Marketplace
+156,2025-03-19,RS,Porto Alegre,Eletrônicos,Carregador Portátil,1,91.09,91.09,Bruno Lima,Loja física
+157,2025-03-20,SP,Santos,Casa,Aspirador Robô,3,928.52,2785.56,Bruno Lima,E-commerce
+158,2025-03-20,MG,Uberlândia,Esporte,Tapete de Yoga,1,81.81,81.81,Ana Souza,Loja física
+159,2025-03-20,SP,Campinas,Casa,Liquidificador,1,179.03,179.03,Elaine Rocha,Marketplace
+160,2025-03-20,MG,Belo Horizonte,Esporte,Bola de Futebol,5,101.18,505.9,Felipe Costa,Loja física
+161,2025-03-20,PR,Curitiba,Casa,Jogo de Panelas,1,245.25,245.25,Diego Alves,Loja física
+162,2025-03-20,SP,Campinas,Esporte,Tapete de Yoga,1,81.61,81.61,Bruno Lima,Loja física
+163,2025-03-21,PR,Londrina,Casa,Aspirador Robô,2,945.85,1891.7,Elaine Rocha,Loja física
+164,2025-03-22,SP,Campinas,Esporte,Garrafa Térmica,2,63.43,126.86,Carla Mendes,E-commerce
+165,2025-03-22,SP,Santos,Papelaria,Kit Canetas,2,20.3,40.6,Ana Souza,Marketplace
+166,2025-03-22,SP,Santos,Papelaria,Caderno Universitário,1,23.38,23.38,Elaine Rocha,Marketplace
+167,2025-03-25,SP,Campinas,Eletrônicos,Caixa de Som,1,212.65,212.65,Bruno Lima,Marketplace
+168,2025-03-25,RS,Caxias do Sul,Eletrônicos,Caixa de Som,1,206.79,206.79,Elaine Rocha,Marketplace
+169,2025-03-26,PR,Londrina,Papelaria,Caderno Universitário,1,23.9,23.9,Felipe Costa,Marketplace
+170,2025-03-26,PR,Curitiba,Esporte,Garrafa Térmica,1,60.34,60.34,Ana Souza,E-commerce
+171,2025-03-26,SP,Santos,Eletrônicos,Carregador Portátil,1,96.04,96.04,Ana Souza,E-commerce
+172,2025-03-26,SP,Santos,Eletrônicos,Caixa de Som,1,230.58,230.58,Carla Mendes,Loja física
+173,2025-03-26,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,1,59.62,59.62,Bruno Lima,Loja física
+174,2025-03-26,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,2,74.6,149.2,Felipe Costa,Loja física
+175,2025-03-27,MG,Belo Horizonte,Esporte,Garrafa Térmica,1,55.59,55.59,Bruno Lima,E-commerce
+176,2025-03-27,RJ,Niterói,Papelaria,Agenda 2026,1,41.54,41.54,Carla Mendes,E-commerce
+177,2025-03-27,PR,Curitiba,Papelaria,Mochila Escolar,5,129.52,647.6,Carla Mendes,Marketplace
+178,2025-03-28,SP,Santos,Papelaria,Caderno Universitário,3,26.17,78.51,Felipe Costa,E-commerce
+179,2025-03-28,SP,Campinas,Esporte,Bola de Futebol,1,101.87,101.87,Diego Alves,Marketplace
+180,2025-03-28,SP,Santos,Esporte,Tênis de Corrida,3,276.62,829.86,Elaine Rocha,Loja física
+181,2025-03-28,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,319.72,319.72,Felipe Costa,E-commerce
+182,2025-03-29,RJ,Niterói,Casa,Aspirador Robô,1,906.24,906.24,Bruno Lima,E-commerce
+183,2025-03-29,RS,Caxias do Sul,Papelaria,Agenda 2026,1,36.95,36.95,Carla Mendes,Marketplace
+184,2025-03-29,SP,São Paulo,Papelaria,Kit Canetas,1,20.37,20.37,Felipe Costa,Marketplace
+185,2025-03-30,PR,Curitiba,Casa,Aspirador Robô,1,911.26,911.26,Bruno Lima,Loja física
+186,2025-03-31,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,2,143.15,286.3,Ana Souza,Marketplace
+187,2025-03-31,RJ,Niterói,Esporte,Tapete de Yoga,2,76.83,153.66,Elaine Rocha,E-commerce
+188,2025-03-31,RS,Caxias do Sul,Casa,Aspirador Robô,2,872.79,1745.58,Ana Souza,Marketplace
+189,2025-04-01,RS,Porto Alegre,Eletrônicos,Caixa de Som,2,204.67,409.34,Bruno Lima,Marketplace
+190,2025-04-02,SP,Santos,Esporte,Tapete de Yoga,5,86.11,430.55,Diego Alves,Marketplace
+191,2025-04-02,PR,Londrina,Papelaria,Agenda 2026,1,39.05,39.05,Ana Souza,Loja física
+192,2025-04-02,SP,Santos,Eletrônicos,Smartwatch,1,415.7,415.7,Diego Alves,E-commerce
+193,2025-04-03,RJ,Rio de Janeiro,Papelaria,Kit Canetas,1,19.8,19.8,Ana Souza,Marketplace
+194,2025-04-03,PR,Londrina,Esporte,Tapete de Yoga,4,80.01,320.04,Ana Souza,Loja física
+195,2025-04-03,RJ,Rio de Janeiro,Eletrônicos,Caixa de Som,1,208.16,208.16,Ana Souza,Loja física
+196,2025-04-03,SP,Campinas,Casa,Jogo de Panelas,3,256.58,769.74,Diego Alves,E-commerce
+197,2025-04-03,SP,Santos,Papelaria,Kit Canetas,3,20.55,61.65,Felipe Costa,Marketplace
+198,2025-04-04,RS,Porto Alegre,Esporte,Tapete de Yoga,1,85.4,85.4,Diego Alves,Marketplace
+199,2025-04-04,SP,Santos,Casa,Liquidificador,1,180.11,180.11,Diego Alves,E-commerce
+200,2025-04-05,RJ,Rio de Janeiro,Eletrônicos,Carregador Portátil,2,88.13,176.26,Ana Souza,Loja física
+201,2025-04-06,SP,Santos,Casa,Aspirador Robô,1,848.76,848.76,Felipe Costa,E-commerce
+202,2025-04-06,SP,Campinas,Casa,Air Fryer,5,392.67,1963.35,Carla Mendes,E-commerce
+203,2025-04-07,RJ,Rio de Janeiro,Esporte,Bola de Futebol,1,102.8,102.8,Carla Mendes,Loja física
+204,2025-04-08,SP,São Paulo,Casa,Liquidificador,2,173.39,346.78,Carla Mendes,Marketplace
+205,2025-04-08,SP,Campinas,Eletrônicos,Carregador Portátil,1,95.18,95.18,Bruno Lima,Loja física
+206,2025-04-08,PR,Londrina,Casa,Jogo de Panelas,1,271.74,271.74,Felipe Costa,Loja física
+207,2025-04-09,RJ,Rio de Janeiro,Casa,Liquidificador,3,180.32,540.96,Bruno Lima,Loja física
+208,2025-04-09,MG,Uberlândia,Casa,Air Fryer,1,396.03,396.03,Diego Alves,Marketplace
+209,2025-04-09,MG,Uberlândia,Papelaria,Caderno Universitário,1,26.02,26.02,Ana Souza,Marketplace
+210,2025-04-10,RJ,Niterói,Casa,Jogo de Panelas,1,266.32,266.32,Bruno Lima,Marketplace
+211,2025-04-10,SP,São Paulo,Papelaria,Caderno Universitário,1,24.79,24.79,Diego Alves,E-commerce
+212,2025-04-10,SP,Campinas,Esporte,Garrafa Térmica,3,60.41,181.23,Elaine Rocha,E-commerce
+213,2025-04-10,SP,São Paulo,Papelaria,Kit Canetas,1,18.51,18.51,Felipe Costa,Marketplace
+214,2025-04-11,SP,Campinas,Esporte,Garrafa Térmica,1,57.93,57.93,Elaine Rocha,E-commerce
+215,2025-04-11,SP,Campinas,Esporte,Tênis de Corrida,1,280.33,280.33,Bruno Lima,E-commerce
+216,2025-04-12,RS,Porto Alegre,Papelaria,Caderno Universitário,1,26.77,26.77,Elaine Rocha,Marketplace
+217,2025-04-12,SP,Santos,Esporte,Bola de Futebol,2,100.31,200.62,Carla Mendes,Loja física
+218,2025-04-13,SP,São Paulo,Esporte,Tapete de Yoga,1,85.82,85.82,Bruno Lima,Loja física
+219,2025-04-13,SP,Campinas,Papelaria,Caderno Universitário,5,23.55,117.75,Ana Souza,Loja física
+220,2025-04-13,SP,Santos,Esporte,Garrafa Térmica,1,55.35,55.35,Elaine Rocha,E-commerce
+221,2025-04-13,RS,Porto Alegre,Papelaria,Mochila Escolar,1,137.75,137.75,Felipe Costa,E-commerce
+222,2025-04-13,MG,Belo Horizonte,Eletrônicos,Smartwatch,4,383.21,1532.84,Diego Alves,E-commerce
+223,2025-04-14,SP,Santos,Eletrônicos,Carregador Portátil,2,96.05,192.1,Diego Alves,E-commerce
+224,2025-04-15,PR,Londrina,Eletrônicos,Fone Bluetooth,1,146.24,146.24,Carla Mendes,Loja física
+225,2025-04-15,PR,Curitiba,Papelaria,Mochila Escolar,1,123.6,123.6,Felipe Costa,E-commerce
+226,2025-04-16,MG,Belo Horizonte,Esporte,Bola de Futebol,1,96.99,96.99,Bruno Lima,Loja física
+227,2025-04-17,SP,São Paulo,Esporte,Tênis de Corrida,3,299.73,899.19,Elaine Rocha,Loja física
+228,2025-04-17,SP,São Paulo,Casa,Liquidificador,1,190.58,190.58,Diego Alves,Loja física
+229,2025-04-18,BA,Salvador,Esporte,Bola de Futebol,1,106.65,106.65,Carla Mendes,Loja física
+230,2025-04-18,RJ,Niterói,Esporte,Bola de Futebol,1,94.54,94.54,Ana Souza,E-commerce
+231,2025-04-18,PR,Curitiba,Casa,Jogo de Panelas,3,263.59,790.77,Ana Souza,Marketplace
+232,2025-04-18,MG,Belo Horizonte,Casa,Aspirador Robô,1,895.48,895.48,Ana Souza,Loja física
+233,2025-04-19,RJ,Rio de Janeiro,Papelaria,Kit Canetas,1,19.45,19.45,Bruno Lima,Loja física
+234,2025-04-19,RS,Caxias do Sul,Eletrônicos,Fone Bluetooth,2,139.66,279.32,Carla Mendes,E-commerce
+235,2025-04-19,SP,São Paulo,Esporte,Bola de Futebol,2,94.77,189.54,Elaine Rocha,Marketplace
+236,2025-04-19,SP,Santos,Esporte,Tênis de Corrida,1,294.9,294.9,Carla Mendes,Loja física
+237,2025-04-19,RJ,Niterói,Papelaria,Kit Canetas,3,21.43,64.29,Felipe Costa,Loja física
+238,2025-04-19,MG,Belo Horizonte,Esporte,Garrafa Térmica,1,55.4,55.4,Ana Souza,Loja física
+239,2025-04-20,SP,Santos,Casa,Aspirador Robô,1,878.08,878.08,Diego Alves,Loja física
+240,2025-04-20,PR,Curitiba,Casa,Aspirador Robô,1,834.3,834.3,Ana Souza,E-commerce
+241,2025-04-20,SP,Santos,Papelaria,Mochila Escolar,1,140.14,140.14,Felipe Costa,E-commerce
+242,2025-04-21,PR,Londrina,Casa,Liquidificador,1,171.14,171.14,Felipe Costa,E-commerce
+243,2025-04-21,MG,Uberlândia,Casa,Jogo de Panelas,2,254.66,509.32,Ana Souza,E-commerce
+244,2025-04-21,SP,Santos,Esporte,Garrafa Térmica,2,64.5,129.0,Felipe Costa,Loja física
+245,2025-04-23,SP,Campinas,Papelaria,Agenda 2026,2,37.67,75.34,Diego Alves,Marketplace
+246,2025-04-24,MG,Uberlândia,Papelaria,Agenda 2026,1,37.91,37.91,Ana Souza,Marketplace
+247,2025-04-24,PR,Londrina,Papelaria,Mochila Escolar,3,122.08,366.24,Ana Souza,E-commerce
+248,2025-04-24,BA,Feira de Santana,Esporte,Garrafa Térmica,1,62.4,62.4,Carla Mendes,Marketplace
+249,2025-04-24,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,4,375.46,1501.84,Ana Souza,Loja física
+250,2025-04-25,PR,Londrina,Casa,Liquidificador,2,180.5,361.0,Carla Mendes,E-commerce
+251,2025-04-25,SP,São Paulo,Esporte,Garrafa Térmica,2,56.79,113.58,Bruno Lima,Marketplace
+252,2025-04-25,SP,Campinas,Casa,Liquidificador,1,169.52,169.52,Felipe Costa,Marketplace
+253,2025-04-25,SP,São Paulo,Casa,Jogo de Panelas,3,254.1,762.3,Felipe Costa,Marketplace
+254,2025-04-25,PR,Londrina,Esporte,Tênis de Corrida,1,283.12,283.12,Felipe Costa,Marketplace
+255,2025-04-25,PR,Londrina,Esporte,Tapete de Yoga,1,75.32,75.32,Diego Alves,Loja física
+256,2025-04-26,MG,Belo Horizonte,Casa,Jogo de Panelas,1,258.44,258.44,Elaine Rocha,Loja física
+257,2025-04-26,MG,Uberlândia,Casa,Air Fryer,1,387.7,387.7,Diego Alves,E-commerce
+258,2025-04-26,SP,Campinas,Esporte,Garrafa Térmica,4,64.34,257.36,Bruno Lima,E-commerce
+259,2025-04-28,MG,Uberlândia,Papelaria,Caderno Universitário,1,24.08,24.08,Ana Souza,Marketplace
+260,2025-04-28,RJ,Niterói,Casa,Aspirador Robô,4,946.76,3787.04,Ana Souza,E-commerce
+261,2025-04-28,MG,Belo Horizonte,Esporte,Tapete de Yoga,2,74.04,148.08,Ana Souza,Marketplace
+262,2025-04-28,SP,Campinas,Eletrônicos,Carregador Portátil,4,96.63,386.52,Diego Alves,Marketplace
+263,2025-04-29,SP,São Paulo,Eletrônicos,Carregador Portátil,1,89.42,89.42,Elaine Rocha,Marketplace
+264,2025-04-29,BA,Salvador,Papelaria,Mochila Escolar,2,132.08,264.16,Bruno Lima,Marketplace
+265,2025-04-29,SP,Santos,Casa,Jogo de Panelas,1,240.95,240.95,Elaine Rocha,Marketplace
+266,2025-04-30,SP,São Paulo,Esporte,Bola de Futebol,3,99.44,298.32,Elaine Rocha,Loja física
+267,2025-05-01,RS,Caxias do Sul,Esporte,Garrafa Térmica,1,61.12,61.12,Ana Souza,Loja física
+268,2025-05-01,SP,Campinas,Papelaria,Mochila Escolar,3,129.61,388.83,Bruno Lima,Marketplace
+269,2025-05-01,RS,Porto Alegre,Esporte,Tênis de Corrida,1,309.31,309.31,Ana Souza,Marketplace
+270,2025-05-01,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,1,61.44,61.44,Ana Souza,Marketplace
+271,2025-05-02,MG,Uberlândia,Eletrônicos,Fone Bluetooth,1,146.77,146.77,Elaine Rocha,Loja física
+272,2025-05-02,MG,Uberlândia,Papelaria,Caderno Universitário,1,24.83,24.83,Bruno Lima,Marketplace
+273,2025-05-03,RS,Porto Alegre,Eletrônicos,Fone Bluetooth,2,147.96,295.92,Elaine Rocha,E-commerce
+274,2025-05-05,SP,Santos,Casa,Liquidificador,1,174.45,174.45,Diego Alves,Loja física
+275,2025-05-05,SP,Campinas,Eletrônicos,Fone Bluetooth,1,159.15,159.15,Felipe Costa,Marketplace
+276,2025-05-05,RS,Porto Alegre,Esporte,Bola de Futebol,5,95.86,479.3,Bruno Lima,E-commerce
+277,2025-05-05,RS,Caxias do Sul,Esporte,Garrafa Térmica,4,64.19,256.76,Bruno Lima,Loja física
+278,2025-05-06,RJ,Niterói,Papelaria,Mochila Escolar,1,121.8,121.8,Felipe Costa,Loja física
+279,2025-05-07,MG,Belo Horizonte,Papelaria,Agenda 2026,1,40.5,40.5,Diego Alves,Marketplace
+280,2025-05-07,SP,Campinas,Papelaria,Agenda 2026,3,37.84,113.52,Felipe Costa,Loja física
+281,2025-05-08,PR,Curitiba,Eletrônicos,Smartwatch,2,411.53,823.06,Ana Souza,Marketplace
+282,2025-05-08,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,286.54,286.54,Carla Mendes,Marketplace
+283,2025-05-08,RS,Porto Alegre,Esporte,Bola de Futebol,5,91.92,459.6,Bruno Lima,Marketplace
+284,2025-05-09,RJ,Niterói,Casa,Air Fryer,4,395.04,1580.16,Carla Mendes,E-commerce
+285,2025-05-09,RJ,Niterói,Papelaria,Agenda 2026,1,41.39,41.39,Diego Alves,E-commerce
+286,2025-05-10,RJ,Rio de Janeiro,Eletrônicos,Caixa de Som,3,202.63,607.89,Carla Mendes,Loja física
+287,2025-05-10,SP,Santos,Papelaria,Caderno Universitário,2,26.57,53.14,Carla Mendes,Marketplace
+288,2025-05-10,SP,São Paulo,Esporte,Garrafa Térmica,2,64.67,129.34,Elaine Rocha,E-commerce
+289,2025-05-10,SP,Campinas,Eletrônicos,Fone Bluetooth,1,151.11,151.11,Carla Mendes,E-commerce
+290,2025-05-10,SP,São Paulo,Papelaria,Kit Canetas,3,20.34,61.02,Ana Souza,Loja física
+291,2025-05-11,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,2,138.81,277.62,Bruno Lima,E-commerce
+292,2025-05-11,SP,Campinas,Esporte,Garrafa Térmica,1,56.16,56.16,Ana Souza,Loja física
+293,2025-05-11,PR,Curitiba,Eletrônicos,Fone Bluetooth,1,161.38,161.38,Felipe Costa,Marketplace
+294,2025-05-12,SP,Campinas,Esporte,Tapete de Yoga,1,81.65,81.65,Bruno Lima,Marketplace
+295,2025-05-12,MG,Belo Horizonte,Papelaria,Agenda 2026,4,42.86,171.44,Felipe Costa,Marketplace
+296,2025-05-13,RS,Porto Alegre,Casa,Aspirador Robô,2,895.17,1790.34,Elaine Rocha,E-commerce
+297,2025-05-13,RJ,Niterói,Papelaria,Caderno Universitário,2,25.63,51.26,Carla Mendes,Marketplace
+298,2025-05-13,MG,Uberlândia,Esporte,Bola de Futebol,4,104.82,419.28,Bruno Lima,Marketplace
+299,2025-05-14,RJ,Niterói,Eletrônicos,Caixa de Som,1,217.81,217.81,Felipe Costa,E-commerce
+300,2025-05-16,BA,Feira de Santana,Casa,Jogo de Panelas,1,242.99,242.99,Ana Souza,E-commerce
+301,2025-05-16,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,310.97,310.97,Carla Mendes,E-commerce
+302,2025-05-16,RS,Porto Alegre,Papelaria,Caderno Universitário,2,25.94,51.88,Elaine Rocha,Marketplace
+303,2025-05-16,SP,Santos,Esporte,Garrafa Térmica,1,57.6,57.6,Bruno Lima,E-commerce
+304,2025-05-16,SP,Campinas,Esporte,Bola de Futebol,1,93.56,93.56,Elaine Rocha,Loja física
+305,2025-05-17,MG,Belo Horizonte,Esporte,Tênis de Corrida,2,319.16,638.32,Diego Alves,Marketplace
+306,2025-05-17,SP,Santos,Papelaria,Agenda 2026,1,37.14,37.14,Elaine Rocha,E-commerce
+307,2025-05-17,BA,Feira de Santana,Esporte,Bola de Futebol,2,105.18,210.36,Bruno Lima,Marketplace
+308,2025-05-17,RJ,Niterói,Papelaria,Caderno Universitário,1,25.4,25.4,Carla Mendes,Loja física
+309,2025-05-18,SP,São Paulo,Esporte,Bola de Futebol,2,100.84,201.68,Diego Alves,Loja física
+310,2025-05-18,SP,Santos,Eletrônicos,Smartwatch,1,402.78,402.78,Diego Alves,Loja física
+311,2025-05-18,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,2,79.93,159.86,Elaine Rocha,Marketplace
+312,2025-05-18,SP,Campinas,Papelaria,Kit Canetas,4,18.83,75.32,Diego Alves,Loja física
+313,2025-05-19,SP,Santos,Esporte,Tênis de Corrida,1,291.15,291.15,Diego Alves,Loja física
+314,2025-05-19,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,2,121.29,242.58,Felipe Costa,E-commerce
+315,2025-05-19,RJ,Rio de Janeiro,Esporte,Bola de Futebol,1,102.33,102.33,Elaine Rocha,Marketplace
+316,2025-05-20,SP,Santos,Casa,Aspirador Robô,5,872.27,4361.35,Carla Mendes,E-commerce
+317,2025-05-21,BA,Salvador,Eletrônicos,Smartwatch,2,358.45,716.9,Carla Mendes,Loja física
+318,2025-05-21,SP,São Paulo,Papelaria,Kit Canetas,1,19.28,19.28,Carla Mendes,Marketplace
+319,2025-05-22,MG,Belo Horizonte,Papelaria,Mochila Escolar,5,138.1,690.5,Carla Mendes,Marketplace
+320,2025-05-23,BA,Salvador,Casa,Liquidificador,1,178.55,178.55,Elaine Rocha,Marketplace
+321,2025-05-23,SP,Campinas,Papelaria,Agenda 2026,5,37.69,188.45,Felipe Costa,Loja física
+322,2025-05-23,SP,Santos,Papelaria,Caderno Universitário,1,23.85,23.85,Elaine Rocha,Marketplace
+323,2025-05-24,BA,Feira de Santana,Eletrônicos,Carregador Portátil,1,91.49,91.49,Diego Alves,Loja física
+324,2025-05-24,PR,Curitiba,Eletrônicos,Carregador Portátil,1,90.14,90.14,Carla Mendes,E-commerce
+325,2025-05-24,SP,Santos,Eletrônicos,Carregador Portátil,1,89.85,89.85,Elaine Rocha,Loja física
+326,2025-05-24,RS,Caxias do Sul,Eletrônicos,Carregador Portátil,1,95.06,95.06,Elaine Rocha,Marketplace
+327,2025-05-24,RJ,Niterói,Casa,Jogo de Panelas,3,263.12,789.36,Carla Mendes,Loja física
+328,2025-05-24,BA,Salvador,Casa,Liquidificador,2,178.27,356.54,Carla Mendes,Loja física
+329,2025-05-24,SP,Campinas,Eletrônicos,Smartwatch,2,412.66,825.32,Felipe Costa,E-commerce
+330,2025-05-25,PR,Curitiba,Papelaria,Agenda 2026,1,41.72,41.72,Carla Mendes,Marketplace
+331,2025-05-26,RJ,Niterói,Papelaria,Agenda 2026,4,42.72,170.88,Ana Souza,Loja física
+332,2025-05-26,SP,Campinas,Esporte,Garrafa Térmica,1,60.1,60.1,Ana Souza,E-commerce
+333,2025-05-26,SP,São Paulo,Eletrônicos,Smartwatch,1,384.46,384.46,Felipe Costa,E-commerce
+334,2025-05-26,RS,Caxias do Sul,Esporte,Tapete de Yoga,5,73.77,368.85,Ana Souza,Loja física
+335,2025-05-26,BA,Salvador,Eletrônicos,Smartwatch,1,403.53,403.53,Elaine Rocha,Loja física
+336,2025-05-27,RJ,Rio de Janeiro,Papelaria,Kit Canetas,2,20.58,41.16,Felipe Costa,Marketplace
+337,2025-05-27,SP,São Paulo,Papelaria,Agenda 2026,1,42.44,42.44,Bruno Lima,Loja física
+338,2025-05-29,BA,Feira de Santana,Papelaria,Caderno Universitário,1,23.1,23.1,Bruno Lima,Loja física
+339,2025-05-29,MG,Uberlândia,Papelaria,Mochila Escolar,2,139.71,279.42,Bruno Lima,Marketplace
+340,2025-05-29,RJ,Niterói,Eletrônicos,Fone Bluetooth,1,144.22,144.22,Elaine Rocha,Loja física
+341,2025-05-30,SP,Campinas,Papelaria,Agenda 2026,3,38.62,115.86,Carla Mendes,E-commerce
+342,2025-05-30,PR,Curitiba,Esporte,Bola de Futebol,2,94.18,188.36,Felipe Costa,E-commerce
+343,2025-05-30,BA,Salvador,Papelaria,Caderno Universitário,5,23.3,116.5,Bruno Lima,E-commerce
+344,2025-05-31,PR,Londrina,Papelaria,Caderno Universitário,4,25.82,103.28,Bruno Lima,Marketplace
+345,2025-06-01,SP,Campinas,Eletrônicos,Caixa de Som,1,202.7,202.7,Felipe Costa,Marketplace
+346,2025-06-01,SP,São Paulo,Papelaria,Kit Canetas,1,18.86,18.86,Felipe Costa,Loja física
+347,2025-06-01,RS,Caxias do Sul,Casa,Jogo de Panelas,1,275.43,275.43,Bruno Lima,Loja física
+348,2025-06-02,RS,Caxias do Sul,Casa,Aspirador Robô,1,869.58,869.58,Ana Souza,Loja física
+349,2025-06-03,SP,Santos,Eletrônicos,Fone Bluetooth,5,160.9,804.5,Elaine Rocha,Marketplace
+350,2025-06-04,MG,Uberlândia,Casa,Jogo de Panelas,1,271.65,271.65,Bruno Lima,Marketplace
+351,2025-06-04,SP,Santos,Papelaria,Kit Canetas,1,20.47,20.47,Felipe Costa,Marketplace
+352,2025-06-05,RJ,Rio de Janeiro,Casa,Jogo de Panelas,4,275.27,1101.08,Diego Alves,Loja física
+353,2025-06-06,SP,Santos,Eletrônicos,Carregador Portátil,1,88.76,88.76,Elaine Rocha,E-commerce
+354,2025-06-06,SP,Santos,Eletrônicos,Caixa de Som,2,203.2,406.4,Diego Alves,Marketplace
+355,2025-06-06,RJ,Niterói,Esporte,Bola de Futebol,2,98.87,197.74,Carla Mendes,E-commerce
+356,2025-06-07,PR,Londrina,Eletrônicos,Caixa de Som,1,237.16,237.16,Diego Alves,Marketplace
+357,2025-06-08,RJ,Niterói,Papelaria,Agenda 2026,2,40.31,80.62,Felipe Costa,E-commerce
+358,2025-06-09,PR,Curitiba,Eletrônicos,Caixa de Som,3,223.9,671.7,Elaine Rocha,Loja física
+359,2025-06-09,SP,Campinas,Esporte,Tapete de Yoga,2,78.7,157.4,Bruno Lima,E-commerce
+360,2025-06-09,SP,São Paulo,Casa,Air Fryer,1,410.38,410.38,Elaine Rocha,Marketplace
+361,2025-06-10,PR,Curitiba,Casa,Air Fryer,2,393.36,786.72,Bruno Lima,Marketplace
+362,2025-06-10,PR,Londrina,Esporte,Tênis de Corrida,1,283.31,283.31,Bruno Lima,Loja física
+363,2025-06-10,RS,Caxias do Sul,Papelaria,Caderno Universitário,1,23.44,23.44,Diego Alves,Marketplace
+364,2025-06-11,MG,Belo Horizonte,Papelaria,Agenda 2026,3,40.88,122.64,Felipe Costa,E-commerce
+365,2025-06-11,RJ,Niterói,Eletrônicos,Carregador Portátil,1,96.11,96.11,Bruno Lima,E-commerce
+366,2025-06-11,RJ,Niterói,Eletrônicos,Fone Bluetooth,1,146.43,146.43,Elaine Rocha,Loja física
+367,2025-06-12,RJ,Rio de Janeiro,Casa,Air Fryer,3,407.39,1222.17,Felipe Costa,E-commerce
+368,2025-06-12,SP,São Paulo,Casa,Liquidificador,5,181.08,905.4,Diego Alves,Loja física
+369,2025-06-13,SP,Santos,Eletrônicos,Fone Bluetooth,2,155.86,311.72,Diego Alves,Marketplace
+370,2025-06-13,RS,Porto Alegre,Esporte,Tênis de Corrida,1,281.97,281.97,Felipe Costa,E-commerce
+371,2025-06-13,SP,Santos,Papelaria,Kit Canetas,1,20.96,20.96,Diego Alves,Marketplace
+372,2025-06-14,SP,Santos,Casa,Aspirador Robô,1,861.38,861.38,Ana Souza,Loja física
+373,2025-06-14,PR,Curitiba,Papelaria,Agenda 2026,3,40.55,121.65,Felipe Costa,E-commerce
+374,2025-06-14,PR,Londrina,Casa,Liquidificador,2,189.67,379.34,Felipe Costa,Loja física
+375,2025-06-14,SP,Santos,Papelaria,Kit Canetas,2,18.67,37.34,Elaine Rocha,Loja física
+376,2025-06-15,SP,Campinas,Eletrônicos,Fone Bluetooth,1,160.76,160.76,Bruno Lima,Marketplace
+377,2025-06-15,MG,Uberlândia,Eletrônicos,Smartwatch,2,360.57,721.14,Bruno Lima,Loja física
+378,2025-06-15,SP,São Paulo,Papelaria,Kit Canetas,1,19.71,19.71,Bruno Lima,Marketplace
+379,2025-06-16,PR,Curitiba,Esporte,Tapete de Yoga,1,83.09,83.09,Bruno Lima,Loja física
+380,2025-06-16,RS,Caxias do Sul,Casa,Liquidificador,1,191.64,191.64,Felipe Costa,E-commerce
+381,2025-06-17,SP,São Paulo,Esporte,Tênis de Corrida,5,320.31,1601.55,Bruno Lima,Marketplace
+382,2025-06-17,RJ,Niterói,Casa,Liquidificador,1,187.74,187.74,Diego Alves,Loja física
+383,2025-06-17,BA,Feira de Santana,Esporte,Garrafa Térmica,2,63.12,126.24,Bruno Lima,Loja física
+384,2025-06-17,SP,Campinas,Esporte,Tênis de Corrida,1,297.49,297.49,Carla Mendes,E-commerce
+385,2025-06-18,PR,Curitiba,Esporte,Garrafa Térmica,1,60.91,60.91,Elaine Rocha,E-commerce
+386,2025-06-18,RS,Porto Alegre,Casa,Liquidificador,1,175.04,175.04,Diego Alves,Loja física
+387,2025-06-19,PR,Curitiba,Esporte,Tapete de Yoga,1,82.15,82.15,Diego Alves,Marketplace
+388,2025-06-19,SP,Campinas,Papelaria,Kit Canetas,1,19.36,19.36,Elaine Rocha,Loja física
+389,2025-06-19,SP,Santos,Papelaria,Kit Canetas,1,18.79,18.79,Elaine Rocha,Marketplace
+390,2025-06-19,PR,Curitiba,Esporte,Garrafa Térmica,4,56.82,227.28,Felipe Costa,Loja física
+391,2025-06-19,PR,Londrina,Esporte,Bola de Futebol,2,98.68,197.36,Carla Mendes,Marketplace
+392,2025-06-19,SP,Santos,Papelaria,Kit Canetas,1,19.67,19.67,Ana Souza,Loja física
+393,2025-06-20,SP,Campinas,Eletrônicos,Fone Bluetooth,2,143.39,286.78,Ana Souza,Loja física
+394,2025-06-21,RJ,Niterói,Papelaria,Agenda 2026,3,41.47,124.41,Elaine Rocha,Loja física
+395,2025-06-21,BA,Feira de Santana,Esporte,Tapete de Yoga,4,81.23,324.92,Elaine Rocha,E-commerce
+396,2025-06-21,SP,Santos,Papelaria,Mochila Escolar,1,120.78,120.78,Bruno Lima,Marketplace
+397,2025-06-21,RJ,Niterói,Esporte,Bola de Futebol,2,94.77,189.54,Elaine Rocha,Marketplace
+398,2025-06-21,RJ,Niterói,Papelaria,Mochila Escolar,2,133.75,267.5,Ana Souza,Marketplace
+399,2025-06-21,SP,Santos,Eletrônicos,Carregador Portátil,2,87.35,174.7,Elaine Rocha,Loja física
+400,2025-06-22,SP,São Paulo,Papelaria,Caderno Universitário,5,23.52,117.6,Felipe Costa,Loja física
+401,2025-06-22,MG,Belo Horizonte,Casa,Jogo de Panelas,2,274.14,548.28,Ana Souza,Loja física
+402,2025-06-22,PR,Londrina,Casa,Air Fryer,2,400.66,801.32,Diego Alves,Loja física
+403,2025-06-22,SP,São Paulo,Papelaria,Kit Canetas,5,20.2,101.0,Ana Souza,Loja física
+404,2025-06-24,SP,Campinas,Casa,Liquidificador,2,183.45,366.9,Bruno Lima,Marketplace
+405,2025-06-24,SP,Santos,Esporte,Garrafa Térmica,1,60.26,60.26,Felipe Costa,E-commerce
+406,2025-06-25,RS,Caxias do Sul,Eletrônicos,Fone Bluetooth,4,141.37,565.48,Bruno Lima,Loja física
+407,2025-06-25,SP,Campinas,Esporte,Tapete de Yoga,1,81.55,81.55,Elaine Rocha,E-commerce
+408,2025-06-26,BA,Feira de Santana,Eletrônicos,Smartwatch,1,377.37,377.37,Ana Souza,Loja física
+409,2025-06-26,MG,Belo Horizonte,Esporte,Bola de Futebol,1,107.48,107.48,Felipe Costa,Loja física
+410,2025-06-27,SP,Santos,Esporte,Tênis de Corrida,4,313.98,1255.92,Diego Alves,E-commerce
+411,2025-06-27,SP,Santos,Papelaria,Agenda 2026,3,37.36,112.08,Elaine Rocha,E-commerce
+412,2025-06-27,PR,Curitiba,Esporte,Tênis de Corrida,2,296.47,592.94,Bruno Lima,Loja física
+413,2025-06-28,RS,Porto Alegre,Casa,Jogo de Panelas,1,275.66,275.66,Bruno Lima,Loja física
+414,2025-06-28,PR,Curitiba,Eletrônicos,Smartwatch,1,407.18,407.18,Diego Alves,Loja física
+415,2025-06-28,MG,Uberlândia,Esporte,Tênis de Corrida,1,290.49,290.49,Elaine Rocha,Marketplace
+416,2025-06-29,SP,Santos,Casa,Air Fryer,5,377.54,1887.7,Elaine Rocha,Marketplace
+417,2025-06-29,MG,Uberlândia,Esporte,Tênis de Corrida,4,322.56,1290.24,Felipe Costa,E-commerce
+418,2025-06-29,MG,Belo Horizonte,Casa,Liquidificador,1,189.46,189.46,Diego Alves,Loja física
+419,2025-06-29,SP,Santos,Papelaria,Mochila Escolar,1,136.77,136.77,Diego Alves,E-commerce
+420,2025-06-30,SP,Campinas,Papelaria,Mochila Escolar,2,125.0,250.0,Carla Mendes,E-commerce
+421,2025-07-01,RS,Caxias do Sul,Esporte,Bola de Futebol,4,102.8,411.2,Felipe Costa,Marketplace
+422,2025-07-02,SP,Santos,Papelaria,Agenda 2026,1,40.74,40.74,Carla Mendes,E-commerce
+423,2025-07-03,PR,Londrina,Esporte,Garrafa Térmica,3,57.67,173.01,Ana Souza,E-commerce
+424,2025-07-04,SP,São Paulo,Esporte,Garrafa Térmica,2,59.88,119.76,Bruno Lima,E-commerce
+425,2025-07-04,RJ,Niterói,Casa,Aspirador Robô,4,961.36,3845.44,Elaine Rocha,E-commerce
+426,2025-07-06,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,1,56.89,56.89,Bruno Lima,Loja física
+427,2025-07-06,MG,Belo Horizonte,Eletrônicos,Caixa de Som,2,207.26,414.52,Bruno Lima,E-commerce
+428,2025-07-06,BA,Salvador,Esporte,Tênis de Corrida,1,289.99,289.99,Bruno Lima,Loja física
+429,2025-07-09,SP,São Paulo,Esporte,Tênis de Corrida,1,310.65,310.65,Elaine Rocha,E-commerce
+430,2025-07-09,SP,Santos,Esporte,Tapete de Yoga,5,82.77,413.85,Elaine Rocha,Marketplace
+431,2025-07-09,MG,Uberlândia,Casa,Liquidificador,1,181.93,181.93,Carla Mendes,E-commerce
+432,2025-07-10,RJ,Niterói,Eletrônicos,Carregador Portátil,2,93.86,187.72,Bruno Lima,Marketplace
+433,2025-07-10,RJ,Niterói,Papelaria,Mochila Escolar,2,131.23,262.46,Ana Souza,E-commerce
+434,2025-07-10,SP,Santos,Eletrônicos,Caixa de Som,2,234.32,468.64,Carla Mendes,Loja física
+435,2025-07-11,SP,Campinas,Casa,Air Fryer,2,406.28,812.56,Felipe Costa,E-commerce
+436,2025-07-11,SP,São Paulo,Papelaria,Caderno Universitário,1,24.64,24.64,Diego Alves,Loja física
+437,2025-07-12,RJ,Niterói,Esporte,Tapete de Yoga,2,84.0,168.0,Bruno Lima,Loja física
+438,2025-07-12,BA,Salvador,Esporte,Garrafa Térmica,1,63.44,63.44,Ana Souza,Loja física
+439,2025-07-13,RJ,Niterói,Casa,Air Fryer,1,385.61,385.61,Elaine Rocha,E-commerce
+440,2025-07-14,RS,Porto Alegre,Esporte,Garrafa Térmica,2,61.77,123.54,Diego Alves,Loja física
+441,2025-07-14,BA,Salvador,Eletrônicos,Smartwatch,1,366.4,366.4,Bruno Lima,Marketplace
+442,2025-07-14,RJ,Niterói,Casa,Jogo de Panelas,2,252.52,505.04,Ana Souza,Loja física
+443,2025-07-15,PR,Curitiba,Papelaria,Caderno Universitário,1,24.42,24.42,Carla Mendes,Loja física
+444,2025-07-15,PR,Curitiba,Papelaria,Caderno Universitário,1,25.98,25.98,Carla Mendes,E-commerce
+445,2025-07-15,SP,São Paulo,Casa,Air Fryer,2,380.44,760.88,Felipe Costa,Loja física
+446,2025-07-16,SP,Campinas,Casa,Aspirador Robô,1,853.47,853.47,Ana Souza,E-commerce
+447,2025-07-16,RJ,Niterói,Casa,Liquidificador,2,182.42,364.84,Elaine Rocha,Marketplace
+448,2025-07-18,SP,São Paulo,Casa,Liquidificador,1,168.16,168.16,Diego Alves,Marketplace
+449,2025-07-18,PR,Londrina,Papelaria,Agenda 2026,1,40.76,40.76,Ana Souza,Marketplace
+450,2025-07-19,SP,São Paulo,Papelaria,Kit Canetas,4,19.21,76.84,Diego Alves,Marketplace
+451,2025-07-19,MG,Belo Horizonte,Papelaria,Kit Canetas,2,18.38,36.76,Diego Alves,Marketplace
+452,2025-07-20,SP,São Paulo,Esporte,Garrafa Térmica,1,62.14,62.14,Bruno Lima,Marketplace
+453,2025-07-21,SP,São Paulo,Papelaria,Mochila Escolar,1,133.3,133.3,Carla Mendes,Marketplace
+454,2025-07-21,SP,Campinas,Eletrônicos,Fone Bluetooth,1,138.58,138.58,Ana Souza,Marketplace
+455,2025-07-21,SP,Campinas,Eletrônicos,Smartwatch,1,404.02,404.02,Ana Souza,E-commerce
+456,2025-07-22,BA,Feira de Santana,Eletrônicos,Carregador Portátil,1,95.9,95.9,Ana Souza,Loja física
+457,2025-07-22,BA,Feira de Santana,Eletrônicos,Smartwatch,1,365.4,365.4,Elaine Rocha,Marketplace
+458,2025-07-23,PR,Londrina,Casa,Aspirador Robô,3,911.84,2735.52,Ana Souza,Loja física
+459,2025-07-23,MG,Belo Horizonte,Papelaria,Mochila Escolar,2,126.26,252.52,Felipe Costa,E-commerce
+460,2025-07-23,RS,Caxias do Sul,Eletrônicos,Caixa de Som,1,219.52,219.52,Felipe Costa,Marketplace
+461,2025-07-23,SP,Campinas,Eletrônicos,Smartwatch,2,382.44,764.88,Ana Souza,Loja física
+462,2025-07-23,MG,Uberlândia,Eletrônicos,Fone Bluetooth,2,138.84,277.68,Diego Alves,Marketplace
+463,2025-07-23,PR,Londrina,Casa,Air Fryer,1,387.9,387.9,Felipe Costa,E-commerce
+464,2025-07-24,SP,Campinas,Eletrônicos,Fone Bluetooth,1,142.87,142.87,Bruno Lima,Marketplace
+465,2025-07-24,BA,Salvador,Casa,Liquidificador,1,179.14,179.14,Bruno Lima,E-commerce
+466,2025-07-24,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,140.22,140.22,Felipe Costa,Marketplace
+467,2025-07-24,PR,Londrina,Papelaria,Caderno Universitário,1,23.2,23.2,Felipe Costa,E-commerce
+468,2025-07-24,SP,São Paulo,Papelaria,Kit Canetas,3,19.04,57.12,Elaine Rocha,E-commerce
+469,2025-07-24,SP,São Paulo,Eletrônicos,Caixa de Som,1,222.89,222.89,Diego Alves,Loja física
+470,2025-07-24,BA,Salvador,Papelaria,Caderno Universitário,4,25.46,101.84,Elaine Rocha,Loja física
+471,2025-07-24,PR,Londrina,Papelaria,Mochila Escolar,4,132.93,531.72,Ana Souza,Marketplace
+472,2025-07-24,PR,Curitiba,Papelaria,Kit Canetas,1,18.37,18.37,Felipe Costa,Loja física
+473,2025-07-25,SP,São Paulo,Casa,Air Fryer,1,400.27,400.27,Ana Souza,E-commerce
+474,2025-07-25,PR,Londrina,Papelaria,Agenda 2026,1,42.45,42.45,Bruno Lima,Loja física
+475,2025-07-26,PR,Londrina,Eletrônicos,Carregador Portátil,2,87.03,174.06,Ana Souza,Loja física
+476,2025-07-26,RJ,Niterói,Eletrônicos,Smartwatch,1,409.84,409.84,Carla Mendes,Marketplace
+477,2025-07-26,SP,Campinas,Eletrônicos,Carregador Portátil,2,82.82,165.64,Felipe Costa,E-commerce
+478,2025-07-26,SP,Campinas,Eletrônicos,Carregador Portátil,1,88.44,88.44,Diego Alves,E-commerce
+479,2025-07-26,SP,Campinas,Esporte,Tapete de Yoga,3,80.44,241.32,Elaine Rocha,Marketplace
+480,2025-07-27,SP,São Paulo,Esporte,Garrafa Térmica,1,57.97,57.97,Ana Souza,Marketplace
+481,2025-07-27,RJ,Niterói,Papelaria,Caderno Universitário,2,26.8,53.6,Bruno Lima,E-commerce
+482,2025-07-27,PR,Curitiba,Casa,Aspirador Robô,1,951.81,951.81,Carla Mendes,E-commerce
+483,2025-07-28,SP,São Paulo,Eletrônicos,Carregador Portátil,2,93.85,187.7,Ana Souza,E-commerce
+484,2025-07-28,RJ,Niterói,Casa,Jogo de Panelas,1,262.36,262.36,Carla Mendes,Marketplace
+485,2025-07-30,SP,Santos,Esporte,Garrafa Térmica,4,60.89,243.56,Elaine Rocha,Loja física
+486,2025-07-30,SP,Santos,Eletrônicos,Caixa de Som,2,204.33,408.66,Bruno Lima,E-commerce
+487,2025-07-30,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,902.09,902.09,Felipe Costa,Loja física
+488,2025-07-30,PR,Londrina,Eletrônicos,Caixa de Som,1,230.76,230.76,Elaine Rocha,E-commerce
+489,2025-07-31,RJ,Niterói,Esporte,Bola de Futebol,4,106.58,426.32,Ana Souza,Marketplace
+490,2025-08-01,PR,Londrina,Papelaria,Agenda 2026,4,38.93,155.72,Felipe Costa,E-commerce
+491,2025-08-02,SP,Campinas,Papelaria,Kit Canetas,1,18.69,18.69,Diego Alves,Marketplace
+492,2025-08-03,MG,Belo Horizonte,Casa,Liquidificador,1,170.21,170.21,Felipe Costa,Marketplace
+493,2025-08-03,RJ,Niterói,Esporte,Tapete de Yoga,1,83.63,83.63,Bruno Lima,E-commerce
+494,2025-08-04,RJ,Niterói,Papelaria,Caderno Universitário,1,24.29,24.29,Carla Mendes,E-commerce
+495,2025-08-04,BA,Salvador,Esporte,Tapete de Yoga,3,84.75,254.25,Diego Alves,Loja física
+496,2025-08-06,MG,Belo Horizonte,Eletrônicos,Carregador Portátil,1,86.21,86.21,Elaine Rocha,Loja física
+497,2025-08-07,PR,Curitiba,Papelaria,Caderno Universitário,1,23.39,23.39,Diego Alves,Loja física
+498,2025-08-07,SP,São Paulo,Esporte,Tapete de Yoga,1,76.73,76.73,Bruno Lima,Loja física
+499,2025-08-07,RJ,Rio de Janeiro,Casa,Aspirador Robô,2,828.42,1656.84,Ana Souza,E-commerce
+500,2025-08-08,SP,Campinas,Papelaria,Agenda 2026,1,39.36,39.36,Diego Alves,E-commerce
+501,2025-08-08,BA,Salvador,Casa,Jogo de Panelas,2,266.2,532.4,Felipe Costa,Loja física
+502,2025-08-08,SP,São Paulo,Papelaria,Agenda 2026,2,41.84,83.68,Ana Souza,Marketplace
+503,2025-08-08,RS,Caxias do Sul,Esporte,Tapete de Yoga,1,84.54,84.54,Elaine Rocha,E-commerce
+504,2025-08-08,SP,Santos,Papelaria,Mochila Escolar,2,122.36,244.72,Elaine Rocha,Loja física
+505,2025-08-08,RJ,Niterói,Esporte,Bola de Futebol,2,105.85,211.7,Felipe Costa,E-commerce
+506,2025-08-09,RJ,Niterói,Eletrônicos,Carregador Portátil,2,84.9,169.8,Felipe Costa,Loja física
+507,2025-08-10,RJ,Niterói,Casa,Aspirador Robô,1,842.12,842.12,Elaine Rocha,Marketplace
+508,2025-08-10,RJ,Rio de Janeiro,Eletrônicos,Caixa de Som,1,226.6,226.6,Elaine Rocha,Loja física
+509,2025-08-10,RJ,Rio de Janeiro,Eletrônicos,Carregador Portátil,3,94.0,282.0,Ana Souza,E-commerce
+510,2025-08-10,RS,Caxias do Sul,Casa,Aspirador Robô,1,880.8,880.8,Bruno Lima,Marketplace
+511,2025-08-11,PR,Londrina,Casa,Air Fryer,1,429.23,429.23,Bruno Lima,Marketplace
+512,2025-08-12,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,139.32,139.32,Carla Mendes,E-commerce
+513,2025-08-12,RS,Porto Alegre,Esporte,Tapete de Yoga,3,73.7,221.1,Elaine Rocha,Loja física
+514,2025-08-12,BA,Salvador,Eletrônicos,Carregador Portátil,2,93.15,186.3,Felipe Costa,Loja física
+515,2025-08-13,PR,Curitiba,Papelaria,Caderno Universitário,3,23.72,71.16,Carla Mendes,Marketplace
+516,2025-08-14,SP,Campinas,Eletrônicos,Smartwatch,2,371.82,743.64,Carla Mendes,Loja física
+517,2025-08-14,PR,Londrina,Eletrônicos,Smartwatch,2,415.31,830.62,Diego Alves,Loja física
+518,2025-08-14,MG,Belo Horizonte,Papelaria,Agenda 2026,2,42.81,85.62,Ana Souza,Marketplace
+519,2025-08-15,SP,São Paulo,Esporte,Garrafa Térmica,5,59.47,297.35,Carla Mendes,E-commerce
+520,2025-08-15,BA,Feira de Santana,Papelaria,Mochila Escolar,5,125.61,628.05,Elaine Rocha,Marketplace
+521,2025-08-16,BA,Salvador,Casa,Jogo de Panelas,2,254.17,508.34,Ana Souza,Marketplace
+522,2025-08-16,PR,Londrina,Casa,Jogo de Panelas,2,250.59,501.18,Elaine Rocha,Marketplace
+523,2025-08-17,MG,Uberlândia,Esporte,Garrafa Térmica,2,62.49,124.98,Carla Mendes,Marketplace
+524,2025-08-17,BA,Salvador,Papelaria,Mochila Escolar,4,134.45,537.8,Diego Alves,Marketplace
+525,2025-08-18,BA,Feira de Santana,Papelaria,Caderno Universitário,2,25.95,51.9,Diego Alves,Marketplace
+526,2025-08-18,SP,São Paulo,Casa,Air Fryer,1,429.27,429.27,Felipe Costa,Loja física
+527,2025-08-19,BA,Salvador,Eletrônicos,Fone Bluetooth,1,143.78,143.78,Ana Souza,E-commerce
+528,2025-08-19,RS,Porto Alegre,Esporte,Tênis de Corrida,1,306.99,306.99,Felipe Costa,E-commerce
+529,2025-08-19,SP,Campinas,Casa,Jogo de Panelas,1,278.72,278.72,Diego Alves,Loja física
+530,2025-08-19,SP,São Paulo,Eletrônicos,Carregador Portátil,1,83.0,83.0,Ana Souza,Loja física
+531,2025-08-19,SP,São Paulo,Esporte,Garrafa Térmica,1,55.93,55.93,Felipe Costa,Loja física
+532,2025-08-20,RS,Caxias do Sul,Eletrônicos,Caixa de Som,1,208.27,208.27,Ana Souza,E-commerce
+533,2025-08-20,PR,Londrina,Papelaria,Kit Canetas,2,18.64,37.28,Carla Mendes,Loja física
+534,2025-08-20,SP,Santos,Esporte,Tênis de Corrida,4,303.13,1212.52,Carla Mendes,E-commerce
+535,2025-08-20,RJ,Niterói,Papelaria,Mochila Escolar,1,128.41,128.41,Carla Mendes,Loja física
+536,2025-08-21,SP,São Paulo,Casa,Air Fryer,3,394.2,1182.6,Ana Souza,Loja física
+537,2025-08-22,PR,Londrina,Casa,Aspirador Robô,2,848.34,1696.68,Ana Souza,Marketplace
+538,2025-08-22,SP,São Paulo,Casa,Air Fryer,1,404.73,404.73,Carla Mendes,Marketplace
+539,2025-08-22,SP,Santos,Esporte,Tapete de Yoga,1,76.95,76.95,Felipe Costa,Loja física
+540,2025-08-22,SP,Campinas,Esporte,Bola de Futebol,5,106.26,531.3,Elaine Rocha,Marketplace
+541,2025-08-23,SP,Campinas,Eletrônicos,Carregador Portátil,4,96.95,387.8,Diego Alves,Loja física
+542,2025-08-23,RS,Caxias do Sul,Papelaria,Mochila Escolar,1,122.52,122.52,Carla Mendes,Marketplace
+543,2025-08-23,BA,Feira de Santana,Casa,Aspirador Robô,1,950.25,950.25,Felipe Costa,Loja física
+544,2025-08-23,SP,São Paulo,Papelaria,Mochila Escolar,2,128.1,256.2,Bruno Lima,Loja física
+545,2025-08-25,RJ,Rio de Janeiro,Casa,Liquidificador,4,181.92,727.68,Elaine Rocha,Marketplace
+546,2025-08-25,PR,Londrina,Casa,Aspirador Robô,1,953.97,953.97,Bruno Lima,Loja física
+547,2025-08-25,RJ,Niterói,Papelaria,Agenda 2026,3,37.03,111.09,Ana Souza,E-commerce
+548,2025-08-26,MG,Belo Horizonte,Papelaria,Kit Canetas,5,20.39,101.95,Ana Souza,E-commerce
+549,2025-08-27,BA,Feira de Santana,Papelaria,Agenda 2026,1,40.77,40.77,Carla Mendes,E-commerce
+550,2025-08-29,RJ,Niterói,Eletrônicos,Fone Bluetooth,2,143.99,287.98,Carla Mendes,E-commerce
+551,2025-08-29,BA,Feira de Santana,Esporte,Tênis de Corrida,2,296.65,593.3,Bruno Lima,Loja física
+552,2025-08-29,SP,São Paulo,Eletrônicos,Carregador Portátil,1,95.38,95.38,Bruno Lima,Loja física
+553,2025-08-31,MG,Uberlândia,Eletrônicos,Carregador Portátil,2,96.34,192.68,Elaine Rocha,Loja física
+554,2025-08-31,PR,Curitiba,Eletrônicos,Fone Bluetooth,1,141.21,141.21,Bruno Lima,Loja física
+555,2025-09-01,MG,Belo Horizonte,Casa,Jogo de Panelas,1,241.37,241.37,Ana Souza,Loja física
+556,2025-09-01,SP,Campinas,Eletrônicos,Caixa de Som,1,219.33,219.33,Felipe Costa,Marketplace
+557,2025-09-03,SP,São Paulo,Casa,Air Fryer,2,393.16,786.32,Diego Alves,E-commerce
+558,2025-09-03,PR,Curitiba,Esporte,Bola de Futebol,1,107.08,107.08,Carla Mendes,E-commerce
+559,2025-09-03,SP,Campinas,Papelaria,Mochila Escolar,2,138.28,276.56,Elaine Rocha,Loja física
+560,2025-09-04,SP,Santos,Casa,Aspirador Robô,1,896.19,896.19,Ana Souza,Marketplace
+561,2025-09-04,PR,Londrina,Esporte,Tênis de Corrida,1,280.37,280.37,Felipe Costa,Loja física
+562,2025-09-04,BA,Feira de Santana,Casa,Aspirador Robô,2,958.66,1917.32,Diego Alves,Marketplace
+563,2025-09-04,SP,Campinas,Casa,Aspirador Robô,5,938.68,4693.4,Felipe Costa,Marketplace
+564,2025-09-05,PR,Curitiba,Papelaria,Kit Canetas,1,19.31,19.31,Ana Souza,Loja física
+565,2025-09-05,SP,Campinas,Eletrônicos,Fone Bluetooth,3,138.54,415.62,Elaine Rocha,Marketplace
+566,2025-09-06,SP,Santos,Casa,Liquidificador,1,167.02,167.02,Felipe Costa,E-commerce
+567,2025-09-07,RS,Caxias do Sul,Esporte,Tênis de Corrida,2,294.42,588.84,Carla Mendes,Loja física
+568,2025-09-07,PR,Londrina,Esporte,Tênis de Corrida,1,299.03,299.03,Diego Alves,Marketplace
+569,2025-09-08,SP,Campinas,Papelaria,Agenda 2026,1,37.03,37.03,Felipe Costa,Loja física
+570,2025-09-08,SP,Campinas,Esporte,Tênis de Corrida,1,304.65,304.65,Diego Alves,Marketplace
+571,2025-09-08,SP,Campinas,Esporte,Garrafa Térmica,5,56.82,284.1,Ana Souza,Marketplace
+572,2025-09-08,SP,Campinas,Eletrônicos,Caixa de Som,1,223.85,223.85,Felipe Costa,Marketplace
+573,2025-09-08,BA,Feira de Santana,Casa,Air Fryer,1,378.88,378.88,Carla Mendes,Loja física
+574,2025-09-09,BA,Salvador,Papelaria,Agenda 2026,1,38.26,38.26,Elaine Rocha,Marketplace
+575,2025-09-09,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,2,26.51,53.02,Ana Souza,E-commerce
+576,2025-09-10,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,4,78.55,314.2,Elaine Rocha,Marketplace
+577,2025-09-10,PR,Curitiba,Papelaria,Caderno Universitário,5,24.04,120.2,Ana Souza,E-commerce
+578,2025-09-10,PR,Londrina,Casa,Aspirador Robô,1,842.47,842.47,Diego Alves,E-commerce
+579,2025-09-11,SP,Santos,Casa,Liquidificador,2,172.08,344.16,Bruno Lima,Loja física
+580,2025-09-11,SP,Santos,Eletrônicos,Caixa de Som,1,225.36,225.36,Felipe Costa,E-commerce
+581,2025-09-12,SP,Santos,Esporte,Tênis de Corrida,1,276.4,276.4,Carla Mendes,Marketplace
+582,2025-09-12,SP,Santos,Esporte,Bola de Futebol,1,102.46,102.46,Felipe Costa,E-commerce
+583,2025-09-12,SP,Campinas,Casa,Aspirador Robô,1,891.88,891.88,Elaine Rocha,E-commerce
+584,2025-09-13,SP,Campinas,Esporte,Garrafa Térmica,1,55.67,55.67,Diego Alves,E-commerce
+585,2025-09-13,SP,São Paulo,Papelaria,Kit Canetas,3,19.18,57.54,Elaine Rocha,E-commerce
+586,2025-09-13,MG,Uberlândia,Esporte,Garrafa Térmica,1,59.31,59.31,Diego Alves,Marketplace
+587,2025-09-13,SP,Santos,Esporte,Bola de Futebol,2,98.06,196.12,Felipe Costa,Marketplace
+588,2025-09-14,MG,Uberlândia,Papelaria,Kit Canetas,1,18.39,18.39,Diego Alves,Marketplace
+589,2025-09-14,PR,Curitiba,Eletrônicos,Carregador Portátil,1,90.88,90.88,Carla Mendes,Loja física
+590,2025-09-15,MG,Uberlândia,Casa,Air Fryer,2,407.16,814.32,Bruno Lima,Marketplace
+591,2025-09-15,RS,Porto Alegre,Casa,Liquidificador,1,176.94,176.94,Diego Alves,Marketplace
+592,2025-09-16,SP,Campinas,Papelaria,Mochila Escolar,1,119.8,119.8,Bruno Lima,Marketplace
+593,2025-09-17,SP,Santos,Papelaria,Mochila Escolar,1,139.74,139.74,Diego Alves,Loja física
+594,2025-09-18,MG,Belo Horizonte,Eletrônicos,Caixa de Som,1,208.63,208.63,Diego Alves,Loja física
+595,2025-09-18,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,1,82.17,82.17,Diego Alves,E-commerce
+596,2025-09-18,SP,Campinas,Esporte,Bola de Futebol,1,91.91,91.91,Carla Mendes,Marketplace
+597,2025-09-19,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,2,74.57,149.14,Elaine Rocha,E-commerce
+598,2025-09-20,PR,Curitiba,Eletrônicos,Smartwatch,1,417.92,417.92,Ana Souza,E-commerce
+599,2025-09-20,SP,Campinas,Eletrônicos,Carregador Portátil,1,88.86,88.86,Elaine Rocha,Marketplace
+600,2025-09-20,BA,Salvador,Eletrônicos,Fone Bluetooth,1,150.05,150.05,Elaine Rocha,Loja física
+601,2025-09-22,SP,Santos,Esporte,Bola de Futebol,1,92.68,92.68,Ana Souza,E-commerce
+602,2025-09-22,RJ,Niterói,Esporte,Bola de Futebol,1,96.97,96.97,Ana Souza,Marketplace
+603,2025-09-22,RS,Caxias do Sul,Casa,Aspirador Robô,1,961.06,961.06,Ana Souza,Marketplace
+604,2025-09-23,BA,Salvador,Casa,Liquidificador,2,169.74,339.48,Ana Souza,Loja física
+605,2025-09-23,SP,São Paulo,Papelaria,Caderno Universitário,1,25.98,25.98,Diego Alves,E-commerce
+606,2025-09-23,RS,Porto Alegre,Papelaria,Kit Canetas,1,21.01,21.01,Felipe Costa,Marketplace
+607,2025-09-23,RS,Caxias do Sul,Esporte,Tênis de Corrida,1,317.58,317.58,Carla Mendes,Loja física
+608,2025-09-23,RS,Porto Alegre,Papelaria,Caderno Universitário,1,25.3,25.3,Ana Souza,Marketplace
+609,2025-09-24,SP,São Paulo,Esporte,Bola de Futebol,1,93.24,93.24,Diego Alves,Marketplace
+610,2025-09-24,SP,Campinas,Papelaria,Caderno Universitário,1,23.5,23.5,Bruno Lima,Marketplace
+611,2025-09-24,MG,Uberlândia,Eletrônicos,Smartwatch,2,396.93,793.86,Elaine Rocha,Loja física
+612,2025-09-25,SP,Santos,Papelaria,Kit Canetas,1,19.15,19.15,Felipe Costa,E-commerce
+613,2025-09-26,MG,Uberlândia,Eletrônicos,Smartwatch,2,387.22,774.44,Elaine Rocha,E-commerce
+614,2025-09-27,SP,São Paulo,Esporte,Tapete de Yoga,4,74.48,297.92,Diego Alves,E-commerce
+615,2025-09-27,RJ,Niterói,Papelaria,Mochila Escolar,1,126.17,126.17,Ana Souza,Loja física
+616,2025-09-27,RS,Porto Alegre,Eletrônicos,Carregador Portátil,2,94.81,189.62,Bruno Lima,Loja física
+617,2025-09-27,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,2,61.19,122.38,Elaine Rocha,Loja física
+618,2025-09-28,SP,Santos,Eletrônicos,Caixa de Som,1,233.95,233.95,Bruno Lima,E-commerce
+619,2025-09-28,MG,Belo Horizonte,Casa,Jogo de Panelas,1,262.32,262.32,Carla Mendes,E-commerce
+620,2025-09-28,RJ,Niterói,Eletrônicos,Fone Bluetooth,3,153.12,459.36,Ana Souza,Loja física
+621,2025-09-29,MG,Uberlândia,Casa,Air Fryer,2,370.25,740.5,Diego Alves,Loja física
+622,2025-09-29,SP,Santos,Esporte,Tapete de Yoga,1,82.82,82.82,Elaine Rocha,Marketplace
+623,2025-09-29,SP,Santos,Esporte,Tênis de Corrida,3,316.78,950.34,Elaine Rocha,E-commerce
+624,2025-09-30,RJ,Rio de Janeiro,Casa,Aspirador Robô,3,878.12,2634.36,Bruno Lima,Loja física
+625,2025-09-30,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,5,26.67,133.35,Ana Souza,Loja física
+626,2025-10-01,BA,Feira de Santana,Papelaria,Agenda 2026,1,42.23,42.23,Diego Alves,E-commerce
+627,2025-10-01,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,1,140.37,140.37,Elaine Rocha,E-commerce
+628,2025-10-01,MG,Uberlândia,Papelaria,Agenda 2026,4,41.69,166.76,Felipe Costa,Marketplace
+629,2025-10-01,SP,Campinas,Eletrônicos,Carregador Portátil,2,91.46,182.92,Diego Alves,Loja física
+630,2025-10-01,SP,Campinas,Esporte,Tênis de Corrida,1,297.35,297.35,Ana Souza,Marketplace
+631,2025-10-02,RJ,Niterói,Eletrônicos,Carregador Portátil,1,86.47,86.47,Diego Alves,E-commerce
+632,2025-10-04,SP,São Paulo,Esporte,Tênis de Corrida,1,291.71,291.71,Carla Mendes,E-commerce
+633,2025-10-05,RJ,Niterói,Casa,Liquidificador,2,173.86,347.72,Elaine Rocha,Marketplace
+634,2025-10-05,SP,Santos,Eletrônicos,Fone Bluetooth,1,147.23,147.23,Felipe Costa,E-commerce
+635,2025-10-06,RJ,Niterói,Esporte,Tênis de Corrida,4,304.6,1218.4,Felipe Costa,E-commerce
+636,2025-10-06,SP,Santos,Papelaria,Agenda 2026,1,37.91,37.91,Bruno Lima,E-commerce
+637,2025-10-07,SP,Campinas,Eletrônicos,Carregador Portátil,1,92.12,92.12,Felipe Costa,Marketplace
+638,2025-10-08,RJ,Niterói,Esporte,Bola de Futebol,2,100.3,200.6,Carla Mendes,Loja física
+639,2025-10-08,BA,Feira de Santana,Esporte,Bola de Futebol,1,106.72,106.72,Diego Alves,Loja física
+640,2025-10-08,MG,Belo Horizonte,Esporte,Bola de Futebol,1,99.74,99.74,Felipe Costa,Marketplace
+641,2025-10-09,RJ,Niterói,Papelaria,Agenda 2026,1,38.32,38.32,Felipe Costa,Marketplace
+642,2025-10-09,SP,Santos,Eletrônicos,Caixa de Som,4,231.61,926.44,Bruno Lima,Marketplace
+643,2025-10-10,RS,Porto Alegre,Eletrônicos,Fone Bluetooth,1,148.95,148.95,Carla Mendes,E-commerce
+644,2025-10-10,RS,Caxias do Sul,Esporte,Tapete de Yoga,1,86.08,86.08,Ana Souza,Marketplace
+645,2025-10-11,MG,Uberlândia,Papelaria,Mochila Escolar,2,123.42,246.84,Bruno Lima,Loja física
+646,2025-10-11,SP,Campinas,Papelaria,Agenda 2026,2,39.81,79.62,Ana Souza,E-commerce
+647,2025-10-11,BA,Salvador,Casa,Jogo de Panelas,1,272.31,272.31,Ana Souza,Loja física
+648,2025-10-11,MG,Belo Horizonte,Papelaria,Caderno Universitário,2,26.29,52.58,Carla Mendes,Loja física
+649,2025-10-12,MG,Belo Horizonte,Eletrônicos,Caixa de Som,1,229.83,229.83,Ana Souza,E-commerce
+650,2025-10-13,SP,Campinas,Papelaria,Agenda 2026,5,42.46,212.3,Diego Alves,E-commerce
+651,2025-10-13,SP,São Paulo,Casa,Air Fryer,1,405.28,405.28,Elaine Rocha,Marketplace
+652,2025-10-14,BA,Feira de Santana,Eletrônicos,Smartwatch,2,363.21,726.42,Diego Alves,Marketplace
+653,2025-10-14,SP,São Paulo,Eletrônicos,Caixa de Som,1,235.58,235.58,Felipe Costa,Marketplace
+654,2025-10-15,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,2,419.14,838.28,Ana Souza,E-commerce
+655,2025-10-15,BA,Salvador,Casa,Jogo de Panelas,2,269.61,539.22,Felipe Costa,Loja física
+656,2025-10-15,PR,Londrina,Papelaria,Mochila Escolar,3,132.25,396.75,Carla Mendes,Marketplace
+657,2025-10-15,SP,Campinas,Papelaria,Kit Canetas,1,21.41,21.41,Felipe Costa,Loja física
+658,2025-10-17,RS,Porto Alegre,Papelaria,Kit Canetas,1,19.46,19.46,Felipe Costa,Marketplace
+659,2025-10-17,SP,São Paulo,Esporte,Tênis de Corrida,3,282.19,846.57,Elaine Rocha,Loja física
+660,2025-10-19,BA,Feira de Santana,Papelaria,Mochila Escolar,1,132.49,132.49,Carla Mendes,Marketplace
+661,2025-10-19,MG,Belo Horizonte,Esporte,Tapete de Yoga,1,85.42,85.42,Carla Mendes,E-commerce
+662,2025-10-19,SP,Campinas,Eletrônicos,Fone Bluetooth,1,146.0,146.0,Diego Alves,Loja física
+663,2025-10-19,RJ,Niterói,Casa,Aspirador Robô,3,866.32,2598.96,Carla Mendes,Loja física
+664,2025-10-19,PR,Londrina,Casa,Liquidificador,3,174.42,523.26,Diego Alves,Loja física
+665,2025-10-20,SP,Campinas,Papelaria,Caderno Universitário,1,23.46,23.46,Felipe Costa,Loja física
+666,2025-10-20,PR,Londrina,Casa,Air Fryer,1,375.74,375.74,Bruno Lima,Marketplace
+667,2025-10-20,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,1,57.53,57.53,Carla Mendes,E-commerce
+668,2025-10-20,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,2,63.57,127.14,Diego Alves,E-commerce
+669,2025-10-20,MG,Uberlândia,Eletrônicos,Caixa de Som,4,226.13,904.52,Bruno Lima,E-commerce
+670,2025-10-20,RJ,Niterói,Casa,Liquidificador,5,174.05,870.25,Elaine Rocha,Marketplace
+671,2025-10-21,SP,São Paulo,Eletrônicos,Caixa de Som,5,217.12,1085.6,Elaine Rocha,E-commerce
+672,2025-10-21,SP,Campinas,Casa,Jogo de Panelas,1,265.54,265.54,Carla Mendes,E-commerce
+673,2025-10-21,RJ,Rio de Janeiro,Esporte,Bola de Futebol,3,96.7,290.1,Carla Mendes,Marketplace
+674,2025-10-22,PR,Londrina,Casa,Aspirador Robô,2,950.26,1900.52,Carla Mendes,Marketplace
+675,2025-10-22,SP,Santos,Eletrônicos,Carregador Portátil,1,89.18,89.18,Bruno Lima,Marketplace
+676,2025-10-22,PR,Curitiba,Esporte,Bola de Futebol,3,98.57,295.71,Felipe Costa,E-commerce
+677,2025-10-22,SP,Santos,Esporte,Bola de Futebol,5,104.99,524.95,Bruno Lima,E-commerce
+678,2025-10-22,PR,Londrina,Eletrônicos,Fone Bluetooth,4,142.35,569.4,Elaine Rocha,E-commerce
+679,2025-10-24,SP,São Paulo,Esporte,Bola de Futebol,1,97.53,97.53,Elaine Rocha,E-commerce
+680,2025-10-24,MG,Uberlândia,Esporte,Garrafa Térmica,2,62.82,125.64,Carla Mendes,E-commerce
+681,2025-10-25,RS,Porto Alegre,Eletrônicos,Fone Bluetooth,3,149.06,447.18,Felipe Costa,Loja física
+682,2025-10-26,RJ,Niterói,Casa,Aspirador Robô,2,854.02,1708.04,Elaine Rocha,E-commerce
+683,2025-10-26,RJ,Niterói,Papelaria,Agenda 2026,1,37.77,37.77,Ana Souza,Marketplace
+684,2025-10-27,SP,São Paulo,Papelaria,Kit Canetas,2,20.79,41.58,Diego Alves,Marketplace
+685,2025-10-28,SP,Campinas,Eletrônicos,Fone Bluetooth,4,139.68,558.72,Diego Alves,E-commerce
+686,2025-10-29,SP,Santos,Eletrônicos,Caixa de Som,3,232.24,696.72,Elaine Rocha,Loja física
+687,2025-10-29,SP,São Paulo,Papelaria,Mochila Escolar,5,133.94,669.7,Elaine Rocha,E-commerce
+688,2025-10-30,SP,Santos,Esporte,Garrafa Térmica,1,61.72,61.72,Ana Souza,Marketplace
+689,2025-10-31,BA,Feira de Santana,Esporte,Garrafa Térmica,1,60.87,60.87,Felipe Costa,Marketplace
+690,2025-11-02,MG,Belo Horizonte,Esporte,Tapete de Yoga,3,86.07,258.21,Elaine Rocha,Marketplace
+691,2025-11-02,RJ,Rio de Janeiro,Casa,Liquidificador,5,175.37,876.85,Diego Alves,Loja física
+692,2025-11-02,SP,São Paulo,Eletrônicos,Fone Bluetooth,5,161.31,806.55,Diego Alves,Marketplace
+693,2025-11-03,BA,Feira de Santana,Casa,Liquidificador,2,171.54,343.08,Felipe Costa,E-commerce
+694,2025-11-03,SP,São Paulo,Casa,Air Fryer,1,400.95,400.95,Felipe Costa,Loja física
+695,2025-11-03,RJ,Niterói,Esporte,Tênis de Corrida,1,289.67,289.67,Felipe Costa,Loja física
+696,2025-11-03,MG,Uberlândia,Papelaria,Agenda 2026,1,41.92,41.92,Felipe Costa,Loja física
+697,2025-11-04,BA,Feira de Santana,Papelaria,Caderno Universitário,3,25.43,76.29,Carla Mendes,E-commerce
+698,2025-11-04,RS,Caxias do Sul,Eletrônicos,Carregador Portátil,1,88.71,88.71,Felipe Costa,Marketplace
+699,2025-11-04,SP,Santos,Eletrônicos,Caixa de Som,1,233.13,233.13,Carla Mendes,Marketplace
+700,2025-11-05,SP,São Paulo,Casa,Liquidificador,2,168.89,337.78,Ana Souza,Marketplace
+701,2025-11-05,MG,Uberlândia,Esporte,Bola de Futebol,2,98.22,196.44,Diego Alves,Loja física
+702,2025-11-05,MG,Uberlândia,Papelaria,Caderno Universitário,1,23.99,23.99,Carla Mendes,E-commerce
+703,2025-11-05,SP,Campinas,Papelaria,Kit Canetas,1,19.35,19.35,Bruno Lima,Marketplace
+704,2025-11-06,MG,Belo Horizonte,Papelaria,Mochila Escolar,1,133.91,133.91,Ana Souza,E-commerce
+705,2025-11-06,RS,Caxias do Sul,Casa,Jogo de Panelas,2,252.37,504.74,Ana Souza,Loja física
+706,2025-11-06,BA,Salvador,Esporte,Tapete de Yoga,2,77.03,154.06,Elaine Rocha,Marketplace
+707,2025-11-06,SP,São Paulo,Eletrônicos,Carregador Portátil,2,96.65,193.3,Diego Alves,E-commerce
+708,2025-11-06,BA,Feira de Santana,Esporte,Bola de Futebol,3,95.5,286.5,Bruno Lima,E-commerce
+709,2025-11-07,SP,São Paulo,Casa,Aspirador Robô,2,893.86,1787.72,Ana Souza,E-commerce
+710,2025-11-07,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,121.18,121.18,Carla Mendes,Marketplace
+711,2025-11-07,SP,São Paulo,Papelaria,Mochila Escolar,2,134.5,269.0,Elaine Rocha,E-commerce
+712,2025-11-07,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,2,83.49,166.98,Elaine Rocha,E-commerce
+713,2025-11-07,RJ,Niterói,Eletrônicos,Caixa de Som,1,205.42,205.42,Carla Mendes,E-commerce
+714,2025-11-08,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,927.19,927.19,Bruno Lima,Loja física
+715,2025-11-08,RS,Porto Alegre,Eletrônicos,Smartwatch,1,413.1,413.1,Diego Alves,E-commerce
+716,2025-11-08,SP,Campinas,Esporte,Bola de Futebol,2,92.38,184.76,Bruno Lima,Marketplace
+717,2025-11-09,SP,São Paulo,Eletrônicos,Smartwatch,2,373.42,746.84,Felipe Costa,Loja física
+718,2025-11-09,SP,São Paulo,Eletrônicos,Carregador Portátil,2,83.25,166.5,Diego Alves,Marketplace
+719,2025-11-09,BA,Salvador,Casa,Jogo de Panelas,1,267.45,267.45,Carla Mendes,E-commerce
+720,2025-11-09,MG,Belo Horizonte,Eletrônicos,Smartwatch,1,396.81,396.81,Ana Souza,Loja física
+721,2025-11-09,PR,Curitiba,Eletrônicos,Carregador Portátil,3,93.14,279.42,Ana Souza,Loja física
+722,2025-11-09,SP,Campinas,Eletrônicos,Carregador Portátil,4,95.98,383.92,Elaine Rocha,Loja física
+723,2025-11-10,MG,Uberlândia,Esporte,Tapete de Yoga,2,78.95,157.9,Carla Mendes,E-commerce
+724,2025-11-11,RS,Porto Alegre,Casa,Aspirador Robô,2,953.11,1906.22,Bruno Lima,Loja física
+725,2025-11-11,RS,Porto Alegre,Papelaria,Agenda 2026,2,41.26,82.52,Bruno Lima,Marketplace
+726,2025-11-11,SP,Santos,Papelaria,Caderno Universitário,4,25.45,101.8,Carla Mendes,Marketplace
+727,2025-11-11,RJ,Niterói,Papelaria,Mochila Escolar,1,131.68,131.68,Ana Souza,E-commerce
+728,2025-11-12,SP,São Paulo,Esporte,Tênis de Corrida,3,280.56,841.68,Diego Alves,Marketplace
+729,2025-11-12,RS,Porto Alegre,Casa,Aspirador Robô,1,933.74,933.74,Diego Alves,E-commerce
+730,2025-11-12,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,1,408.14,408.14,Felipe Costa,Marketplace
+731,2025-11-12,SP,São Paulo,Papelaria,Kit Canetas,2,20.48,40.96,Carla Mendes,Marketplace
+732,2025-11-13,SP,Santos,Papelaria,Agenda 2026,1,40.71,40.71,Bruno Lima,Loja física
+733,2025-11-13,MG,Belo Horizonte,Esporte,Garrafa Térmica,2,61.4,122.8,Bruno Lima,E-commerce
+734,2025-11-13,PR,Curitiba,Papelaria,Kit Canetas,1,18.59,18.59,Felipe Costa,E-commerce
+735,2025-11-13,PR,Londrina,Papelaria,Kit Canetas,1,18.68,18.68,Bruno Lima,Loja física
+736,2025-11-13,MG,Uberlândia,Esporte,Tapete de Yoga,1,80.6,80.6,Felipe Costa,E-commerce
+737,2025-11-14,SP,São Paulo,Esporte,Garrafa Térmica,1,55.77,55.77,Bruno Lima,E-commerce
+738,2025-11-14,RS,Porto Alegre,Papelaria,Caderno Universitário,2,26.22,52.44,Diego Alves,E-commerce
+739,2025-11-14,RJ,Niterói,Esporte,Tênis de Corrida,1,285.6,285.6,Ana Souza,E-commerce
+740,2025-11-15,PR,Londrina,Casa,Air Fryer,4,378.17,1512.68,Bruno Lima,Loja física
+741,2025-11-16,SP,Campinas,Casa,Jogo de Panelas,1,247.45,247.45,Elaine Rocha,E-commerce
+742,2025-11-17,RJ,Rio de Janeiro,Casa,Air Fryer,4,383.73,1534.92,Elaine Rocha,Marketplace
+743,2025-11-17,SP,Santos,Esporte,Garrafa Térmica,1,64.07,64.07,Ana Souza,Loja física
+744,2025-11-17,BA,Feira de Santana,Papelaria,Agenda 2026,1,37.54,37.54,Elaine Rocha,Loja física
+745,2025-11-17,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,41.58,41.58,Felipe Costa,Marketplace
+746,2025-11-17,SP,São Paulo,Esporte,Tapete de Yoga,1,84.25,84.25,Felipe Costa,E-commerce
+747,2025-11-17,BA,Salvador,Eletrônicos,Smartwatch,1,416.69,416.69,Ana Souza,Loja física
+748,2025-11-18,RS,Caxias do Sul,Esporte,Garrafa Térmica,1,56.87,56.87,Diego Alves,E-commerce
+749,2025-11-18,RS,Porto Alegre,Papelaria,Kit Canetas,1,20.54,20.54,Bruno Lima,Marketplace
+750,2025-11-19,RJ,Niterói,Esporte,Bola de Futebol,4,92.0,368.0,Ana Souza,E-commerce
+751,2025-11-19,PR,Londrina,Esporte,Tênis de Corrida,1,299.76,299.76,Diego Alves,E-commerce
+752,2025-11-20,RJ,Rio de Janeiro,Casa,Liquidificador,1,179.92,179.92,Felipe Costa,Loja física
+753,2025-11-20,BA,Salvador,Eletrônicos,Caixa de Som,5,214.01,1070.05,Carla Mendes,Marketplace
+754,2025-11-20,RS,Caxias do Sul,Esporte,Tapete de Yoga,2,73.98,147.96,Carla Mendes,E-commerce
+755,2025-11-21,SP,Santos,Papelaria,Kit Canetas,3,19.35,58.05,Carla Mendes,Loja física
+756,2025-11-21,SP,Campinas,Casa,Aspirador Robô,1,951.4,951.4,Felipe Costa,E-commerce
+757,2025-11-21,MG,Uberlândia,Eletrônicos,Fone Bluetooth,2,143.54,287.08,Carla Mendes,Loja física
+758,2025-11-22,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,2,383.77,767.54,Ana Souza,E-commerce
+759,2025-11-23,SP,São Paulo,Papelaria,Agenda 2026,1,38.29,38.29,Carla Mendes,E-commerce
+760,2025-11-23,BA,Feira de Santana,Esporte,Tênis de Corrida,1,300.94,300.94,Diego Alves,Marketplace
+761,2025-11-23,RJ,Niterói,Esporte,Tapete de Yoga,4,75.28,301.12,Bruno Lima,E-commerce
+762,2025-11-24,SP,São Paulo,Papelaria,Agenda 2026,1,36.78,36.78,Felipe Costa,Loja física
+763,2025-11-24,RS,Porto Alegre,Eletrônicos,Caixa de Som,2,221.88,443.76,Carla Mendes,Marketplace
+764,2025-11-24,PR,Curitiba,Papelaria,Agenda 2026,1,38.15,38.15,Diego Alves,E-commerce
+765,2025-11-26,RJ,Niterói,Casa,Aspirador Robô,5,941.25,4706.25,Felipe Costa,Loja física
+766,2025-11-26,SP,Campinas,Eletrônicos,Fone Bluetooth,2,143.94,287.88,Carla Mendes,Loja física
+767,2025-11-27,BA,Feira de Santana,Casa,Aspirador Robô,1,836.9,836.9,Carla Mendes,E-commerce
+768,2025-11-28,SP,Santos,Papelaria,Mochila Escolar,2,131.53,263.06,Diego Alves,Marketplace
+769,2025-11-28,SP,São Paulo,Casa,Air Fryer,1,375.25,375.25,Felipe Costa,E-commerce
+770,2025-11-29,RJ,Niterói,Casa,Liquidificador,3,181.58,544.74,Felipe Costa,E-commerce
+771,2025-11-29,PR,Londrina,Papelaria,Mochila Escolar,1,128.46,128.46,Diego Alves,Marketplace
+772,2025-11-30,MG,Belo Horizonte,Papelaria,Agenda 2026,1,39.27,39.27,Elaine Rocha,Loja física
+773,2025-11-30,SP,Santos,Esporte,Bola de Futebol,1,95.63,95.63,Elaine Rocha,Loja física
+774,2025-12-01,SP,Campinas,Casa,Air Fryer,1,427.32,427.32,Elaine Rocha,Loja física
+775,2025-12-01,SP,Santos,Eletrônicos,Fone Bluetooth,2,153.76,307.52,Diego Alves,E-commerce
+776,2025-12-01,BA,Feira de Santana,Esporte,Tênis de Corrida,2,292.55,585.1,Elaine Rocha,Loja física
+777,2025-12-01,SP,Campinas,Papelaria,Agenda 2026,1,38.32,38.32,Ana Souza,Marketplace
+778,2025-12-01,SP,Santos,Eletrônicos,Carregador Portátil,2,92.76,185.52,Bruno Lima,Loja física
+779,2025-12-02,MG,Belo Horizonte,Esporte,Tapete de Yoga,3,84.38,253.14,Diego Alves,Loja física
+780,2025-12-02,SP,São Paulo,Casa,Liquidificador,1,186.36,186.36,Felipe Costa,Marketplace
+781,2025-12-04,RJ,Rio de Janeiro,Casa,Liquidificador,2,182.23,364.46,Bruno Lima,Loja física
+782,2025-12-04,RJ,Rio de Janeiro,Casa,Air Fryer,2,374.06,748.12,Felipe Costa,Marketplace
+783,2025-12-05,SP,Santos,Papelaria,Agenda 2026,2,40.08,80.16,Diego Alves,Loja física
+784,2025-12-05,SP,Campinas,Papelaria,Agenda 2026,1,41.2,41.2,Bruno Lima,E-commerce
+785,2025-12-05,PR,Londrina,Esporte,Bola de Futebol,1,92.39,92.39,Carla Mendes,E-commerce
+786,2025-12-05,SP,Santos,Casa,Air Fryer,1,385.28,385.28,Bruno Lima,E-commerce
+787,2025-12-06,BA,Salvador,Eletrônicos,Smartwatch,2,390.01,780.02,Diego Alves,Loja física
+788,2025-12-06,SP,São Paulo,Eletrônicos,Smartwatch,2,407.31,814.62,Elaine Rocha,Loja física
+789,2025-12-06,BA,Feira de Santana,Casa,Aspirador Robô,5,853.58,4267.9,Carla Mendes,Loja física
+790,2025-12-07,MG,Uberlândia,Esporte,Tapete de Yoga,5,84.62,423.1,Bruno Lima,Marketplace
+791,2025-12-07,SP,Campinas,Papelaria,Kit Canetas,2,20.95,41.9,Felipe Costa,E-commerce
+792,2025-12-07,SP,Santos,Eletrônicos,Fone Bluetooth,1,151.36,151.36,Diego Alves,Marketplace
+793,2025-12-07,BA,Salvador,Papelaria,Agenda 2026,2,42.52,85.04,Felipe Costa,E-commerce
+794,2025-12-08,SP,Santos,Papelaria,Mochila Escolar,4,132.05,528.2,Bruno Lima,Loja física
+795,2025-12-08,PR,Londrina,Casa,Aspirador Robô,1,906.43,906.43,Ana Souza,Loja física
+796,2025-12-08,SP,Santos,Eletrônicos,Smartwatch,3,369.96,1109.88,Felipe Costa,E-commerce
+797,2025-12-08,PR,Curitiba,Eletrônicos,Smartwatch,1,414.26,414.26,Felipe Costa,Marketplace
+798,2025-12-08,BA,Feira de Santana,Eletrônicos,Carregador Portátil,2,92.57,185.14,Ana Souza,Loja física
+799,2025-12-09,MG,Uberlândia,Eletrônicos,Fone Bluetooth,4,155.67,622.68,Bruno Lima,Loja física
+800,2025-12-09,BA,Salvador,Eletrônicos,Caixa de Som,1,210.69,210.69,Ana Souza,E-commerce
+801,2025-12-10,RJ,Niterói,Papelaria,Agenda 2026,1,38.33,38.33,Carla Mendes,E-commerce
+802,2025-12-10,SP,São Paulo,Esporte,Bola de Futebol,2,97.87,195.74,Bruno Lima,Marketplace
+803,2025-12-10,PR,Curitiba,Eletrônicos,Carregador Portátil,1,95.9,95.9,Bruno Lima,Marketplace
+804,2025-12-11,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,290.51,290.51,Carla Mendes,E-commerce
+805,2025-12-12,SP,Campinas,Esporte,Bola de Futebol,3,94.6,283.8,Bruno Lima,Loja física
+806,2025-12-12,BA,Feira de Santana,Papelaria,Mochila Escolar,3,137.03,411.09,Felipe Costa,Loja física
+807,2025-12-12,BA,Salvador,Papelaria,Agenda 2026,1,42.27,42.27,Bruno Lima,Marketplace
+808,2025-12-13,SP,São Paulo,Esporte,Tênis de Corrida,1,294.78,294.78,Felipe Costa,Loja física
+809,2025-12-13,BA,Feira de Santana,Eletrônicos,Smartwatch,1,404.82,404.82,Felipe Costa,Marketplace
+810,2025-12-14,SP,Campinas,Papelaria,Agenda 2026,2,38.0,76.0,Ana Souza,Marketplace
+811,2025-12-14,BA,Salvador,Casa,Liquidificador,3,166.13,498.39,Ana Souza,Loja física
+812,2025-12-15,RS,Porto Alegre,Eletrônicos,Smartwatch,1,367.5,367.5,Bruno Lima,Marketplace
+813,2025-12-15,PR,Curitiba,Eletrônicos,Carregador Portátil,1,84.54,84.54,Diego Alves,Marketplace
+814,2025-12-17,SP,Campinas,Casa,Air Fryer,4,402.0,1608.0,Ana Souza,E-commerce
+815,2025-12-17,SP,Campinas,Papelaria,Agenda 2026,2,41.17,82.34,Elaine Rocha,Loja física
+816,2025-12-17,RS,Porto Alegre,Casa,Aspirador Robô,1,882.52,882.52,Bruno Lima,Marketplace
+817,2025-12-17,SP,Campinas,Eletrônicos,Fone Bluetooth,3,143.24,429.72,Bruno Lima,Marketplace
+818,2025-12-18,RS,Porto Alegre,Casa,Air Fryer,1,382.9,382.9,Diego Alves,Marketplace
+819,2025-12-18,RS,Porto Alegre,Papelaria,Agenda 2026,1,39.12,39.12,Carla Mendes,E-commerce
+820,2025-12-19,RS,Caxias do Sul,Esporte,Tapete de Yoga,1,75.81,75.81,Bruno Lima,Loja física
+821,2025-12-19,PR,Londrina,Casa,Air Fryer,1,414.82,414.82,Felipe Costa,Loja física
+822,2025-12-19,RS,Porto Alegre,Esporte,Garrafa Térmica,1,63.28,63.28,Elaine Rocha,Loja física
+823,2025-12-19,SP,São Paulo,Casa,Air Fryer,2,388.88,777.76,Felipe Costa,Marketplace
+824,2025-12-20,BA,Feira de Santana,Esporte,Garrafa Térmica,2,57.59,115.18,Felipe Costa,Loja física
+825,2025-12-21,BA,Salvador,Esporte,Bola de Futebol,2,95.27,190.54,Felipe Costa,E-commerce
+826,2025-12-21,RS,Caxias do Sul,Papelaria,Caderno Universitário,1,23.72,23.72,Elaine Rocha,Loja física
+827,2025-12-21,PR,Curitiba,Casa,Aspirador Robô,4,880.91,3523.64,Ana Souza,Loja física
+828,2025-12-22,PR,Londrina,Papelaria,Agenda 2026,1,40.94,40.94,Diego Alves,E-commerce
+829,2025-12-22,MG,Uberlândia,Casa,Jogo de Panelas,2,268.2,536.4,Felipe Costa,E-commerce
+830,2025-12-22,PR,Curitiba,Esporte,Bola de Futebol,2,101.52,203.04,Ana Souza,E-commerce
+831,2025-12-23,BA,Salvador,Esporte,Tênis de Corrida,1,313.13,313.13,Felipe Costa,Marketplace
+832,2025-12-24,PR,Londrina,Papelaria,Caderno Universitário,1,26.48,26.48,Diego Alves,Loja física
+833,2025-12-25,MG,Uberlândia,Casa,Aspirador Robô,3,833.54,2500.62,Bruno Lima,Marketplace
+834,2025-12-25,SP,São Paulo,Eletrônicos,Fone Bluetooth,2,147.16,294.32,Bruno Lima,E-commerce
+835,2025-12-26,SP,São Paulo,Esporte,Tênis de Corrida,2,282.72,565.44,Ana Souza,Loja física
+836,2025-12-26,BA,Feira de Santana,Casa,Liquidificador,3,188.1,564.3,Ana Souza,Marketplace
+837,2025-12-26,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,125.52,125.52,Elaine Rocha,Marketplace
+838,2025-12-26,SP,São Paulo,Casa,Liquidificador,2,184.16,368.32,Felipe Costa,Loja física
+839,2025-12-27,SP,Campinas,Casa,Jogo de Panelas,2,272.87,545.74,Diego Alves,Loja física
+840,2025-12-27,SP,São Paulo,Papelaria,Kit Canetas,4,20.31,81.24,Felipe Costa,Loja física
+841,2025-12-27,MG,Belo Horizonte,Papelaria,Agenda 2026,1,40.57,40.57,Diego Alves,Loja física
+842,2025-12-27,MG,Uberlândia,Eletrônicos,Carregador Portátil,1,90.71,90.71,Bruno Lima,E-commerce
+843,2025-12-27,SP,São Paulo,Esporte,Tapete de Yoga,1,78.96,78.96,Diego Alves,E-commerce
+844,2025-12-28,MG,Belo Horizonte,Casa,Air Fryer,1,371.88,371.88,Bruno Lima,Loja física
+845,2025-12-28,MG,Uberlândia,Papelaria,Caderno Universitário,2,23.21,46.42,Carla Mendes,Marketplace
+846,2025-12-28,BA,Feira de Santana,Esporte,Bola de Futebol,1,106.09,106.09,Bruno Lima,E-commerce
+847,2025-12-29,SP,Santos,Papelaria,Kit Canetas,2,21.32,42.64,Bruno Lima,E-commerce
+848,2025-12-29,MG,Belo Horizonte,Esporte,Tapete de Yoga,2,73.76,147.52,Bruno Lima,Marketplace
+849,2025-12-29,RJ,Rio de Janeiro,Esporte,Bola de Futebol,1,100.03,100.03,Carla Mendes,E-commerce
+850,2025-12-31,SP,Campinas,Eletrônicos,Smartwatch,1,405.58,405.58,Ana Souza,Marketplace
+851,2026-01-01,SP,Campinas,Eletrônicos,Carregador Portátil,4,95.99,383.96,Ana Souza,Marketplace
+852,2026-01-02,SP,Santos,Casa,Jogo de Panelas,3,247.17,741.51,Felipe Costa,E-commerce
+853,2026-01-02,RJ,Niterói,Esporte,Bola de Futebol,1,107.28,107.28,Elaine Rocha,Loja física
+854,2026-01-02,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,39.98,39.98,Bruno Lima,E-commerce
+855,2026-01-02,SP,Campinas,Casa,Air Fryer,2,395.11,790.22,Elaine Rocha,Marketplace
+856,2026-01-02,SP,Santos,Papelaria,Kit Canetas,1,19.05,19.05,Carla Mendes,Loja física
+857,2026-01-02,SP,Santos,Casa,Liquidificador,2,179.02,358.04,Carla Mendes,E-commerce
+858,2026-01-03,SP,Campinas,Casa,Air Fryer,3,427.66,1282.98,Ana Souza,Marketplace
+859,2026-01-03,RJ,Niterói,Casa,Liquidificador,1,166.54,166.54,Elaine Rocha,Loja física
+860,2026-01-03,RS,Porto Alegre,Papelaria,Kit Canetas,2,18.41,36.82,Carla Mendes,Loja física
+861,2026-01-04,BA,Feira de Santana,Esporte,Tênis de Corrida,3,280.47,841.41,Ana Souza,Loja física
+862,2026-01-04,SP,São Paulo,Casa,Aspirador Robô,5,918.96,4594.8,Felipe Costa,Marketplace
+863,2026-01-05,MG,Uberlândia,Esporte,Garrafa Térmica,1,60.97,60.97,Carla Mendes,E-commerce
+864,2026-01-05,SP,Santos,Esporte,Tapete de Yoga,1,78.44,78.44,Carla Mendes,E-commerce
+865,2026-01-06,BA,Salvador,Esporte,Garrafa Térmica,1,57.76,57.76,Bruno Lima,Marketplace
+866,2026-01-06,SP,Santos,Eletrônicos,Smartwatch,4,400.14,1600.56,Carla Mendes,E-commerce
+867,2026-01-06,RS,Caxias do Sul,Casa,Air Fryer,2,412.89,825.78,Ana Souza,Loja física
+868,2026-01-08,SP,Santos,Esporte,Bola de Futebol,1,104.49,104.49,Carla Mendes,Marketplace
+869,2026-01-08,SP,Campinas,Casa,Aspirador Robô,1,854.12,854.12,Bruno Lima,Marketplace
+870,2026-01-10,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,3,22.91,68.73,Bruno Lima,E-commerce
+871,2026-01-11,SP,Santos,Eletrônicos,Fone Bluetooth,1,160.22,160.22,Diego Alves,Loja física
+872,2026-01-11,SP,Santos,Eletrônicos,Carregador Portátil,1,88.18,88.18,Carla Mendes,E-commerce
+873,2026-01-12,PR,Curitiba,Casa,Jogo de Panelas,5,257.77,1288.85,Ana Souza,Loja física
+874,2026-01-12,MG,Uberlândia,Esporte,Tapete de Yoga,2,83.46,166.92,Diego Alves,Loja física
+875,2026-01-13,BA,Salvador,Esporte,Tênis de Corrida,1,289.96,289.96,Felipe Costa,E-commerce
+876,2026-01-13,SP,São Paulo,Esporte,Tapete de Yoga,1,83.32,83.32,Ana Souza,Marketplace
+877,2026-01-14,MG,Uberlândia,Casa,Air Fryer,3,375.59,1126.77,Felipe Costa,Marketplace
+878,2026-01-15,SP,Santos,Eletrônicos,Smartwatch,2,374.08,748.16,Carla Mendes,E-commerce
+879,2026-01-15,SP,Campinas,Casa,Jogo de Panelas,2,243.24,486.48,Elaine Rocha,Marketplace
+880,2026-01-16,RJ,Niterói,Papelaria,Kit Canetas,1,20.1,20.1,Elaine Rocha,Marketplace
+881,2026-01-16,RJ,Niterói,Esporte,Bola de Futebol,1,95.27,95.27,Felipe Costa,Marketplace
+882,2026-01-16,SP,Campinas,Eletrônicos,Fone Bluetooth,1,145.55,145.55,Carla Mendes,Loja física
+883,2026-01-17,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,1,397.54,397.54,Elaine Rocha,Marketplace
+884,2026-01-17,SP,Campinas,Papelaria,Agenda 2026,1,37.86,37.86,Elaine Rocha,Marketplace
+885,2026-01-18,PR,Londrina,Esporte,Garrafa Térmica,1,60.62,60.62,Diego Alves,Marketplace
+886,2026-01-18,RS,Caxias do Sul,Casa,Air Fryer,1,385.6,385.6,Carla Mendes,Loja física
+887,2026-01-18,RS,Porto Alegre,Casa,Air Fryer,2,369.75,739.5,Diego Alves,Marketplace
+888,2026-01-18,SP,São Paulo,Papelaria,Kit Canetas,4,18.4,73.6,Felipe Costa,Marketplace
+889,2026-01-18,PR,Curitiba,Papelaria,Agenda 2026,4,36.83,147.32,Carla Mendes,Loja física
+890,2026-01-18,SP,Santos,Eletrônicos,Fone Bluetooth,1,155.65,155.65,Elaine Rocha,Loja física
+891,2026-01-18,MG,Belo Horizonte,Papelaria,Kit Canetas,1,18.4,18.4,Felipe Costa,Marketplace
+892,2026-01-19,RJ,Niterói,Eletrônicos,Smartwatch,1,380.8,380.8,Bruno Lima,Marketplace
+893,2026-01-20,MG,Belo Horizonte,Eletrônicos,Smartwatch,1,373.65,373.65,Ana Souza,Marketplace
+894,2026-01-20,SP,São Paulo,Casa,Aspirador Robô,1,933.41,933.41,Carla Mendes,E-commerce
+895,2026-01-20,MG,Belo Horizonte,Esporte,Garrafa Térmica,3,60.81,182.43,Carla Mendes,Marketplace
+896,2026-01-20,SP,Santos,Casa,Jogo de Panelas,5,244.04,1220.2,Diego Alves,Marketplace
+897,2026-01-20,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,4,82.39,329.56,Diego Alves,E-commerce
+898,2026-01-20,SP,Santos,Casa,Aspirador Robô,1,834.16,834.16,Bruno Lima,Loja física
+899,2026-01-21,RS,Caxias do Sul,Casa,Air Fryer,5,373.21,1866.05,Bruno Lima,Loja física
+900,2026-01-21,BA,Salvador,Eletrônicos,Caixa de Som,3,206.83,620.49,Bruno Lima,E-commerce
+901,2026-01-21,SP,São Paulo,Esporte,Tapete de Yoga,2,80.49,160.98,Felipe Costa,Marketplace
+902,2026-01-21,PR,Curitiba,Esporte,Tênis de Corrida,1,276.21,276.21,Ana Souza,Marketplace
+903,2026-01-22,SP,São Paulo,Papelaria,Caderno Universitário,1,25.24,25.24,Felipe Costa,Loja física
+904,2026-01-22,RS,Porto Alegre,Casa,Aspirador Robô,1,916.12,916.12,Bruno Lima,Marketplace
+905,2026-01-23,BA,Feira de Santana,Casa,Aspirador Robô,4,852.31,3409.24,Ana Souza,Marketplace
+906,2026-01-23,SP,Santos,Eletrônicos,Carregador Portátil,4,88.12,352.48,Elaine Rocha,E-commerce
+907,2026-01-24,PR,Curitiba,Papelaria,Kit Canetas,1,19.33,19.33,Elaine Rocha,E-commerce
+908,2026-01-24,MG,Uberlândia,Esporte,Tapete de Yoga,4,75.36,301.44,Ana Souza,E-commerce
+909,2026-01-24,SP,Campinas,Papelaria,Kit Canetas,1,19.86,19.86,Carla Mendes,E-commerce
+910,2026-01-25,MG,Belo Horizonte,Eletrônicos,Smartwatch,2,389.42,778.84,Elaine Rocha,Loja física
+911,2026-01-25,BA,Feira de Santana,Eletrônicos,Carregador Portátil,1,87.89,87.89,Ana Souza,E-commerce
+912,2026-01-26,SP,Campinas,Casa,Liquidificador,3,193.29,579.87,Ana Souza,Loja física
+913,2026-01-27,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,3,359.2,1077.6,Ana Souza,E-commerce
+914,2026-01-27,RJ,Rio de Janeiro,Esporte,Garrafa Térmica,1,60.6,60.6,Carla Mendes,Marketplace
+915,2026-01-27,SP,Campinas,Esporte,Tapete de Yoga,2,83.26,166.52,Diego Alves,Loja física
+916,2026-01-27,SP,São Paulo,Papelaria,Mochila Escolar,1,123.21,123.21,Bruno Lima,Marketplace
+917,2026-01-28,SP,Campinas,Eletrônicos,Carregador Portátil,2,93.42,186.84,Diego Alves,E-commerce
+918,2026-01-28,SP,São Paulo,Papelaria,Caderno Universitário,3,25.47,76.41,Ana Souza,E-commerce
+919,2026-01-29,RS,Caxias do Sul,Papelaria,Caderno Universitário,3,26.68,80.04,Felipe Costa,E-commerce
+920,2026-01-29,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,853.61,853.61,Ana Souza,Marketplace
+921,2026-01-29,SP,São Paulo,Eletrônicos,Carregador Portátil,1,95.0,95.0,Ana Souza,E-commerce
+922,2026-01-29,RJ,Niterói,Papelaria,Kit Canetas,1,18.62,18.62,Elaine Rocha,Loja física
+923,2026-01-29,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,323.53,323.53,Elaine Rocha,Loja física
+924,2026-01-30,RS,Porto Alegre,Casa,Aspirador Robô,3,832.04,2496.12,Felipe Costa,Marketplace
+925,2026-01-30,SP,Santos,Eletrônicos,Fone Bluetooth,1,153.34,153.34,Diego Alves,E-commerce
+926,2026-01-31,SP,Campinas,Eletrônicos,Fone Bluetooth,4,161.58,646.32,Bruno Lima,E-commerce
+927,2026-02-02,RJ,Niterói,Eletrônicos,Caixa de Som,2,230.84,461.68,Diego Alves,Marketplace
+928,2026-02-03,SP,São Paulo,Eletrônicos,Fone Bluetooth,1,160.52,160.52,Carla Mendes,Loja física
+929,2026-02-04,BA,Salvador,Papelaria,Caderno Universitário,1,24.59,24.59,Elaine Rocha,Marketplace
+930,2026-02-04,SP,São Paulo,Esporte,Tênis de Corrida,1,309.06,309.06,Diego Alves,Marketplace
+931,2026-02-04,PR,Curitiba,Papelaria,Kit Canetas,2,18.6,37.2,Elaine Rocha,E-commerce
+932,2026-02-05,MG,Uberlândia,Esporte,Bola de Futebol,2,98.36,196.72,Ana Souza,Marketplace
+933,2026-02-05,PR,Londrina,Esporte,Garrafa Térmica,1,57.49,57.49,Bruno Lima,E-commerce
+934,2026-02-06,SP,São Paulo,Eletrônicos,Smartwatch,1,418.76,418.76,Ana Souza,Loja física
+935,2026-02-06,SP,Santos,Eletrônicos,Carregador Portátil,2,90.75,181.5,Carla Mendes,Loja física
+936,2026-02-06,MG,Uberlândia,Papelaria,Caderno Universitário,5,23.78,118.9,Carla Mendes,E-commerce
+937,2026-02-06,SP,Campinas,Casa,Liquidificador,1,191.29,191.29,Diego Alves,Loja física
+938,2026-02-07,SP,Campinas,Esporte,Tapete de Yoga,2,77.49,154.98,Elaine Rocha,Loja física
+939,2026-02-07,SP,Campinas,Eletrônicos,Smartwatch,1,391.53,391.53,Elaine Rocha,Marketplace
+940,2026-02-07,BA,Feira de Santana,Casa,Aspirador Robô,1,967.66,967.66,Carla Mendes,Marketplace
+941,2026-02-07,RS,Porto Alegre,Casa,Aspirador Robô,1,868.76,868.76,Bruno Lima,E-commerce
+942,2026-02-08,MG,Uberlândia,Esporte,Bola de Futebol,1,98.86,98.86,Bruno Lima,E-commerce
+943,2026-02-10,SP,Campinas,Casa,Jogo de Panelas,2,250.24,500.48,Carla Mendes,E-commerce
+944,2026-02-10,PR,Curitiba,Eletrônicos,Caixa de Som,1,226.53,226.53,Ana Souza,Loja física
+945,2026-02-10,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,2,382.45,764.9,Ana Souza,Marketplace
+946,2026-02-10,MG,Uberlândia,Papelaria,Mochila Escolar,1,122.34,122.34,Diego Alves,Marketplace
+947,2026-02-11,RS,Caxias do Sul,Eletrônicos,Caixa de Som,2,202.8,405.6,Diego Alves,E-commerce
+948,2026-02-11,MG,Belo Horizonte,Papelaria,Mochila Escolar,1,125.71,125.71,Ana Souza,E-commerce
+949,2026-02-12,SP,Santos,Casa,Air Fryer,1,400.64,400.64,Elaine Rocha,Loja física
+950,2026-02-12,RS,Caxias do Sul,Esporte,Garrafa Térmica,2,56.43,112.86,Felipe Costa,Marketplace
+951,2026-02-12,MG,Uberlândia,Esporte,Tapete de Yoga,2,74.44,148.88,Ana Souza,E-commerce
+952,2026-02-12,SP,São Paulo,Papelaria,Agenda 2026,1,41.76,41.76,Ana Souza,Loja física
+953,2026-02-13,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,38.7,38.7,Bruno Lima,Marketplace
+954,2026-02-14,RS,Caxias do Sul,Esporte,Tênis de Corrida,1,276.41,276.41,Elaine Rocha,Marketplace
+955,2026-02-14,SP,Campinas,Esporte,Garrafa Térmica,2,60.07,120.14,Ana Souza,Loja física
+956,2026-02-15,SP,São Paulo,Eletrônicos,Caixa de Som,1,217.29,217.29,Elaine Rocha,E-commerce
+957,2026-02-16,MG,Belo Horizonte,Esporte,Tênis de Corrida,1,276.32,276.32,Bruno Lima,E-commerce
+958,2026-02-16,MG,Belo Horizonte,Esporte,Garrafa Térmica,1,59.5,59.5,Carla Mendes,Marketplace
+959,2026-02-16,RJ,Rio de Janeiro,Esporte,Bola de Futebol,1,93.08,93.08,Elaine Rocha,Loja física
+960,2026-02-16,SP,Campinas,Casa,Air Fryer,4,414.69,1658.76,Carla Mendes,Loja física
+961,2026-02-17,SP,Santos,Casa,Air Fryer,1,405.59,405.59,Ana Souza,Loja física
+962,2026-02-18,BA,Salvador,Esporte,Bola de Futebol,2,92.77,185.54,Elaine Rocha,E-commerce
+963,2026-02-19,SP,São Paulo,Casa,Jogo de Panelas,1,269.32,269.32,Elaine Rocha,Marketplace
+964,2026-02-19,MG,Belo Horizonte,Esporte,Bola de Futebol,2,92.37,184.74,Bruno Lima,E-commerce
+965,2026-02-19,PR,Londrina,Casa,Air Fryer,2,424.98,849.96,Felipe Costa,Loja física
+966,2026-02-19,SP,São Paulo,Casa,Jogo de Panelas,1,259.7,259.7,Bruno Lima,E-commerce
+967,2026-02-20,SP,Santos,Esporte,Tênis de Corrida,2,306.46,612.92,Ana Souza,E-commerce
+968,2026-02-20,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,1,80.49,80.49,Carla Mendes,Marketplace
+969,2026-02-20,SP,São Paulo,Esporte,Tapete de Yoga,2,79.83,159.66,Ana Souza,Loja física
+970,2026-02-20,BA,Salvador,Esporte,Garrafa Térmica,1,63.4,63.4,Felipe Costa,Marketplace
+971,2026-02-20,BA,Salvador,Esporte,Bola de Futebol,3,92.93,278.79,Elaine Rocha,Marketplace
+972,2026-02-21,RS,Porto Alegre,Casa,Liquidificador,3,193.61,580.83,Diego Alves,Loja física
+973,2026-02-21,SP,Campinas,Casa,Jogo de Panelas,2,250.21,500.42,Felipe Costa,E-commerce
+974,2026-02-25,SP,São Paulo,Casa,Aspirador Robô,1,895.87,895.87,Bruno Lima,Loja física
+975,2026-02-25,RJ,Niterói,Eletrônicos,Fone Bluetooth,2,159.8,319.6,Ana Souza,Marketplace
+976,2026-02-25,BA,Salvador,Papelaria,Agenda 2026,2,36.91,73.82,Felipe Costa,E-commerce
+977,2026-02-26,PR,Londrina,Esporte,Tênis de Corrida,1,297.73,297.73,Carla Mendes,Loja física
+978,2026-02-26,SP,São Paulo,Eletrônicos,Smartwatch,2,402.52,805.04,Ana Souza,Marketplace
+979,2026-02-28,RJ,Niterói,Casa,Jogo de Panelas,2,253.43,506.86,Carla Mendes,Loja física
+980,2026-02-28,RS,Caxias do Sul,Esporte,Tapete de Yoga,1,75.45,75.45,Bruno Lima,Loja física
+981,2026-03-01,BA,Salvador,Esporte,Bola de Futebol,1,98.3,98.3,Felipe Costa,Loja física
+982,2026-03-02,PR,Londrina,Papelaria,Mochila Escolar,2,127.83,255.66,Carla Mendes,E-commerce
+983,2026-03-02,BA,Feira de Santana,Eletrônicos,Caixa de Som,2,216.37,432.74,Felipe Costa,Marketplace
+984,2026-03-03,RS,Caxias do Sul,Esporte,Garrafa Térmica,3,60.97,182.91,Elaine Rocha,Loja física
+985,2026-03-03,MG,Uberlândia,Casa,Liquidificador,2,176.29,352.58,Bruno Lima,E-commerce
+986,2026-03-03,MG,Belo Horizonte,Esporte,Tapete de Yoga,3,85.87,257.61,Elaine Rocha,Marketplace
+987,2026-03-04,SP,Campinas,Eletrônicos,Carregador Portátil,4,84.71,338.84,Carla Mendes,Marketplace
+988,2026-03-04,MG,Uberlândia,Esporte,Tênis de Corrida,1,300.99,300.99,Bruno Lima,Loja física
+989,2026-03-04,BA,Salvador,Esporte,Tapete de Yoga,1,79.24,79.24,Bruno Lima,E-commerce
+990,2026-03-04,SP,São Paulo,Papelaria,Kit Canetas,3,19.52,58.56,Diego Alves,Marketplace
+991,2026-03-05,RJ,Niterói,Casa,Aspirador Robô,2,839.11,1678.22,Elaine Rocha,Marketplace
+992,2026-03-05,MG,Uberlândia,Papelaria,Mochila Escolar,2,128.83,257.66,Diego Alves,Loja física
+993,2026-03-05,SP,São Paulo,Casa,Air Fryer,2,367.11,734.22,Carla Mendes,Loja física
+994,2026-03-06,SP,São Paulo,Esporte,Tapete de Yoga,1,76.98,76.98,Carla Mendes,Loja física
+995,2026-03-08,SP,Campinas,Papelaria,Kit Canetas,2,18.89,37.78,Ana Souza,Loja física
+996,2026-03-08,SP,São Paulo,Papelaria,Kit Canetas,1,20.16,20.16,Elaine Rocha,Marketplace
+997,2026-03-09,SP,São Paulo,Casa,Jogo de Panelas,1,243.36,243.36,Carla Mendes,E-commerce
+998,2026-03-10,RJ,Rio de Janeiro,Eletrônicos,Fone Bluetooth,1,147.56,147.56,Ana Souza,Loja física
+999,2026-03-10,RS,Porto Alegre,Casa,Jogo de Panelas,4,241.03,964.12,Carla Mendes,Marketplace
+1000,2026-03-11,BA,Salvador,Esporte,Tênis de Corrida,1,311.75,311.75,Diego Alves,Marketplace
+1001,2026-03-11,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,876.87,876.87,Felipe Costa,Loja física
+1002,2026-03-11,PR,Londrina,Papelaria,Agenda 2026,2,38.98,77.96,Diego Alves,E-commerce
+1003,2026-03-11,SP,São Paulo,Esporte,Tênis de Corrida,1,312.44,312.44,Diego Alves,Loja física
+1004,2026-03-12,SP,São Paulo,Papelaria,Agenda 2026,1,41.36,41.36,Ana Souza,E-commerce
+1005,2026-03-12,PR,Londrina,Casa,Air Fryer,5,405.85,2029.25,Felipe Costa,Marketplace
+1006,2026-03-13,SP,Santos,Papelaria,Agenda 2026,2,41.03,82.06,Felipe Costa,Loja física
+1007,2026-03-16,SP,Campinas,Papelaria,Agenda 2026,2,38.52,77.04,Elaine Rocha,Loja física
+1008,2026-03-16,BA,Feira de Santana,Papelaria,Mochila Escolar,1,136.72,136.72,Elaine Rocha,Loja física
+1009,2026-03-17,SP,Campinas,Casa,Jogo de Panelas,3,242.11,726.33,Ana Souza,E-commerce
+1010,2026-03-17,SP,Santos,Esporte,Tapete de Yoga,1,74.09,74.09,Elaine Rocha,Loja física
+1011,2026-03-18,SP,Santos,Esporte,Garrafa Térmica,2,57.11,114.22,Ana Souza,Loja física
+1012,2026-03-18,RJ,Niterói,Eletrônicos,Caixa de Som,3,210.38,631.14,Diego Alves,E-commerce
+1013,2026-03-19,RJ,Rio de Janeiro,Casa,Jogo de Panelas,1,269.53,269.53,Carla Mendes,Loja física
+1014,2026-03-19,BA,Feira de Santana,Papelaria,Caderno Universitário,1,25.62,25.62,Carla Mendes,Marketplace
+1015,2026-03-20,BA,Feira de Santana,Esporte,Tênis de Corrida,1,294.27,294.27,Carla Mendes,Loja física
+1016,2026-03-21,MG,Uberlândia,Eletrônicos,Fone Bluetooth,4,143.42,573.68,Felipe Costa,Marketplace
+1017,2026-03-21,RJ,Rio de Janeiro,Casa,Air Fryer,2,407.55,815.1,Ana Souza,E-commerce
+1018,2026-03-22,PR,Londrina,Casa,Jogo de Panelas,2,269.19,538.38,Diego Alves,Marketplace
+1019,2026-03-22,MG,Uberlândia,Casa,Liquidificador,1,184.58,184.58,Felipe Costa,Marketplace
+1020,2026-03-23,SP,São Paulo,Casa,Jogo de Panelas,2,273.05,546.1,Ana Souza,Marketplace
+1021,2026-03-23,SP,Santos,Esporte,Tapete de Yoga,4,82.48,329.92,Ana Souza,Loja física
+1022,2026-03-23,BA,Feira de Santana,Eletrônicos,Carregador Portátil,2,90.08,180.16,Carla Mendes,Loja física
+1023,2026-03-23,BA,Salvador,Eletrônicos,Carregador Portátil,1,93.78,93.78,Diego Alves,Loja física
+1024,2026-03-24,SP,São Paulo,Papelaria,Agenda 2026,1,38.35,38.35,Ana Souza,Marketplace
+1025,2026-03-24,SP,São Paulo,Papelaria,Agenda 2026,1,42.89,42.89,Felipe Costa,E-commerce
+1026,2026-03-24,RS,Caxias do Sul,Esporte,Tapete de Yoga,2,80.86,161.72,Felipe Costa,Loja física
+1027,2026-03-25,PR,Londrina,Esporte,Bola de Futebol,1,101.61,101.61,Ana Souza,Loja física
+1028,2026-03-25,PR,Curitiba,Esporte,Bola de Futebol,1,94.13,94.13,Carla Mendes,Marketplace
+1029,2026-03-26,SP,Santos,Papelaria,Kit Canetas,2,18.42,36.84,Elaine Rocha,Marketplace
+1030,2026-03-26,MG,Uberlândia,Casa,Liquidificador,1,175.69,175.69,Carla Mendes,Marketplace
+1031,2026-03-27,BA,Feira de Santana,Papelaria,Kit Canetas,1,19.89,19.89,Elaine Rocha,E-commerce
+1032,2026-03-27,SP,São Paulo,Casa,Aspirador Robô,1,915.7,915.7,Bruno Lima,Loja física
+1033,2026-03-27,MG,Uberlândia,Esporte,Garrafa Térmica,1,56.49,56.49,Felipe Costa,E-commerce
+1034,2026-03-27,MG,Uberlândia,Eletrônicos,Fone Bluetooth,1,149.87,149.87,Carla Mendes,Marketplace
+1035,2026-03-27,BA,Salvador,Esporte,Bola de Futebol,1,102.6,102.6,Elaine Rocha,Loja física
+1036,2026-03-27,SP,São Paulo,Eletrônicos,Smartwatch,1,369.28,369.28,Bruno Lima,Marketplace
+1037,2026-03-27,SP,Campinas,Papelaria,Mochila Escolar,2,126.76,253.52,Diego Alves,Marketplace
+1038,2026-03-28,MG,Uberlândia,Casa,Liquidificador,1,173.38,173.38,Elaine Rocha,Marketplace
+1039,2026-03-29,SP,São Paulo,Eletrônicos,Carregador Portátil,4,87.43,349.72,Carla Mendes,Marketplace
+1040,2026-03-29,PR,Curitiba,Papelaria,Kit Canetas,1,21.26,21.26,Felipe Costa,E-commerce
+1041,2026-03-30,SP,Campinas,Papelaria,Mochila Escolar,3,121.38,364.14,Bruno Lima,E-commerce
+1042,2026-03-30,MG,Uberlândia,Esporte,Bola de Futebol,3,96.27,288.81,Ana Souza,E-commerce
+1043,2026-03-30,PR,Curitiba,Casa,Air Fryer,3,403.6,1210.8,Felipe Costa,E-commerce
+1044,2026-03-31,RJ,Rio de Janeiro,Papelaria,Agenda 2026,3,38.06,114.18,Elaine Rocha,E-commerce
+1045,2026-03-31,RJ,Niterói,Eletrônicos,Caixa de Som,1,203.61,203.61,Felipe Costa,Marketplace
+1046,2026-03-31,SP,São Paulo,Casa,Liquidificador,1,174.89,174.89,Felipe Costa,E-commerce
+1047,2026-03-31,BA,Salvador,Papelaria,Caderno Universitário,1,23.08,23.08,Bruno Lima,Marketplace
+1048,2026-03-31,SP,Santos,Papelaria,Agenda 2026,1,40.47,40.47,Ana Souza,E-commerce
+1049,2026-04-01,SP,Santos,Casa,Aspirador Robô,2,917.85,1835.7,Elaine Rocha,E-commerce
+1050,2026-04-01,RS,Caxias do Sul,Papelaria,Caderno Universitário,1,25.1,25.1,Carla Mendes,Loja física
+1051,2026-04-01,RJ,Niterói,Papelaria,Caderno Universitário,4,25.76,103.04,Ana Souza,E-commerce
+1052,2026-04-02,MG,Uberlândia,Papelaria,Kit Canetas,2,20.58,41.16,Elaine Rocha,Loja física
+1053,2026-04-02,SP,Campinas,Esporte,Tapete de Yoga,1,76.4,76.4,Ana Souza,Loja física
+1054,2026-04-02,SP,Santos,Esporte,Tapete de Yoga,1,75.4,75.4,Diego Alves,Loja física
+1055,2026-04-03,BA,Salvador,Eletrônicos,Smartwatch,2,393.67,787.34,Ana Souza,Marketplace
+1056,2026-04-03,SP,Santos,Papelaria,Mochila Escolar,4,131.36,525.44,Carla Mendes,E-commerce
+1057,2026-04-03,SP,Santos,Esporte,Tênis de Corrida,5,284.36,1421.8,Felipe Costa,Loja física
+1058,2026-04-04,RJ,Rio de Janeiro,Casa,Air Fryer,2,427.59,855.18,Carla Mendes,Loja física
+1059,2026-04-05,SP,Campinas,Eletrônicos,Fone Bluetooth,2,159.92,319.84,Diego Alves,Marketplace
+1060,2026-04-06,PR,Londrina,Papelaria,Agenda 2026,2,41.18,82.36,Felipe Costa,Marketplace
+1061,2026-04-06,SP,São Paulo,Casa,Aspirador Robô,2,914.04,1828.08,Felipe Costa,Loja física
+1062,2026-04-06,RS,Porto Alegre,Papelaria,Agenda 2026,5,39.91,199.55,Diego Alves,Loja física
+1063,2026-04-06,SP,São Paulo,Esporte,Tapete de Yoga,3,73.55,220.65,Diego Alves,Marketplace
+1064,2026-04-07,RJ,Niterói,Esporte,Bola de Futebol,2,94.88,189.76,Diego Alves,Loja física
+1065,2026-04-08,SP,Campinas,Papelaria,Kit Canetas,4,18.31,73.24,Diego Alves,E-commerce
+1066,2026-04-09,SP,Santos,Papelaria,Mochila Escolar,5,123.89,619.45,Carla Mendes,Loja física
+1067,2026-04-09,RJ,Rio de Janeiro,Casa,Aspirador Robô,4,945.03,3780.12,Elaine Rocha,Loja física
+1068,2026-04-09,SP,Campinas,Eletrônicos,Fone Bluetooth,1,138.45,138.45,Ana Souza,Marketplace
+1069,2026-04-10,SP,Campinas,Casa,Air Fryer,1,413.13,413.13,Felipe Costa,Marketplace
+1070,2026-04-10,PR,Curitiba,Casa,Aspirador Robô,1,940.86,940.86,Diego Alves,Loja física
+1071,2026-04-10,SP,Campinas,Eletrônicos,Fone Bluetooth,1,149.62,149.62,Carla Mendes,Marketplace
+1072,2026-04-10,RJ,Niterói,Papelaria,Agenda 2026,5,38.96,194.8,Carla Mendes,E-commerce
+1073,2026-04-10,RS,Caxias do Sul,Esporte,Tapete de Yoga,3,76.8,230.4,Carla Mendes,Loja física
+1074,2026-04-11,SP,Santos,Esporte,Tapete de Yoga,1,82.66,82.66,Felipe Costa,Loja física
+1075,2026-04-11,RS,Porto Alegre,Papelaria,Kit Canetas,1,19.6,19.6,Ana Souza,Marketplace
+1076,2026-04-11,SP,Campinas,Casa,Air Fryer,2,372.9,745.8,Felipe Costa,E-commerce
+1077,2026-04-12,SP,São Paulo,Casa,Aspirador Robô,4,932.49,3729.96,Carla Mendes,Loja física
+1078,2026-04-13,MG,Uberlândia,Papelaria,Caderno Universitário,3,24.49,73.47,Felipe Costa,Loja física
+1079,2026-04-13,SP,Santos,Papelaria,Agenda 2026,3,40.62,121.86,Bruno Lima,E-commerce
+1080,2026-04-13,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,3,149.83,449.49,Bruno Lima,Loja física
+1081,2026-04-13,MG,Uberlândia,Esporte,Garrafa Térmica,1,60.42,60.42,Diego Alves,Loja física
+1082,2026-04-13,SP,Santos,Casa,Jogo de Panelas,1,277.84,277.84,Diego Alves,Marketplace
+1083,2026-04-14,SP,Campinas,Casa,Jogo de Panelas,1,278.96,278.96,Bruno Lima,E-commerce
+1084,2026-04-14,BA,Salvador,Papelaria,Caderno Universitário,1,25.92,25.92,Felipe Costa,Marketplace
+1085,2026-04-14,SP,São Paulo,Eletrônicos,Caixa de Som,2,224.16,448.32,Ana Souza,Loja física
+1086,2026-04-15,RS,Porto Alegre,Casa,Air Fryer,1,369.43,369.43,Felipe Costa,Loja física
+1087,2026-04-15,RS,Porto Alegre,Esporte,Tênis de Corrida,1,295.79,295.79,Elaine Rocha,Marketplace
+1088,2026-04-15,SP,Campinas,Eletrônicos,Smartwatch,1,370.35,370.35,Carla Mendes,Loja física
+1089,2026-04-15,MG,Belo Horizonte,Eletrônicos,Carregador Portátil,2,94.08,188.16,Bruno Lima,Loja física
+1090,2026-04-16,SP,São Paulo,Papelaria,Kit Canetas,1,19.87,19.87,Felipe Costa,E-commerce
+1091,2026-04-16,SP,São Paulo,Casa,Aspirador Robô,1,962.77,962.77,Carla Mendes,Loja física
+1092,2026-04-16,MG,Belo Horizonte,Papelaria,Caderno Universitário,3,25.51,76.53,Ana Souza,Loja física
+1093,2026-04-17,MG,Uberlândia,Esporte,Bola de Futebol,1,106.77,106.77,Carla Mendes,E-commerce
+1094,2026-04-17,SP,Santos,Esporte,Garrafa Térmica,1,57.13,57.13,Felipe Costa,Loja física
+1095,2026-04-17,SP,Santos,Papelaria,Mochila Escolar,2,128.36,256.72,Ana Souza,Marketplace
+1096,2026-04-17,SP,São Paulo,Esporte,Bola de Futebol,1,97.53,97.53,Elaine Rocha,Loja física
+1097,2026-04-18,BA,Feira de Santana,Papelaria,Kit Canetas,1,19.93,19.93,Felipe Costa,Loja física
+1098,2026-04-19,PR,Londrina,Eletrônicos,Carregador Portátil,2,90.83,181.66,Elaine Rocha,Marketplace
+1099,2026-04-20,PR,Curitiba,Papelaria,Caderno Universitário,5,26.27,131.35,Ana Souza,E-commerce
+1100,2026-04-20,BA,Feira de Santana,Eletrônicos,Carregador Portátil,1,82.79,82.79,Carla Mendes,E-commerce
+1101,2026-04-22,MG,Belo Horizonte,Esporte,Tênis de Corrida,2,297.77,595.54,Felipe Costa,E-commerce
+1102,2026-04-22,BA,Feira de Santana,Papelaria,Caderno Universitário,1,25.11,25.11,Bruno Lima,E-commerce
+1103,2026-04-22,MG,Uberlândia,Casa,Air Fryer,2,391.7,783.4,Elaine Rocha,Loja física
+1104,2026-04-23,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,1,76.38,76.38,Felipe Costa,Marketplace
+1105,2026-04-23,MG,Uberlândia,Casa,Jogo de Panelas,1,259.35,259.35,Carla Mendes,Loja física
+1106,2026-04-24,RJ,Niterói,Eletrônicos,Caixa de Som,2,214.85,429.7,Diego Alves,E-commerce
+1107,2026-04-24,MG,Uberlândia,Papelaria,Mochila Escolar,1,128.21,128.21,Diego Alves,Loja física
+1108,2026-04-24,SP,Campinas,Eletrônicos,Caixa de Som,1,225.62,225.62,Bruno Lima,Loja física
+1109,2026-04-25,MG,Belo Horizonte,Eletrônicos,Caixa de Som,1,231.08,231.08,Felipe Costa,Loja física
+1110,2026-04-25,MG,Uberlândia,Eletrônicos,Fone Bluetooth,1,142.23,142.23,Diego Alves,E-commerce
+1111,2026-04-25,SP,Campinas,Esporte,Bola de Futebol,2,105.22,210.44,Felipe Costa,E-commerce
+1112,2026-04-25,BA,Salvador,Papelaria,Agenda 2026,3,41.96,125.88,Ana Souza,Marketplace
+1113,2026-04-25,MG,Belo Horizonte,Papelaria,Kit Canetas,1,19.41,19.41,Bruno Lima,E-commerce
+1114,2026-04-26,RJ,Rio de Janeiro,Eletrônicos,Fone Bluetooth,3,144.05,432.15,Elaine Rocha,Marketplace
+1115,2026-04-27,PR,Curitiba,Eletrônicos,Caixa de Som,1,203.15,203.15,Ana Souza,Loja física
+1116,2026-04-27,BA,Salvador,Esporte,Tapete de Yoga,2,84.8,169.6,Felipe Costa,Marketplace
+1117,2026-04-27,SP,São Paulo,Casa,Jogo de Panelas,1,277.07,277.07,Felipe Costa,Marketplace
+1118,2026-04-28,RS,Porto Alegre,Casa,Liquidificador,2,165.92,331.84,Carla Mendes,Loja física
+1119,2026-04-28,RS,Caxias do Sul,Eletrônicos,Fone Bluetooth,1,146.02,146.02,Carla Mendes,Loja física
+1120,2026-04-29,SP,Campinas,Casa,Liquidificador,1,174.83,174.83,Diego Alves,Loja física
+1121,2026-04-29,PR,Curitiba,Casa,Jogo de Panelas,1,267.83,267.83,Diego Alves,Loja física
+1122,2026-04-29,MG,Belo Horizonte,Papelaria,Agenda 2026,3,38.13,114.39,Felipe Costa,E-commerce
+1123,2026-04-29,SP,Santos,Eletrônicos,Carregador Portátil,2,96.76,193.52,Bruno Lima,Loja física
+1124,2026-04-30,RS,Porto Alegre,Esporte,Bola de Futebol,4,98.29,393.16,Carla Mendes,E-commerce
+1125,2026-04-30,BA,Feira de Santana,Eletrônicos,Caixa de Som,1,228.21,228.21,Carla Mendes,E-commerce
+1126,2026-04-30,BA,Salvador,Esporte,Bola de Futebol,4,94.06,376.24,Felipe Costa,Marketplace
+1127,2026-05-01,PR,Curitiba,Casa,Liquidificador,2,194.08,388.16,Felipe Costa,Loja física
+1128,2026-05-01,SP,São Paulo,Eletrônicos,Caixa de Som,2,205.71,411.42,Bruno Lima,Marketplace
+1129,2026-05-01,RS,Porto Alegre,Eletrônicos,Smartwatch,3,373.59,1120.77,Carla Mendes,Marketplace
+1130,2026-05-01,RJ,Rio de Janeiro,Eletrônicos,Fone Bluetooth,1,153.37,153.37,Diego Alves,E-commerce
+1131,2026-05-01,RS,Porto Alegre,Eletrônicos,Carregador Portátil,3,87.9,263.7,Bruno Lima,E-commerce
+1132,2026-05-01,PR,Curitiba,Esporte,Garrafa Térmica,4,61.12,244.48,Elaine Rocha,E-commerce
+1133,2026-05-02,SP,São Paulo,Papelaria,Caderno Universitário,3,23.62,70.86,Ana Souza,Loja física
+1134,2026-05-02,SP,Santos,Esporte,Tapete de Yoga,1,74.7,74.7,Elaine Rocha,Loja física
+1135,2026-05-02,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,2,85.17,170.34,Ana Souza,Marketplace
+1136,2026-05-02,PR,Londrina,Eletrônicos,Fone Bluetooth,2,158.09,316.18,Ana Souza,Marketplace
+1137,2026-05-02,SP,Santos,Casa,Aspirador Robô,1,923.96,923.96,Carla Mendes,E-commerce
+1138,2026-05-02,BA,Salvador,Casa,Aspirador Robô,2,936.64,1873.28,Bruno Lima,Marketplace
+1139,2026-05-02,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,40.71,40.71,Ana Souza,Marketplace
+1140,2026-05-02,RS,Porto Alegre,Eletrônicos,Carregador Portátil,4,89.12,356.48,Elaine Rocha,Marketplace
+1141,2026-05-03,RS,Caxias do Sul,Papelaria,Kit Canetas,4,20.98,83.92,Bruno Lima,E-commerce
+1142,2026-05-03,SP,Campinas,Eletrônicos,Smartwatch,1,416.92,416.92,Bruno Lima,E-commerce
+1143,2026-05-03,RJ,Niterói,Esporte,Garrafa Térmica,3,63.32,189.96,Ana Souza,E-commerce
+1144,2026-05-03,RJ,Niterói,Casa,Jogo de Panelas,1,266.4,266.4,Elaine Rocha,Marketplace
+1145,2026-05-04,SP,São Paulo,Eletrônicos,Carregador Portátil,1,88.23,88.23,Carla Mendes,E-commerce
+1146,2026-05-04,SP,Santos,Esporte,Tapete de Yoga,1,75.86,75.86,Diego Alves,Loja física
+1147,2026-05-04,MG,Belo Horizonte,Papelaria,Kit Canetas,2,20.18,40.36,Elaine Rocha,E-commerce
+1148,2026-05-05,PR,Curitiba,Eletrônicos,Smartwatch,1,401.21,401.21,Bruno Lima,Loja física
+1149,2026-05-06,RJ,Niterói,Eletrônicos,Smartwatch,2,418.4,836.8,Diego Alves,E-commerce
+1150,2026-05-07,RJ,Niterói,Eletrônicos,Carregador Portátil,2,96.66,193.32,Diego Alves,E-commerce
+1151,2026-05-07,RJ,Niterói,Papelaria,Agenda 2026,1,40.23,40.23,Elaine Rocha,Loja física
+1152,2026-05-07,SP,Santos,Papelaria,Kit Canetas,4,20.91,83.64,Elaine Rocha,Marketplace
+1153,2026-05-09,SP,Campinas,Esporte,Tapete de Yoga,5,79.78,398.9,Elaine Rocha,E-commerce
+1154,2026-05-10,PR,Londrina,Esporte,Tapete de Yoga,2,80.94,161.88,Elaine Rocha,Marketplace
+1155,2026-05-10,RJ,Rio de Janeiro,Casa,Jogo de Panelas,1,268.08,268.08,Ana Souza,Marketplace
+1156,2026-05-11,SP,Campinas,Casa,Jogo de Panelas,1,244.49,244.49,Elaine Rocha,E-commerce
+1157,2026-05-11,SP,Campinas,Eletrônicos,Carregador Portátil,1,82.83,82.83,Carla Mendes,E-commerce
+1158,2026-05-11,RS,Porto Alegre,Casa,Aspirador Robô,1,860.41,860.41,Bruno Lima,Loja física
+1159,2026-05-13,RJ,Niterói,Eletrônicos,Smartwatch,5,381.47,1907.35,Carla Mendes,E-commerce
+1160,2026-05-13,SP,Campinas,Casa,Aspirador Robô,1,922.82,922.82,Felipe Costa,E-commerce
+1161,2026-05-13,RJ,Niterói,Casa,Jogo de Panelas,5,272.7,1363.5,Bruno Lima,Loja física
+1162,2026-05-13,SP,São Paulo,Casa,Air Fryer,3,385.96,1157.88,Elaine Rocha,Marketplace
+1163,2026-05-14,SP,Santos,Esporte,Bola de Futebol,1,92.06,92.06,Carla Mendes,Marketplace
+1164,2026-05-14,MG,Belo Horizonte,Papelaria,Kit Canetas,3,20.43,61.29,Diego Alves,E-commerce
+1165,2026-05-14,SP,Santos,Papelaria,Agenda 2026,1,41.84,41.84,Bruno Lima,Loja física
+1166,2026-05-14,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,3,140.06,420.18,Bruno Lima,Marketplace
+1167,2026-05-14,SP,Campinas,Papelaria,Caderno Universitário,2,25.98,51.96,Bruno Lima,Marketplace
+1168,2026-05-14,SP,Santos,Esporte,Tapete de Yoga,3,80.6,241.8,Bruno Lima,E-commerce
+1169,2026-05-15,SP,São Paulo,Eletrônicos,Caixa de Som,2,222.59,445.18,Carla Mendes,Marketplace
+1170,2026-05-15,PR,Londrina,Esporte,Bola de Futebol,1,100.9,100.9,Ana Souza,E-commerce
+1171,2026-05-16,BA,Feira de Santana,Eletrônicos,Caixa de Som,4,208.81,835.24,Carla Mendes,Loja física
+1172,2026-05-16,SP,Santos,Papelaria,Agenda 2026,3,40.12,120.36,Diego Alves,Loja física
+1173,2026-05-16,PR,Curitiba,Eletrônicos,Fone Bluetooth,3,159.32,477.96,Diego Alves,Marketplace
+1174,2026-05-16,MG,Belo Horizonte,Eletrônicos,Caixa de Som,2,211.94,423.88,Elaine Rocha,Loja física
+1175,2026-05-16,RJ,Niterói,Casa,Jogo de Panelas,1,258.29,258.29,Elaine Rocha,Marketplace
+1176,2026-05-17,RS,Caxias do Sul,Esporte,Garrafa Térmica,3,55.99,167.97,Felipe Costa,Loja física
+1177,2026-05-18,RS,Porto Alegre,Papelaria,Agenda 2026,3,38.5,115.5,Carla Mendes,Loja física
+1178,2026-05-19,RS,Caxias do Sul,Papelaria,Agenda 2026,2,38.84,77.68,Bruno Lima,E-commerce
+1179,2026-05-19,RS,Porto Alegre,Papelaria,Caderno Universitário,1,23.08,23.08,Elaine Rocha,E-commerce
+1180,2026-05-20,SP,Campinas,Esporte,Bola de Futebol,1,103.06,103.06,Diego Alves,E-commerce
+1181,2026-05-20,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,280.24,280.24,Bruno Lima,Loja física
+1182,2026-05-20,SP,Santos,Casa,Air Fryer,1,389.4,389.4,Carla Mendes,Loja física
+1183,2026-05-20,BA,Feira de Santana,Esporte,Tênis de Corrida,3,315.68,947.04,Elaine Rocha,Marketplace
+1184,2026-05-21,RJ,Niterói,Esporte,Tênis de Corrida,1,281.86,281.86,Carla Mendes,Marketplace
+1185,2026-05-21,SP,Santos,Esporte,Bola de Futebol,1,98.46,98.46,Elaine Rocha,Loja física
+1186,2026-05-22,RJ,Niterói,Esporte,Bola de Futebol,1,99.72,99.72,Ana Souza,Loja física
+1187,2026-05-22,BA,Salvador,Esporte,Tênis de Corrida,1,299.47,299.47,Ana Souza,E-commerce
+1188,2026-05-23,SP,São Paulo,Esporte,Tapete de Yoga,3,74.72,224.16,Carla Mendes,Marketplace
+1189,2026-05-23,SP,Santos,Eletrônicos,Caixa de Som,1,235.73,235.73,Carla Mendes,Loja física
+1190,2026-05-23,SP,Santos,Papelaria,Caderno Universitário,2,22.94,45.88,Ana Souza,E-commerce
+1191,2026-05-23,RJ,Rio de Janeiro,Papelaria,Agenda 2026,4,39.5,158.0,Diego Alves,E-commerce
+1192,2026-05-23,SP,São Paulo,Casa,Liquidificador,1,178.94,178.94,Diego Alves,Marketplace
+1193,2026-05-25,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,4,305.48,1221.92,Felipe Costa,Loja física
+1194,2026-05-25,SP,Campinas,Papelaria,Mochila Escolar,1,132.43,132.43,Ana Souza,E-commerce
+1195,2026-05-25,SP,Campinas,Eletrônicos,Smartwatch,1,385.37,385.37,Ana Souza,E-commerce
+1196,2026-05-26,RJ,Niterói,Eletrônicos,Fone Bluetooth,1,144.62,144.62,Bruno Lima,Marketplace
+1197,2026-05-26,SP,Campinas,Casa,Jogo de Panelas,1,245.82,245.82,Carla Mendes,E-commerce
+1198,2026-05-26,BA,Feira de Santana,Eletrônicos,Fone Bluetooth,2,160.58,321.16,Bruno Lima,Loja física
+1199,2026-05-26,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,280.83,280.83,Elaine Rocha,Marketplace
+1200,2026-05-27,SP,Santos,Esporte,Tapete de Yoga,2,85.49,170.98,Elaine Rocha,E-commerce
+1201,2026-05-27,MG,Uberlândia,Esporte,Bola de Futebol,3,97.53,292.59,Diego Alves,Marketplace
+1202,2026-05-28,PR,Londrina,Esporte,Bola de Futebol,4,106.7,426.8,Felipe Costa,E-commerce
+1203,2026-05-28,RS,Caxias do Sul,Papelaria,Agenda 2026,4,41.51,166.04,Ana Souza,Loja física
+1204,2026-05-28,SP,São Paulo,Esporte,Tênis de Corrida,4,290.08,1160.32,Ana Souza,Loja física
+1205,2026-05-28,SP,Campinas,Papelaria,Kit Canetas,1,20.55,20.55,Diego Alves,Marketplace
+1206,2026-05-28,SP,São Paulo,Papelaria,Kit Canetas,2,20.8,41.6,Diego Alves,Marketplace
+1207,2026-05-29,SP,Santos,Papelaria,Caderno Universitário,2,26.81,53.62,Felipe Costa,E-commerce
+1208,2026-05-30,PR,Londrina,Papelaria,Kit Canetas,1,18.33,18.33,Ana Souza,E-commerce
+1209,2026-05-30,SP,Santos,Casa,Aspirador Robô,2,967.54,1935.08,Diego Alves,E-commerce
+1210,2026-05-30,MG,Belo Horizonte,Eletrônicos,Caixa de Som,5,208.39,1041.95,Bruno Lima,Loja física
+1211,2026-05-30,MG,Belo Horizonte,Casa,Liquidificador,5,188.66,943.3,Diego Alves,Loja física
+1212,2026-05-31,PR,Curitiba,Esporte,Garrafa Térmica,2,63.75,127.5,Ana Souza,Marketplace
+1213,2026-05-31,SP,São Paulo,Papelaria,Agenda 2026,1,37.44,37.44,Elaine Rocha,Loja física
+1214,2026-05-31,SP,Santos,Eletrônicos,Carregador Portátil,5,89.3,446.5,Ana Souza,E-commerce
+1215,2026-05-31,SP,São Paulo,Eletrônicos,Caixa de Som,3,219.09,657.27,Ana Souza,E-commerce
+1216,2026-06-01,SP,Santos,Esporte,Bola de Futebol,2,104.85,209.7,Ana Souza,E-commerce
+1217,2026-06-01,MG,Belo Horizonte,Eletrônicos,Smartwatch,2,387.5,775.0,Ana Souza,Marketplace
+1218,2026-06-02,MG,Uberlândia,Casa,Aspirador Robô,1,829.93,829.93,Ana Souza,E-commerce
+1219,2026-06-03,RS,Caxias do Sul,Eletrônicos,Carregador Portátil,3,92.8,278.4,Elaine Rocha,Marketplace
+1220,2026-06-03,SP,Campinas,Casa,Liquidificador,1,175.3,175.3,Elaine Rocha,E-commerce
+1221,2026-06-03,MG,Belo Horizonte,Esporte,Bola de Futebol,5,93.59,467.95,Felipe Costa,E-commerce
+1222,2026-06-05,RS,Caxias do Sul,Casa,Air Fryer,3,417.17,1251.51,Elaine Rocha,Loja física
+1223,2026-06-06,SP,São Paulo,Papelaria,Agenda 2026,1,39.13,39.13,Elaine Rocha,Marketplace
+1224,2026-06-06,PR,Londrina,Esporte,Bola de Futebol,2,95.8,191.6,Diego Alves,Loja física
+1225,2026-06-06,SP,Santos,Papelaria,Caderno Universitário,5,23.37,116.85,Bruno Lima,Marketplace
+1226,2026-06-06,RJ,Rio de Janeiro,Eletrônicos,Smartwatch,3,396.93,1190.79,Diego Alves,Marketplace
+1227,2026-06-08,BA,Feira de Santana,Esporte,Tapete de Yoga,3,77.38,232.14,Bruno Lima,Marketplace
+1228,2026-06-08,SP,Campinas,Eletrônicos,Fone Bluetooth,1,143.92,143.92,Felipe Costa,Loja física
+1229,2026-06-08,SP,São Paulo,Papelaria,Mochila Escolar,3,130.77,392.31,Felipe Costa,E-commerce
+1230,2026-06-08,SP,Campinas,Eletrônicos,Carregador Portátil,1,97.01,97.01,Diego Alves,Loja física
+1231,2026-06-09,PR,Curitiba,Papelaria,Caderno Universitário,1,26.49,26.49,Bruno Lima,Loja física
+1232,2026-06-09,SP,Santos,Casa,Air Fryer,4,377.7,1510.8,Elaine Rocha,E-commerce
+1233,2026-06-10,BA,Feira de Santana,Eletrônicos,Caixa de Som,1,229.11,229.11,Bruno Lima,E-commerce
+1234,2026-06-10,SP,Campinas,Esporte,Tênis de Corrida,2,298.2,596.4,Carla Mendes,E-commerce
+1235,2026-06-11,SP,São Paulo,Casa,Air Fryer,1,407.1,407.1,Felipe Costa,Loja física
+1236,2026-06-11,SP,Santos,Papelaria,Mochila Escolar,4,125.14,500.56,Carla Mendes,Marketplace
+1237,2026-06-11,BA,Feira de Santana,Esporte,Garrafa Térmica,1,63.23,63.23,Bruno Lima,Loja física
+1238,2026-06-11,RS,Caxias do Sul,Casa,Jogo de Panelas,4,253.29,1013.16,Elaine Rocha,E-commerce
+1239,2026-06-12,BA,Feira de Santana,Esporte,Tapete de Yoga,2,75.14,150.28,Bruno Lima,Marketplace
+1240,2026-06-12,RS,Caxias do Sul,Eletrônicos,Caixa de Som,5,223.0,1115.0,Diego Alves,Marketplace
+1241,2026-06-12,MG,Belo Horizonte,Eletrônicos,Caixa de Som,5,230.42,1152.1,Ana Souza,Loja física
+1242,2026-06-13,BA,Feira de Santana,Eletrônicos,Smartwatch,4,374.86,1499.44,Bruno Lima,E-commerce
+1243,2026-06-14,SP,Santos,Casa,Liquidificador,4,177.96,711.84,Ana Souza,Loja física
+1244,2026-06-14,BA,Feira de Santana,Esporte,Bola de Futebol,4,92.61,370.44,Bruno Lima,E-commerce
+1245,2026-06-14,RS,Caxias do Sul,Esporte,Tênis de Corrida,1,310.58,310.58,Elaine Rocha,Marketplace
+1246,2026-06-15,MG,Belo Horizonte,Esporte,Tapete de Yoga,3,81.77,245.31,Bruno Lima,E-commerce
+1247,2026-06-15,SP,São Paulo,Casa,Jogo de Panelas,1,277.98,277.98,Elaine Rocha,E-commerce
+1248,2026-06-16,MG,Belo Horizonte,Esporte,Tapete de Yoga,3,78.51,235.53,Elaine Rocha,Marketplace
+1249,2026-06-17,SP,Campinas,Papelaria,Caderno Universitário,1,23.24,23.24,Diego Alves,E-commerce
+1250,2026-06-17,PR,Curitiba,Esporte,Tênis de Corrida,2,305.91,611.82,Ana Souza,Loja física
+1251,2026-06-17,RS,Caxias do Sul,Esporte,Bola de Futebol,2,104.01,208.02,Carla Mendes,E-commerce
+1252,2026-06-18,RS,Caxias do Sul,Casa,Liquidificador,1,190.1,190.1,Bruno Lima,Marketplace
+1253,2026-06-20,SP,São Paulo,Esporte,Garrafa Térmica,1,61.7,61.7,Carla Mendes,Loja física
+1254,2026-06-20,MG,Belo Horizonte,Casa,Liquidificador,1,190.65,190.65,Diego Alves,Loja física
+1255,2026-06-20,MG,Uberlândia,Papelaria,Mochila Escolar,3,127.56,382.68,Felipe Costa,Marketplace
+1256,2026-06-21,MG,Uberlândia,Papelaria,Agenda 2026,3,40.15,120.45,Diego Alves,E-commerce
+1257,2026-06-21,SP,Santos,Casa,Jogo de Panelas,1,260.0,260.0,Ana Souza,Marketplace
+1258,2026-06-21,SP,São Paulo,Papelaria,Mochila Escolar,1,125.06,125.06,Carla Mendes,E-commerce
+1259,2026-06-21,MG,Belo Horizonte,Eletrônicos,Carregador Portátil,1,88.07,88.07,Felipe Costa,Marketplace
+1260,2026-06-21,SP,Santos,Eletrônicos,Caixa de Som,1,218.32,218.32,Diego Alves,Marketplace
+1261,2026-06-21,SP,São Paulo,Papelaria,Agenda 2026,4,38.77,155.08,Ana Souza,Loja física
+1262,2026-06-22,SP,São Paulo,Eletrônicos,Carregador Portátil,1,95.61,95.61,Ana Souza,Loja física
+1263,2026-06-22,SP,Campinas,Esporte,Garrafa Térmica,1,57.98,57.98,Elaine Rocha,E-commerce
+1264,2026-06-23,SP,São Paulo,Esporte,Bola de Futebol,2,104.34,208.68,Ana Souza,E-commerce
+1265,2026-06-23,SP,Santos,Eletrônicos,Caixa de Som,1,229.82,229.82,Elaine Rocha,E-commerce
+1266,2026-06-23,RS,Porto Alegre,Casa,Aspirador Robô,5,952.35,4761.75,Ana Souza,E-commerce
+1267,2026-06-24,RJ,Niterói,Casa,Liquidificador,1,175.32,175.32,Carla Mendes,Loja física
+1268,2026-06-24,SP,Santos,Esporte,Tapete de Yoga,1,73.74,73.74,Bruno Lima,E-commerce
+1269,2026-06-24,SP,Campinas,Casa,Aspirador Robô,1,849.27,849.27,Felipe Costa,Marketplace
+1270,2026-06-25,RS,Caxias do Sul,Esporte,Bola de Futebol,1,101.29,101.29,Diego Alves,Marketplace
+1271,2026-06-26,MG,Belo Horizonte,Papelaria,Kit Canetas,1,20.17,20.17,Ana Souza,Loja física
+1272,2026-06-27,PR,Londrina,Eletrônicos,Caixa de Som,4,230.67,922.68,Ana Souza,Loja física
+1273,2026-06-27,MG,Uberlândia,Eletrônicos,Fone Bluetooth,5,153.41,767.05,Bruno Lima,Loja física
+1274,2026-06-27,SP,São Paulo,Papelaria,Kit Canetas,1,19.36,19.36,Diego Alves,E-commerce
+1275,2026-06-28,SP,Campinas,Esporte,Tapete de Yoga,1,75.52,75.52,Carla Mendes,Marketplace
+1276,2026-06-28,MG,Belo Horizonte,Papelaria,Kit Canetas,2,21.09,42.18,Diego Alves,Marketplace
+1277,2026-06-29,MG,Uberlândia,Esporte,Tapete de Yoga,4,83.73,334.92,Ana Souza,Loja física
+1278,2026-06-30,MG,Uberlândia,Eletrônicos,Caixa de Som,4,224.86,899.44,Ana Souza,E-commerce
+1279,2026-06-30,SP,Campinas,Papelaria,Agenda 2026,1,42.95,42.95,Ana Souza,Marketplace
+1280,2026-07-01,SP,Santos,Esporte,Tapete de Yoga,1,85.78,85.78,Felipe Costa,Marketplace
+1281,2026-07-01,RJ,Niterói,Papelaria,Mochila Escolar,2,132.11,264.22,Felipe Costa,Loja física
+1282,2026-07-01,PR,Londrina,Esporte,Tênis de Corrida,1,289.97,289.97,Felipe Costa,Loja física
+1283,2026-07-01,BA,Salvador,Papelaria,Mochila Escolar,3,125.42,376.26,Felipe Costa,Marketplace
+1284,2026-07-01,PR,Londrina,Papelaria,Mochila Escolar,2,131.19,262.38,Diego Alves,Loja física
+1285,2026-07-02,SP,Santos,Papelaria,Mochila Escolar,4,126.25,505.0,Elaine Rocha,E-commerce
+1286,2026-07-03,MG,Uberlândia,Casa,Aspirador Robô,1,870.07,870.07,Felipe Costa,Loja física
+1287,2026-07-04,RJ,Rio de Janeiro,Eletrônicos,Caixa de Som,4,218.38,873.52,Bruno Lima,Marketplace
+1288,2026-07-04,MG,Belo Horizonte,Casa,Air Fryer,1,371.97,371.97,Bruno Lima,E-commerce
+1289,2026-07-04,PR,Curitiba,Papelaria,Caderno Universitário,5,25.3,126.5,Felipe Costa,E-commerce
+1290,2026-07-05,SP,Santos,Eletrônicos,Caixa de Som,2,220.47,440.94,Ana Souza,Loja física
+1291,2026-07-05,SP,Santos,Eletrônicos,Fone Bluetooth,1,147.4,147.4,Ana Souza,Marketplace
+1292,2026-07-05,MG,Uberlândia,Eletrônicos,Carregador Portátil,4,83.84,335.36,Bruno Lima,Marketplace
+1293,2026-07-05,SP,Santos,Papelaria,Agenda 2026,5,40.69,203.45,Felipe Costa,Marketplace
+1294,2026-07-05,SP,Santos,Eletrônicos,Fone Bluetooth,1,160.02,160.02,Carla Mendes,Marketplace
+1295,2026-07-05,SP,Campinas,Casa,Jogo de Panelas,4,275.74,1102.96,Carla Mendes,E-commerce
+1296,2026-07-05,PR,Curitiba,Casa,Aspirador Robô,1,868.63,868.63,Diego Alves,Marketplace
+1297,2026-07-06,PR,Curitiba,Esporte,Garrafa Térmica,1,57.72,57.72,Diego Alves,E-commerce
+1298,2026-07-06,BA,Salvador,Eletrônicos,Smartwatch,2,371.15,742.3,Carla Mendes,Marketplace
+1299,2026-07-07,SP,Campinas,Casa,Air Fryer,2,416.95,833.9,Ana Souza,Loja física
+1300,2026-07-08,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,2,315.91,631.82,Carla Mendes,Loja física
+1301,2026-07-08,SP,Santos,Casa,Air Fryer,5,399.05,1995.25,Ana Souza,Loja física
+1302,2026-07-09,RS,Caxias do Sul,Papelaria,Agenda 2026,2,39.54,79.08,Carla Mendes,Loja física
+1303,2026-07-09,SP,Campinas,Eletrônicos,Smartwatch,1,371.19,371.19,Bruno Lima,Loja física
+1304,2026-07-09,SP,Campinas,Eletrônicos,Smartwatch,2,404.09,808.18,Bruno Lima,Marketplace
+1305,2026-07-09,MG,Belo Horizonte,Eletrônicos,Smartwatch,1,364.29,364.29,Bruno Lima,E-commerce
+1306,2026-07-10,SP,Campinas,Eletrônicos,Fone Bluetooth,2,151.92,303.84,Elaine Rocha,Loja física
+1307,2026-07-12,BA,Feira de Santana,Casa,Jogo de Panelas,1,276.96,276.96,Carla Mendes,E-commerce
+1308,2026-07-13,SP,Campinas,Eletrônicos,Smartwatch,2,390.65,781.3,Elaine Rocha,Marketplace
+1309,2026-07-14,RS,Caxias do Sul,Papelaria,Agenda 2026,5,42.43,212.15,Elaine Rocha,Marketplace
+1310,2026-07-14,SP,Campinas,Eletrônicos,Smartwatch,5,376.41,1882.05,Diego Alves,E-commerce
+1311,2026-07-14,PR,Curitiba,Casa,Air Fryer,1,426.6,426.6,Elaine Rocha,E-commerce
+1312,2026-07-14,RJ,Rio de Janeiro,Eletrônicos,Fone Bluetooth,2,160.58,321.16,Ana Souza,E-commerce
+1313,2026-07-14,SP,Campinas,Papelaria,Agenda 2026,1,36.87,36.87,Felipe Costa,Loja física
+1314,2026-07-15,SP,São Paulo,Esporte,Bola de Futebol,2,101.07,202.14,Carla Mendes,E-commerce
+1315,2026-07-15,RS,Caxias do Sul,Casa,Jogo de Panelas,4,247.91,991.64,Elaine Rocha,Loja física
+1316,2026-07-16,SP,Campinas,Esporte,Tapete de Yoga,1,83.19,83.19,Elaine Rocha,Marketplace
+1317,2026-07-16,SP,Campinas,Esporte,Tênis de Corrida,3,292.26,876.78,Elaine Rocha,E-commerce
+1318,2026-07-16,SP,Campinas,Esporte,Tapete de Yoga,1,78.19,78.19,Bruno Lima,E-commerce
+1319,2026-07-16,RJ,Rio de Janeiro,Esporte,Tapete de Yoga,1,76.51,76.51,Ana Souza,Loja física
+1320,2026-07-17,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,1,23.91,23.91,Elaine Rocha,E-commerce
+1321,2026-07-17,RS,Porto Alegre,Casa,Air Fryer,2,400.63,801.26,Carla Mendes,Loja física
+1322,2026-07-17,SP,Santos,Papelaria,Mochila Escolar,1,139.53,139.53,Elaine Rocha,Loja física
+1323,2026-07-18,SP,Santos,Eletrônicos,Fone Bluetooth,3,160.13,480.39,Bruno Lima,E-commerce
+1324,2026-07-18,SP,Campinas,Eletrônicos,Smartwatch,1,365.44,365.44,Bruno Lima,Loja física
+1325,2026-07-18,MG,Uberlândia,Casa,Air Fryer,3,396.39,1189.17,Diego Alves,Loja física
+1326,2026-07-19,SP,São Paulo,Esporte,Garrafa Térmica,1,59.38,59.38,Ana Souza,Marketplace
+1327,2026-07-19,SP,São Paulo,Papelaria,Caderno Universitário,1,24.04,24.04,Bruno Lima,Marketplace
+1328,2026-07-19,SP,São Paulo,Casa,Jogo de Panelas,2,242.64,485.28,Ana Souza,Marketplace
+1329,2026-07-19,MG,Uberlândia,Esporte,Bola de Futebol,1,100.1,100.1,Bruno Lima,E-commerce
+1330,2026-07-20,SP,Campinas,Papelaria,Kit Canetas,1,20.63,20.63,Elaine Rocha,E-commerce
+1331,2026-07-20,RJ,Rio de Janeiro,Casa,Aspirador Robô,4,880.17,3520.68,Bruno Lima,E-commerce
+1332,2026-07-20,SP,Campinas,Esporte,Bola de Futebol,1,100.44,100.44,Carla Mendes,E-commerce
+1333,2026-07-20,SP,Santos,Papelaria,Kit Canetas,3,20.28,60.84,Diego Alves,Loja física
+1334,2026-07-21,SP,Santos,Papelaria,Agenda 2026,2,39.41,78.82,Elaine Rocha,E-commerce
+1335,2026-07-21,RJ,Niterói,Eletrônicos,Caixa de Som,4,224.6,898.4,Ana Souza,E-commerce
+1336,2026-07-21,RS,Caxias do Sul,Casa,Liquidificador,1,186.53,186.53,Diego Alves,Marketplace
+1337,2026-07-21,SP,Campinas,Casa,Air Fryer,1,373.03,373.03,Felipe Costa,Marketplace
+1338,2026-07-22,RS,Porto Alegre,Casa,Liquidificador,1,174.28,174.28,Ana Souza,Marketplace
+1339,2026-07-23,RS,Porto Alegre,Casa,Jogo de Panelas,2,276.42,552.84,Ana Souza,Marketplace
+1340,2026-07-24,RS,Caxias do Sul,Casa,Jogo de Panelas,4,275.87,1103.48,Felipe Costa,E-commerce
+1341,2026-07-25,SP,Campinas,Eletrônicos,Smartwatch,3,409.03,1227.09,Diego Alves,E-commerce
+1342,2026-07-25,RJ,Niterói,Eletrônicos,Smartwatch,1,405.94,405.94,Felipe Costa,Marketplace
+1343,2026-07-26,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,41.19,41.19,Ana Souza,Loja física
+1344,2026-07-27,RS,Porto Alegre,Casa,Aspirador Robô,1,851.46,851.46,Carla Mendes,E-commerce
+1345,2026-07-27,MG,Belo Horizonte,Esporte,Bola de Futebol,2,96.91,193.82,Diego Alves,Loja física
+1346,2026-07-28,MG,Uberlândia,Papelaria,Caderno Universitário,1,24.55,24.55,Felipe Costa,Marketplace
+1347,2026-07-29,MG,Belo Horizonte,Casa,Air Fryer,2,428.19,856.38,Diego Alves,Marketplace
+1348,2026-07-29,RJ,Niterói,Eletrônicos,Smartwatch,1,388.23,388.23,Elaine Rocha,E-commerce
+1349,2026-07-29,MG,Uberlândia,Esporte,Tênis de Corrida,2,304.78,609.56,Felipe Costa,Loja física
+1350,2026-07-30,RS,Caxias do Sul,Casa,Liquidificador,1,172.97,172.97,Ana Souza,Loja física
+1351,2026-07-31,BA,Salvador,Papelaria,Mochila Escolar,1,129.46,129.46,Elaine Rocha,Marketplace
+1352,2026-07-31,BA,Salvador,Papelaria,Kit Canetas,5,20.52,102.6,Bruno Lima,E-commerce
+1353,2026-07-31,SP,Santos,Casa,Jogo de Panelas,2,271.75,543.5,Diego Alves,Loja física
+1354,2026-08-01,SP,Santos,Casa,Liquidificador,3,170.24,510.72,Diego Alves,Loja física
+1355,2026-08-01,PR,Curitiba,Esporte,Tapete de Yoga,1,81.07,81.07,Bruno Lima,Marketplace
+1356,2026-08-01,SP,Santos,Esporte,Tapete de Yoga,3,80.87,242.61,Elaine Rocha,E-commerce
+1357,2026-08-01,SP,Santos,Casa,Air Fryer,1,427.92,427.92,Felipe Costa,Loja física
+1358,2026-08-02,SP,Santos,Eletrônicos,Smartwatch,3,407.58,1222.74,Ana Souza,Marketplace
+1359,2026-08-02,SP,São Paulo,Casa,Jogo de Panelas,1,275.85,275.85,Carla Mendes,E-commerce
+1360,2026-08-03,BA,Salvador,Casa,Liquidificador,2,170.66,341.32,Diego Alves,E-commerce
+1361,2026-08-03,RS,Porto Alegre,Eletrônicos,Fone Bluetooth,1,142.29,142.29,Carla Mendes,Marketplace
+1362,2026-08-03,BA,Feira de Santana,Eletrônicos,Fone Bluetooth,3,140.3,420.9,Diego Alves,Loja física
+1363,2026-08-03,BA,Salvador,Esporte,Garrafa Térmica,1,58.97,58.97,Elaine Rocha,E-commerce
+1364,2026-08-03,PR,Curitiba,Casa,Jogo de Panelas,1,258.34,258.34,Felipe Costa,Marketplace
+1365,2026-08-04,MG,Uberlândia,Eletrônicos,Fone Bluetooth,4,141.33,565.32,Elaine Rocha,Loja física
+1366,2026-08-04,SP,Campinas,Papelaria,Agenda 2026,3,38.47,115.41,Elaine Rocha,Loja física
+1367,2026-08-04,MG,Uberlândia,Casa,Liquidificador,3,187.24,561.72,Ana Souza,E-commerce
+1368,2026-08-05,PR,Curitiba,Papelaria,Caderno Universitário,1,26.77,26.77,Bruno Lima,E-commerce
+1369,2026-08-05,SP,Santos,Esporte,Tênis de Corrida,1,320.84,320.84,Diego Alves,E-commerce
+1370,2026-08-06,SP,São Paulo,Papelaria,Mochila Escolar,2,136.1,272.2,Elaine Rocha,Marketplace
+1371,2026-08-06,MG,Belo Horizonte,Papelaria,Caderno Universitário,4,25.87,103.48,Felipe Costa,E-commerce
+1372,2026-08-06,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,276.71,276.71,Carla Mendes,Loja física
+1373,2026-08-06,RJ,Rio de Janeiro,Casa,Liquidificador,1,167.39,167.39,Ana Souza,Loja física
+1374,2026-08-07,SP,São Paulo,Casa,Aspirador Robô,2,952.82,1905.64,Carla Mendes,E-commerce
+1375,2026-08-07,BA,Salvador,Casa,Aspirador Robô,2,924.04,1848.08,Elaine Rocha,E-commerce
+1376,2026-08-08,MG,Belo Horizonte,Esporte,Bola de Futebol,1,94.95,94.95,Diego Alves,E-commerce
+1377,2026-08-08,SP,Campinas,Casa,Air Fryer,1,390.97,390.97,Diego Alves,E-commerce
+1378,2026-08-09,SP,Santos,Eletrônicos,Caixa de Som,2,220.03,440.06,Carla Mendes,E-commerce
+1379,2026-08-09,PR,Curitiba,Casa,Aspirador Robô,1,941.69,941.69,Felipe Costa,Marketplace
+1380,2026-08-09,MG,Belo Horizonte,Casa,Jogo de Panelas,2,255.87,511.74,Felipe Costa,Marketplace
+1381,2026-08-10,PR,Londrina,Casa,Jogo de Panelas,4,270.24,1080.96,Diego Alves,Marketplace
+1382,2026-08-11,SP,Santos,Eletrônicos,Smartwatch,3,383.89,1151.67,Ana Souza,E-commerce
+1383,2026-08-11,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,1,155.26,155.26,Carla Mendes,Marketplace
+1384,2026-08-11,SP,Campinas,Esporte,Tapete de Yoga,1,75.86,75.86,Diego Alves,Loja física
+1385,2026-08-12,MG,Uberlândia,Eletrônicos,Fone Bluetooth,2,152.47,304.94,Elaine Rocha,E-commerce
+1386,2026-08-12,SP,Santos,Papelaria,Agenda 2026,2,39.27,78.54,Elaine Rocha,E-commerce
+1387,2026-08-12,RJ,Niterói,Eletrônicos,Caixa de Som,2,225.31,450.62,Diego Alves,Loja física
+1388,2026-08-13,SP,São Paulo,Papelaria,Agenda 2026,2,41.91,83.82,Ana Souza,E-commerce
+1389,2026-08-13,MG,Uberlândia,Esporte,Garrafa Térmica,2,55.84,111.68,Felipe Costa,Loja física
+1390,2026-08-14,SP,São Paulo,Casa,Jogo de Panelas,1,246.66,246.66,Elaine Rocha,Loja física
+1391,2026-08-14,RS,Caxias do Sul,Papelaria,Caderno Universitário,1,24.11,24.11,Ana Souza,Marketplace
+1392,2026-08-15,RS,Caxias do Sul,Casa,Aspirador Robô,2,880.28,1760.56,Felipe Costa,E-commerce
+1393,2026-08-16,SP,Campinas,Papelaria,Caderno Universitário,1,25.06,25.06,Ana Souza,E-commerce
+1394,2026-08-16,RS,Porto Alegre,Eletrônicos,Fone Bluetooth,2,156.4,312.8,Diego Alves,E-commerce
+1395,2026-08-16,SP,Campinas,Papelaria,Caderno Universitário,2,25.16,50.32,Diego Alves,Loja física
+1396,2026-08-17,SP,São Paulo,Eletrônicos,Smartwatch,1,390.13,390.13,Diego Alves,E-commerce
+1397,2026-08-17,SP,Santos,Casa,Air Fryer,1,393.75,393.75,Diego Alves,Marketplace
+1398,2026-08-17,RJ,Niterói,Papelaria,Mochila Escolar,3,127.49,382.47,Bruno Lima,Loja física
+1399,2026-08-17,SP,São Paulo,Casa,Air Fryer,2,373.41,746.82,Ana Souza,Marketplace
+1400,2026-08-18,BA,Salvador,Casa,Jogo de Panelas,1,253.78,253.78,Felipe Costa,E-commerce
+1401,2026-08-19,SP,Campinas,Esporte,Garrafa Térmica,1,58.53,58.53,Carla Mendes,E-commerce
+1402,2026-08-20,SP,Campinas,Papelaria,Caderno Universitário,2,25.18,50.36,Bruno Lima,Marketplace
+1403,2026-08-21,SP,São Paulo,Papelaria,Agenda 2026,3,40.52,121.56,Felipe Costa,E-commerce
+1404,2026-08-22,BA,Salvador,Papelaria,Agenda 2026,1,41.24,41.24,Bruno Lima,E-commerce
+1405,2026-08-22,MG,Uberlândia,Eletrônicos,Fone Bluetooth,2,138.62,277.24,Bruno Lima,Loja física
+1406,2026-08-22,RS,Porto Alegre,Esporte,Bola de Futebol,1,92.0,92.0,Diego Alves,E-commerce
+1407,2026-08-24,RS,Porto Alegre,Casa,Aspirador Robô,1,850.93,850.93,Felipe Costa,E-commerce
+1408,2026-08-25,SP,Santos,Papelaria,Kit Canetas,1,19.35,19.35,Carla Mendes,Loja física
+1409,2026-08-25,SP,Santos,Esporte,Tênis de Corrida,2,290.27,580.54,Elaine Rocha,E-commerce
+1410,2026-08-25,SP,Campinas,Papelaria,Agenda 2026,1,42.1,42.1,Diego Alves,E-commerce
+1411,2026-08-26,SP,São Paulo,Casa,Jogo de Panelas,1,259.62,259.62,Elaine Rocha,Marketplace
+1412,2026-08-26,SP,Campinas,Esporte,Garrafa Térmica,1,64.35,64.35,Felipe Costa,Loja física
+1413,2026-08-27,BA,Feira de Santana,Eletrônicos,Carregador Portátil,2,93.56,187.12,Diego Alves,Marketplace
+1414,2026-08-27,MG,Belo Horizonte,Esporte,Tênis de Corrida,2,302.04,604.08,Carla Mendes,Loja física
+1415,2026-08-27,SP,São Paulo,Eletrônicos,Caixa de Som,2,210.94,421.88,Felipe Costa,E-commerce
+1416,2026-08-27,RJ,Niterói,Papelaria,Kit Canetas,2,18.44,36.88,Carla Mendes,Marketplace
+1417,2026-08-27,BA,Salvador,Esporte,Garrafa Térmica,3,57.55,172.65,Ana Souza,E-commerce
+1418,2026-08-29,SP,Santos,Eletrônicos,Carregador Portátil,1,89.35,89.35,Carla Mendes,E-commerce
+1419,2026-08-30,RJ,Rio de Janeiro,Casa,Liquidificador,2,173.52,347.04,Ana Souza,Marketplace
+1420,2026-08-31,BA,Feira de Santana,Esporte,Garrafa Térmica,2,57.08,114.16,Elaine Rocha,E-commerce
+1421,2026-08-31,RJ,Rio de Janeiro,Esporte,Bola de Futebol,5,95.9,479.5,Elaine Rocha,E-commerce
+1422,2026-08-31,BA,Feira de Santana,Casa,Air Fryer,1,393.54,393.54,Diego Alves,Marketplace
+1423,2026-08-31,MG,Uberlândia,Esporte,Tapete de Yoga,4,80.76,323.04,Carla Mendes,Loja física
+1424,2026-08-31,SP,Santos,Casa,Jogo de Panelas,5,275.98,1379.9,Elaine Rocha,Loja física
+1425,2026-09-01,RS,Caxias do Sul,Eletrônicos,Caixa de Som,1,235.47,235.47,Diego Alves,Loja física
+1426,2026-09-01,MG,Uberlândia,Esporte,Bola de Futebol,1,105.87,105.87,Bruno Lima,Marketplace
+1427,2026-09-02,RJ,Rio de Janeiro,Papelaria,Agenda 2026,1,39.67,39.67,Diego Alves,Marketplace
+1428,2026-09-02,MG,Belo Horizonte,Esporte,Tênis de Corrida,4,313.34,1253.36,Carla Mendes,E-commerce
+1429,2026-09-03,SP,São Paulo,Casa,Liquidificador,1,187.22,187.22,Ana Souza,E-commerce
+1430,2026-09-04,SP,Santos,Esporte,Tapete de Yoga,1,83.79,83.79,Bruno Lima,E-commerce
+1431,2026-09-04,SP,Santos,Papelaria,Agenda 2026,2,41.75,83.5,Ana Souza,Marketplace
+1432,2026-09-04,SP,Santos,Casa,Jogo de Panelas,3,266.72,800.16,Felipe Costa,Marketplace
+1433,2026-09-04,MG,Uberlândia,Esporte,Tênis de Corrida,1,289.91,289.91,Ana Souza,Marketplace
+1434,2026-09-05,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,310.46,310.46,Felipe Costa,Loja física
+1435,2026-09-05,SP,Santos,Esporte,Tapete de Yoga,1,84.28,84.28,Elaine Rocha,E-commerce
+1436,2026-09-05,MG,Belo Horizonte,Casa,Air Fryer,1,392.76,392.76,Bruno Lima,Loja física
+1437,2026-09-05,BA,Feira de Santana,Papelaria,Kit Canetas,2,18.33,36.66,Ana Souza,Marketplace
+1438,2026-09-06,PR,Curitiba,Casa,Liquidificador,1,179.9,179.9,Carla Mendes,E-commerce
+1439,2026-09-06,RJ,Rio de Janeiro,Eletrônicos,Carregador Portátil,3,93.82,281.46,Carla Mendes,Marketplace
+1440,2026-09-06,RS,Porto Alegre,Papelaria,Caderno Universitário,2,23.77,47.54,Diego Alves,E-commerce
+1441,2026-09-06,BA,Salvador,Esporte,Bola de Futebol,2,98.65,197.3,Carla Mendes,Marketplace
+1442,2026-09-07,SP,São Paulo,Esporte,Garrafa Térmica,1,60.43,60.43,Elaine Rocha,Marketplace
+1443,2026-09-07,RJ,Rio de Janeiro,Papelaria,Caderno Universitário,1,23.68,23.68,Ana Souza,Marketplace
+1444,2026-09-07,MG,Uberlândia,Esporte,Bola de Futebol,4,107.56,430.24,Bruno Lima,E-commerce
+1445,2026-09-07,RJ,Niterói,Casa,Air Fryer,5,408.92,2044.6,Carla Mendes,E-commerce
+1446,2026-09-09,SP,São Paulo,Esporte,Tapete de Yoga,4,82.09,328.36,Diego Alves,Marketplace
+1447,2026-09-09,SP,Santos,Casa,Liquidificador,4,185.79,743.16,Ana Souza,Marketplace
+1448,2026-09-09,SP,São Paulo,Casa,Jogo de Panelas,1,240.32,240.32,Felipe Costa,E-commerce
+1449,2026-09-10,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,899.03,899.03,Elaine Rocha,E-commerce
+1450,2026-09-10,SP,Campinas,Casa,Air Fryer,5,412.48,2062.4,Diego Alves,Marketplace
+1451,2026-09-10,RS,Caxias do Sul,Esporte,Garrafa Térmica,1,64.2,64.2,Diego Alves,Loja física
+1452,2026-09-10,BA,Feira de Santana,Eletrônicos,Smartwatch,1,414.94,414.94,Felipe Costa,Marketplace
+1453,2026-09-11,SP,São Paulo,Esporte,Tênis de Corrida,1,322.6,322.6,Elaine Rocha,E-commerce
+1454,2026-09-11,PR,Curitiba,Eletrônicos,Caixa de Som,2,231.61,463.22,Diego Alves,Marketplace
+1455,2026-09-11,MG,Uberlândia,Casa,Jogo de Panelas,2,250.29,500.58,Diego Alves,Loja física
+1456,2026-09-11,SP,São Paulo,Casa,Air Fryer,2,430.89,861.78,Carla Mendes,Marketplace
+1457,2026-09-12,RJ,Rio de Janeiro,Casa,Aspirador Robô,1,892.03,892.03,Carla Mendes,E-commerce
+1458,2026-09-12,BA,Feira de Santana,Esporte,Bola de Futebol,1,99.3,99.3,Ana Souza,E-commerce
+1459,2026-09-12,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,1,313.36,313.36,Carla Mendes,Marketplace
+1460,2026-09-12,BA,Salvador,Papelaria,Kit Canetas,2,20.98,41.96,Diego Alves,Marketplace
+1461,2026-09-12,SP,São Paulo,Papelaria,Agenda 2026,5,39.13,195.65,Bruno Lima,Loja física
+1462,2026-09-13,RJ,Niterói,Casa,Aspirador Robô,4,855.23,3420.92,Ana Souza,Loja física
+1463,2026-09-16,RJ,Rio de Janeiro,Papelaria,Kit Canetas,1,19.27,19.27,Diego Alves,Marketplace
+1464,2026-09-16,SP,Campinas,Eletrônicos,Smartwatch,4,403.52,1614.08,Bruno Lima,Marketplace
+1465,2026-09-17,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,139.24,139.24,Carla Mendes,Loja física
+1466,2026-09-17,SP,São Paulo,Esporte,Tapete de Yoga,1,81.81,81.81,Ana Souza,Loja física
+1467,2026-09-18,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,1,141.91,141.91,Bruno Lima,E-commerce
+1468,2026-09-18,MG,Belo Horizonte,Eletrônicos,Fone Bluetooth,1,151.32,151.32,Diego Alves,E-commerce
+1469,2026-09-18,BA,Feira de Santana,Esporte,Tapete de Yoga,2,74.62,149.24,Bruno Lima,Loja física
+1470,2026-09-18,SP,São Paulo,Esporte,Tapete de Yoga,1,83.67,83.67,Carla Mendes,Loja física
+1471,2026-09-19,RS,Porto Alegre,Casa,Liquidificador,5,181.65,908.25,Diego Alves,Marketplace
+1472,2026-09-20,MG,Belo Horizonte,Eletrônicos,Caixa de Som,1,207.24,207.24,Bruno Lima,Loja física
+1473,2026-09-20,PR,Londrina,Papelaria,Kit Canetas,2,21.25,42.5,Ana Souza,Loja física
+1474,2026-09-20,MG,Belo Horizonte,Eletrônicos,Smartwatch,1,379.27,379.27,Felipe Costa,E-commerce
+1475,2026-09-20,RJ,Rio de Janeiro,Eletrônicos,Carregador Portátil,1,93.29,93.29,Felipe Costa,E-commerce
+1476,2026-09-20,SP,Campinas,Esporte,Bola de Futebol,5,105.47,527.35,Ana Souza,E-commerce
+1477,2026-09-21,MG,Belo Horizonte,Esporte,Bola de Futebol,1,106.55,106.55,Bruno Lima,Loja física
+1478,2026-09-21,PR,Londrina,Papelaria,Kit Canetas,2,21.19,42.38,Carla Mendes,Marketplace
+1479,2026-09-22,SP,São Paulo,Esporte,Tênis de Corrida,4,291.42,1165.68,Ana Souza,Loja física
+1480,2026-09-22,RJ,Niterói,Esporte,Bola de Futebol,1,107.34,107.34,Ana Souza,Marketplace
+1481,2026-09-23,RS,Caxias do Sul,Eletrônicos,Carregador Portátil,3,87.74,263.22,Bruno Lima,Loja física
+1482,2026-09-23,MG,Uberlândia,Casa,Liquidificador,1,165.58,165.58,Bruno Lima,Loja física
+1483,2026-09-23,RJ,Rio de Janeiro,Papelaria,Mochila Escolar,1,123.45,123.45,Elaine Rocha,E-commerce
+1484,2026-09-24,SP,São Paulo,Esporte,Bola de Futebol,2,100.3,200.6,Bruno Lima,Loja física
+1485,2026-09-25,SP,São Paulo,Eletrônicos,Fone Bluetooth,5,141.24,706.2,Felipe Costa,Marketplace
+1486,2026-09-25,MG,Uberlândia,Esporte,Tênis de Corrida,2,276.23,552.46,Ana Souza,Loja física
+1487,2026-09-26,BA,Feira de Santana,Casa,Air Fryer,1,370.01,370.01,Carla Mendes,Loja física
+1488,2026-09-26,BA,Salvador,Eletrônicos,Caixa de Som,1,217.35,217.35,Ana Souza,Marketplace
+1489,2026-09-26,SP,São Paulo,Eletrônicos,Fone Bluetooth,1,144.34,144.34,Felipe Costa,Loja física
+1490,2026-09-26,SP,Santos,Eletrônicos,Caixa de Som,1,235.57,235.57,Bruno Lima,Loja física
+1491,2026-09-26,MG,Uberlândia,Esporte,Garrafa Térmica,1,63.55,63.55,Elaine Rocha,E-commerce
+1492,2026-09-26,SP,Santos,Esporte,Garrafa Térmica,1,60.22,60.22,Bruno Lima,Loja física
+1493,2026-09-27,SP,Santos,Eletrônicos,Caixa de Som,2,220.51,441.02,Ana Souza,Loja física
+1494,2026-09-27,RJ,Niterói,Casa,Aspirador Robô,1,954.01,954.01,Ana Souza,Loja física
+1495,2026-09-28,SP,Campinas,Esporte,Tapete de Yoga,3,79.01,237.03,Felipe Costa,Marketplace
+1496,2026-09-28,RJ,Rio de Janeiro,Casa,Air Fryer,1,370.94,370.94,Diego Alves,Marketplace
+1497,2026-09-29,MG,Belo Horizonte,Papelaria,Caderno Universitário,2,23.63,47.26,Carla Mendes,E-commerce
+1498,2026-09-30,RJ,Rio de Janeiro,Esporte,Tênis de Corrida,2,306.23,612.46,Felipe Costa,Loja física
+1499,2026-09-30,PR,Curitiba,Esporte,Bola de Futebol,2,105.58,211.16,Ana Souza,Marketplace
+1500,2026-09-30,MG,Belo Horizonte,Esporte,Tênis de Corrida,2,300.46,600.92,Carla Mendes,Loja física
